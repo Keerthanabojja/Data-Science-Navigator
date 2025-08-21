@@ -1,0 +1,242 @@
+[
+  {
+    "text": "C++ & java",
+    "label": "ORG"
+  },
+  {
+    "text": "7",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "Oracle",
+    "label": "PERSON"
+  },
+  {
+    "text": "PostgreSQL Markup & Scripting",
+    "label": "ORG"
+  },
+  {
+    "text": "HTML",
+    "label": "ORG"
+  },
+  {
+    "text": "JavaScript & PHP",
+    "label": "ORG"
+  },
+  {
+    "text": "CSS",
+    "label": "ORG"
+  },
+  {
+    "text": "JQuery",
+    "label": "ORG"
+  },
+  {
+    "text": "Hibernate",
+    "label": "PERSON"
+  },
+  {
+    "text": "MVC",
+    "label": "ORG"
+  },
+  {
+    "text": "4 months",
+    "label": "DATE"
+  },
+  {
+    "text": "Place - Ranchi",
+    "label": "ORG"
+  },
+  {
+    "text": "IP",
+    "label": "ORG"
+  },
+  {
+    "text": "MAC",
+    "label": "ORG"
+  },
+  {
+    "text": "Lease Line",
+    "label": "PERSON"
+  },
+  {
+    "text": "OSI Layers",
+    "label": "ORG"
+  },
+  {
+    "text": "Blockchain Engineer - Auxledger",
+    "label": "PERSON"
+  },
+  {
+    "text": "Exprience",
+    "label": "GPE"
+  },
+  {
+    "text": "Exprience - 12 months",
+    "label": "DATE"
+  },
+  {
+    "text": "Exprience - 6 monthsCompany",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "Wallet",
+    "label": "PERSON"
+  },
+  {
+    "text": "java byte",
+    "label": "PERSON"
+  },
+  {
+    "text": "API",
+    "label": "ORG"
+  },
+  {
+    "text": "spring",
+    "label": "DATE"
+  },
+  {
+    "text": "Audit Logger",
+    "label": "PERSON"
+  },
+  {
+    "text": "DOC Safe",
+    "label": "ORG"
+  },
+  {
+    "text": "Litecoin, Ripple & exchange",
+    "label": "ORG"
+  },
+  {
+    "text": "Hyperledger Fabric",
+    "label": "PERSON"
+  },
+  {
+    "text": "USA",
+    "label": "GPE"
+  },
+  {
+    "text": "HER\n\nSystem",
+    "label": "ORG"
+  },
+  {
+    "text": "CRM",
+    "label": "PRODUCT"
+  },
+  {
+    "text": "Lavisa Infrastructure Bangalore                                        Sep",
+    "label": "ORG"
+  },
+  {
+    "text": "Software",
+    "label": "ORG"
+  },
+  {
+    "text": "ERP System",
+    "label": "ORG"
+  },
+  {
+    "text": "CRM",
+    "label": "PRODUCT"
+  },
+  {
+    "text": "Content",
+    "label": "ORG"
+  },
+  {
+    "text": "News Portal: News",
+    "label": "ORG"
+  },
+  {
+    "text": "Hindi",
+    "label": "GPE"
+  },
+  {
+    "text": "Html",
+    "label": "PERSON"
+  },
+  {
+    "text": "JavaScript",
+    "label": "PRODUCT"
+  },
+  {
+    "text": "JDBC",
+    "label": "PERSON"
+  },
+  {
+    "text": "CSS",
+    "label": "ORG"
+  },
+  {
+    "text": "JavaScript",
+    "label": "PRODUCT"
+  },
+  {
+    "text": "JDBC",
+    "label": "PERSON"
+  },
+  {
+    "text": "Management of Car Parking System",
+    "label": "ORG"
+  },
+  {
+    "text": "CSS",
+    "label": "ORG"
+  },
+  {
+    "text": "JavaScript",
+    "label": "ORG"
+  },
+  {
+    "text": "JDBC",
+    "label": "PERSON"
+  },
+  {
+    "text": "Inside Company",
+    "label": "ORG"
+  },
+  {
+    "text": "United Telecom Limited",
+    "label": "ORG"
+  },
+  {
+    "text": "Inside Company",
+    "label": "ORG"
+  },
+  {
+    "text": "Birth",
+    "label": "PERSON"
+  },
+  {
+    "text": "Blockchain",
+    "label": "PERSON"
+  },
+  {
+    "text": "Bitcoin, Ethereum,",
+    "label": "ORG"
+  },
+  {
+    "text": "Hyperledger Fabric",
+    "label": "PERSON"
+  },
+  {
+    "text": "Node",
+    "label": "GPE"
+  },
+  {
+    "text": "Java Spring",
+    "label": "PERSON"
+  },
+  {
+    "text": "Node",
+    "label": "PERSON"
+  },
+  {
+    "text": "React",
+    "label": "GPE"
+  },
+  {
+    "text": "Express",
+    "label": "ORG"
+  }
+]

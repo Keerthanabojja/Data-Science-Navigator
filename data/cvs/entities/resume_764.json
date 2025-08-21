@@ -1,0 +1,310 @@
+[
+  {
+    "text": "Hadoop",
+    "label": "ORG"
+  },
+  {
+    "text": "SPARK SQL Programs",
+    "label": "ORG"
+  },
+  {
+    "text": "Eclipse IDE on Windows/Linux",
+    "label": "WORK_OF_ART"
+  },
+  {
+    "text": "Create KPI's",
+    "label": "ORG"
+  },
+  {
+    "text": "Scala",
+    "label": "PERSON"
+  },
+  {
+    "text": "Linux Spark Standalone",
+    "label": "FAC"
+  },
+  {
+    "text": "AWS",
+    "label": "ORG"
+  },
+  {
+    "text": "the Spark Scala",
+    "label": "LOC"
+  },
+  {
+    "text": "Hadoop",
+    "label": "ORG"
+  },
+  {
+    "text": "MapReduce",
+    "label": "ORG"
+  },
+  {
+    "text": "Hive",
+    "label": "PERSON"
+  },
+  {
+    "text": "HBase",
+    "label": "ORG"
+  },
+  {
+    "text": "Zookeeper",
+    "label": "PERSON"
+  },
+  {
+    "text": "BI",
+    "label": "ORG"
+  },
+  {
+    "text": "Sqoop",
+    "label": "ORG"
+  },
+  {
+    "text": "HDFS",
+    "label": "ORG"
+  },
+  {
+    "text": "Hive",
+    "label": "PERSON"
+  },
+  {
+    "text": "MapReduce",
+    "label": "ORG"
+  },
+  {
+    "text": "Latin",
+    "label": "NORP"
+  },
+  {
+    "text": "Hadoop",
+    "label": "ORG"
+  },
+  {
+    "text": "Oracle",
+    "label": "NORP"
+  },
+  {
+    "text": "Hive",
+    "label": "PERSON"
+  },
+  {
+    "text": "Sqoop",
+    "label": "ORG"
+  },
+  {
+    "text": "TPT",
+    "label": "ORG"
+  },
+  {
+    "text": "Connect Direct",
+    "label": "ORG"
+  },
+  {
+    "text": "HDFS/HBASE",
+    "label": "ORG"
+  },
+  {
+    "text": "HDFS",
+    "label": "ORG"
+  },
+  {
+    "text": "Sqoop",
+    "label": "ORG"
+  },
+  {
+    "text": "the Hive Reports",
+    "label": "ORG"
+  },
+  {
+    "text": "Partitions of Hive",
+    "label": "ORG"
+  },
+  {
+    "text": "HADOOP Clusters",
+    "label": "ORG"
+  },
+  {
+    "text": "HIVE",
+    "label": "ORG"
+  },
+  {
+    "text": "Hadoop",
+    "label": "ORG"
+  },
+  {
+    "text": "millions",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "Java, Hadoop",
+    "label": "ORG"
+  },
+  {
+    "text": "HDFS",
+    "label": "ORG"
+  },
+  {
+    "text": "Map-Reduce",
+    "label": "PERSON"
+  },
+  {
+    "text": "Hive",
+    "label": "PERSON"
+  },
+  {
+    "text": "Sqoop",
+    "label": "ORG"
+  },
+  {
+    "text": "Flume, Oozie, HBase",
+    "label": "WORK_OF_ART"
+  },
+  {
+    "text": "Spark",
+    "label": "GPE"
+  },
+  {
+    "text": "Scala",
+    "label": "GPE"
+  },
+  {
+    "text": "Linux",
+    "label": "GPE"
+  },
+  {
+    "text": "NoSQL",
+    "label": "GPE"
+  },
+  {
+    "text": "Storm",
+    "label": "ORG"
+  },
+  {
+    "text": "SVN",
+    "label": "ORG"
+  },
+  {
+    "text": "GitHub",
+    "label": "ORG"
+  },
+  {
+    "text": "IBM WebSphere v8.5",
+    "label": "ORG"
+  },
+  {
+    "text": "360-degree",
+    "label": "QUANTITY"
+  },
+  {
+    "text": "Hive",
+    "label": "PERSON"
+  },
+  {
+    "text": "HBase",
+    "label": "ORG"
+  },
+  {
+    "text": "Sqoop",
+    "label": "ORG"
+  },
+  {
+    "text": "SQOOP",
+    "label": "ORG"
+  },
+  {
+    "text": "Hive",
+    "label": "PERSON"
+  },
+  {
+    "text": "Hive",
+    "label": "ORG"
+  },
+  {
+    "text": "Hive",
+    "label": "PERSON"
+  },
+  {
+    "text": "SQL DB Migration",
+    "label": "ORG"
+  },
+  {
+    "text": "OLTP",
+    "label": "ORG"
+  },
+  {
+    "text": "Avro",
+    "label": "ORG"
+  },
+  {
+    "text": "HBase",
+    "label": "ORG"
+  },
+  {
+    "text": "Oozie",
+    "label": "PERSON"
+  },
+  {
+    "text": "Implemented Fair",
+    "label": "WORK_OF_ART"
+  },
+  {
+    "text": "HIVE",
+    "label": "ORG"
+  },
+  {
+    "text": "BI",
+    "label": "ORG"
+  },
+  {
+    "text": "Hive",
+    "label": "PERSON"
+  },
+  {
+    "text": "Linux",
+    "label": "GPE"
+  },
+  {
+    "text": "MapReduce",
+    "label": "ORG"
+  },
+  {
+    "text": "HDFS",
+    "label": "ORG"
+  },
+  {
+    "text": "Hive",
+    "label": "PERSON"
+  },
+  {
+    "text": "Sqoop",
+    "label": "ORG"
+  },
+  {
+    "text": "Cloudera",
+    "label": "PERSON"
+  },
+  {
+    "text": "Shell Scripting",
+    "label": "ORG"
+  },
+  {
+    "text": "Java",
+    "label": "PERSON"
+  },
+  {
+    "text": "1.6",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "Java 6",
+    "label": "PERSON"
+  },
+  {
+    "text": "Oracle 10",
+    "label": "LAW"
+  },
+  {
+    "text": "PL/SQL",
+    "label": "ORG"
+  }
+]

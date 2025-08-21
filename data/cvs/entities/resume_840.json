@@ -1,0 +1,54 @@
+[
+  {
+    "text": "Education Details",
+    "label": "ORG"
+  },
+  {
+    "text": "Maharashtra Pune University\n\n Bsc Computer Science Pune",
+    "label": "ORG"
+  },
+  {
+    "text": "Maharashtra Pune University",
+    "label": "ORG"
+  },
+  {
+    "text": "Maharashtra Maharashatra Board",
+    "label": "ORG"
+  },
+  {
+    "text": "Maharashtra Maharashatra Board",
+    "label": "ORG"
+  },
+  {
+    "text": "DOT",
+    "label": "ORG"
+  },
+  {
+    "text": "NET",
+    "label": "ORG"
+  },
+  {
+    "text": "HTML",
+    "label": "ORG"
+  },
+  {
+    "text": "CSS",
+    "label": "ORG"
+  },
+  {
+    "text": "Exprience",
+    "label": "GPE"
+  },
+  {
+    "text": "6 months",
+    "label": "DATE"
+  },
+  {
+    "text": "2008/2012-",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "Less than 1 year",
+    "label": "DATE"
+  }
+]

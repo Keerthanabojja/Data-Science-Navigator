@@ -1,0 +1,322 @@
+[
+  {
+    "text": "1",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "ESD",
+    "label": "ORG"
+  },
+  {
+    "text": "Zensar Technologies",
+    "label": "ORG"
+  },
+  {
+    "text": "Pune",
+    "label": "LOC"
+  },
+  {
+    "text": "2017",
+    "label": "DATE"
+  },
+  {
+    "text": "2",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "Barclays, Global Talent Track",
+    "label": "ORG"
+  },
+  {
+    "text": "NASSCOM",
+    "label": "ORG"
+  },
+  {
+    "text": "2015",
+    "label": "DATE"
+  },
+  {
+    "text": "1",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "IEEE",
+    "label": "ORG"
+  },
+  {
+    "text": "JSCOE",
+    "label": "GPE"
+  },
+  {
+    "text": "2017-18",
+    "label": "DATE"
+  },
+  {
+    "text": "2016 - 2017",
+    "label": "DATE"
+  },
+  {
+    "text": "3",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "KPIT",
+    "label": "ORG"
+  },
+  {
+    "text": "2018",
+    "label": "DATE"
+  },
+  {
+    "text": "Pune",
+    "label": "LOC"
+  },
+  {
+    "text": "4",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "Avishkar 2017",
+    "label": "DATE"
+  },
+  {
+    "text": "Savitribai Phule Pune University",
+    "label": "ORG"
+  },
+  {
+    "text": "5",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "Accenture Innovation 2018",
+    "label": "ORG"
+  },
+  {
+    "text": "Pune",
+    "label": "LOC"
+  },
+  {
+    "text": "6",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "15,000",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "Platinum Auto",
+    "label": "ORG"
+  },
+  {
+    "text": "Royal Enfield",
+    "label": "ORG"
+  },
+  {
+    "text": "2017",
+    "label": "DATE"
+  },
+  {
+    "text": "Pune",
+    "label": "LOC"
+  },
+  {
+    "text": "7",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "1",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "Smart",
+    "label": "ORG"
+  },
+  {
+    "text": "2017",
+    "label": "DATE"
+  },
+  {
+    "text": "Pune",
+    "label": "LOC"
+  },
+  {
+    "text": "8",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "English",
+    "label": "LANGUAGE"
+  },
+  {
+    "text": "2017",
+    "label": "DATE"
+  },
+  {
+    "text": "Pune Workshops",
+    "label": "ORG"
+  },
+  {
+    "text": "1",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "4",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "IEEE",
+    "label": "ORG"
+  },
+  {
+    "text": "2017",
+    "label": "DATE"
+  },
+  {
+    "text": "Pune",
+    "label": "LOC"
+  },
+  {
+    "text": "2",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "2",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "SCOE",
+    "label": "GPE"
+  },
+  {
+    "text": "2016",
+    "label": "DATE"
+  },
+  {
+    "text": "Pune",
+    "label": "LOC"
+  },
+  {
+    "text": "3",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "3",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "Computer Society of India",
+    "label": "ORG"
+  },
+  {
+    "text": "SKNCOE",
+    "label": "GPE"
+  },
+  {
+    "text": "2016",
+    "label": "DATE"
+  },
+  {
+    "text": "Pune",
+    "label": "LOC"
+  },
+  {
+    "text": "4",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "SCOE",
+    "label": "GPE"
+  },
+  {
+    "text": "AISSMS",
+    "label": "GPE"
+  },
+  {
+    "text": "Pune",
+    "label": "ORG"
+  },
+  {
+    "text": "June 2018",
+    "label": "DATE"
+  },
+  {
+    "text": "Bachelor of Engineering Computer Pune",
+    "label": "ORG"
+  },
+  {
+    "text": "Maharashtra Savitribai",
+    "label": "ORG"
+  },
+  {
+    "text": "Pune University",
+    "label": "ORG"
+  },
+  {
+    "text": "Maharashtra State Board",
+    "label": "ORG"
+  },
+  {
+    "text": "June 2012",
+    "label": "DATE"
+  },
+  {
+    "text": "SSC",
+    "label": "ORG"
+  },
+  {
+    "text": "Maharashtra State Board\n\nPython Developer \n\n\n\nPython Developer - Atos Syntel\n\nSkill Details",
+    "label": "ORG"
+  },
+  {
+    "text": "Exprience",
+    "label": "GPE"
+  },
+  {
+    "text": "15 months",
+    "label": "DATE"
+  },
+  {
+    "text": "Exprience",
+    "label": "GPE"
+  },
+  {
+    "text": "Exprience",
+    "label": "GPE"
+  },
+  {
+    "text": "Exprience",
+    "label": "GPE"
+  },
+  {
+    "text": "6 months",
+    "label": "DATE"
+  },
+  {
+    "text": "Exprience",
+    "label": "GPE"
+  },
+  {
+    "text": "US",
+    "label": "GPE"
+  },
+  {
+    "text": "1",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "PIL",
+    "label": "ORG"
+  },
+  {
+    "text": "Numpy",
+    "label": "GPE"
+  },
+  {
+    "text": "2",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "Git",
+    "label": "PERSON"
+  }
+]

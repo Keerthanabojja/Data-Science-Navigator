@@ -1,0 +1,90 @@
+[
+  {
+    "text": "2011",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "Camp",
+    "label": "FAC"
+  },
+  {
+    "text": "New Delhi & North Maharashtra University",
+    "label": "ORG"
+  },
+  {
+    "text": "Jalgaon",
+    "label": "GPE"
+  },
+  {
+    "text": "Learn From Mistakes",
+    "label": "WORK_OF_ART"
+  },
+  {
+    "text": "Jetalal Hiralal Gorbanjara)Education Details",
+    "label": "PERSON"
+  },
+  {
+    "text": "May 2010",
+    "label": "DATE"
+  },
+  {
+    "text": "Maharashtra State Board",
+    "label": "ORG"
+  },
+  {
+    "text": "June 2008",
+    "label": "DATE"
+  },
+  {
+    "text": "Maharashtra State Board",
+    "label": "ORG"
+  },
+  {
+    "text": "Asst",
+    "label": "ORG"
+  },
+  {
+    "text": "Asst",
+    "label": "PERSON"
+  },
+  {
+    "text": "Kisan Arts",
+    "label": "PERSON"
+  },
+  {
+    "text": "Months",
+    "label": "DATE"
+  },
+  {
+    "text": "Name of Organization / College        Designation              Working Period          Total Experience\n\nNo",
+    "label": "ORG"
+  },
+  {
+    "text": "Months",
+    "label": "DATE"
+  },
+  {
+    "text": "1",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "Kisan Arts",
+    "label": "PERSON"
+  },
+  {
+    "text": "Commerce & Science        Asst",
+    "label": "ORG"
+  },
+  {
+    "text": "10 Months",
+    "label": "DATE"
+  },
+  {
+    "text": "Parola",
+    "label": "GPE"
+  },
+  {
+    "text": "Parola Dist",
+    "label": "ORG"
+  }
+]

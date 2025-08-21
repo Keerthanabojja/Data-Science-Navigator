@@ -1,0 +1,322 @@
+[
+  {
+    "text": "Technical Skills / Responsibilities",
+    "label": "ORG"
+  },
+  {
+    "text": "SDLC",
+    "label": "GPE"
+  },
+  {
+    "text": "Software Development Life Cycle",
+    "label": "ORG"
+  },
+  {
+    "text": "Customer Interaction",
+    "label": "ORG"
+  },
+  {
+    "text": "Estimate &",
+    "label": "ORG"
+  },
+  {
+    "text": "Coding",
+    "label": "ORG"
+  },
+  {
+    "text": "UTP",
+    "label": "ORG"
+  },
+  {
+    "text": "UTR",
+    "label": "ORG"
+  },
+  {
+    "text": "PTF",
+    "label": "ORG"
+  },
+  {
+    "text": "Debugging and Testing",
+    "label": "ORG"
+  },
+  {
+    "text": "Development to UAT",
+    "label": "ORG"
+  },
+  {
+    "text": "Cloud Foundry",
+    "label": "PERSON"
+  },
+  {
+    "text": "Completed Internal Python",
+    "label": "ORG"
+  },
+  {
+    "text": "Completed Internal Python Web Crawling",
+    "label": "ORG"
+  },
+  {
+    "text": "Completed Internal Python Web Scraping",
+    "label": "ORG"
+  },
+  {
+    "text": "Completed Internal Python for Data Science",
+    "label": "ORG"
+  },
+  {
+    "text": "Completed Internal",
+    "label": "ORG"
+  },
+  {
+    "text": "Completed Internal",
+    "label": "ORG"
+  },
+  {
+    "text": "Completed Internal PostgreSQL",
+    "label": "ORG"
+  },
+  {
+    "text": "Completed Internal DJango",
+    "label": "ORG"
+  },
+  {
+    "text": "Completed Internal Angular",
+    "label": "ORG"
+  },
+  {
+    "text": "HTML",
+    "label": "ORG"
+  },
+  {
+    "text": "CSS",
+    "label": "ORG"
+  },
+  {
+    "text": "Completed German A1",
+    "label": "PERSON"
+  },
+  {
+    "text": "A2",
+    "label": "ORG"
+  },
+  {
+    "text": "Goethe-Institute",
+    "label": "ORG"
+  },
+  {
+    "text": "Completed Internal Core Java",
+    "label": "ORG"
+  },
+  {
+    "text": "Completed IBM",
+    "label": "ORG"
+  },
+  {
+    "text": "Maples Institute",
+    "label": "ORG"
+  },
+  {
+    "text": "Pune",
+    "label": "ORG"
+  },
+  {
+    "text": "Complete Internal MOVEX ERP",
+    "label": "ORG"
+  },
+  {
+    "text": "AS400/RPG/",
+    "label": "ORG"
+  },
+  {
+    "text": "Completed Internal M3 ERP",
+    "label": "ORG"
+  },
+  {
+    "text": "Java",
+    "label": "PERSON"
+  },
+  {
+    "text": "Completed Internal Stream",
+    "label": "ORG"
+  },
+  {
+    "text": "Completed M3 Enterprise Collaborator",
+    "label": "ORG"
+  },
+  {
+    "text": "MEC",
+    "label": "ORG"
+  },
+  {
+    "text": "Education Details \n\n M.Sc",
+    "label": "ORG"
+  },
+  {
+    "text": "Maharashtra Pune University",
+    "label": "ORG"
+  },
+  {
+    "text": "Maharashtra Pune University\n\n H.S.C.",
+    "label": "ORG"
+  },
+  {
+    "text": "Pune",
+    "label": "LOC"
+  },
+  {
+    "text": "Maharashtra Pune University\n\nPython",
+    "label": "ORG"
+  },
+  {
+    "text": "API",
+    "label": "ORG"
+  },
+  {
+    "text": "Less than 1 year months",
+    "label": "DATE"
+  },
+  {
+    "text": "Less than 1 year months",
+    "label": "DATE"
+  },
+  {
+    "text": "Exprience - Less",
+    "label": "ORG"
+  },
+  {
+    "text": "Less than 1 year months",
+    "label": "DATE"
+  },
+  {
+    "text": "Exprience - 90",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "6th July 2011",
+    "label": "DATE"
+  },
+  {
+    "text": "API",
+    "label": "ORG"
+  },
+  {
+    "text": "2 years",
+    "label": "DATE"
+  },
+  {
+    "text": "Python- MongoDB/MySQL development",
+    "label": "EVENT"
+  },
+  {
+    "text": "Worked",
+    "label": "GPE"
+  },
+  {
+    "text": "Java",
+    "label": "PERSON"
+  },
+  {
+    "text": "Movex",
+    "label": "GPE"
+  },
+  {
+    "text": "1\n\nyear",
+    "label": "DATE"
+  },
+  {
+    "text": "Worked",
+    "label": "GPE"
+  },
+  {
+    "text": "AS400",
+    "label": "PRODUCT"
+  },
+  {
+    "text": "Movex",
+    "label": "GPE"
+  },
+  {
+    "text": "4 years",
+    "label": "DATE"
+  },
+  {
+    "text": "Python - MongoDB",
+    "label": "ORG"
+  },
+  {
+    "text": "Python - MySql",
+    "label": "ORG"
+  },
+  {
+    "text": "Python Cache & Memoization",
+    "label": "ORG"
+  },
+  {
+    "text": "PWS",
+    "label": "ORG"
+  },
+  {
+    "text": "German",
+    "label": "NORP"
+  },
+  {
+    "text": "M3/Movex ERP",
+    "label": "ORG"
+  },
+  {
+    "text": "M3 Java",
+    "label": "PERSON"
+  },
+  {
+    "text": "Movex",
+    "label": "GPE"
+  },
+  {
+    "text": "AS400",
+    "label": "PRODUCT"
+  },
+  {
+    "text": "Movex",
+    "label": "GPE"
+  },
+  {
+    "text": "Stream Server",
+    "label": "ORG"
+  },
+  {
+    "text": "Movex",
+    "label": "GPE"
+  },
+  {
+    "text": "Movex",
+    "label": "GPE"
+  },
+  {
+    "text": "CL/400",
+    "label": "GPE"
+  },
+  {
+    "text": "ILE RPG",
+    "label": "ORG"
+  },
+  {
+    "text": "ILE CL",
+    "label": "ORG"
+  },
+  {
+    "text": "DB2/400",
+    "label": "ORG"
+  },
+  {
+    "text": "Subfiles",
+    "label": "PERSON"
+  },
+  {
+    "text": "Movex",
+    "label": "GPE"
+  },
+  {
+    "text": "MI Programs",
+    "label": "ORG"
+  }
+]

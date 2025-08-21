@@ -1,0 +1,17 @@
+{
+  "resume": "resume_874.txt",
+  "found_skills": [
+    "sql",
+    "r",
+    "aws"
+  ],
+  "missing_skills": [
+    "python",
+    "excel",
+    "spark",
+    "tableau",
+    "hadoop",
+    "sas",
+    "azure"
+  ]
+}

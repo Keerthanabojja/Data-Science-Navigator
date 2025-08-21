@@ -1,0 +1,138 @@
+[
+  {
+    "text": "HTML",
+    "label": "ORG"
+  },
+  {
+    "text": "CSS",
+    "label": "ORG"
+  },
+  {
+    "text": "Jquery",
+    "label": "GPE"
+  },
+  {
+    "text": "C++",
+    "label": "PERSON"
+  },
+  {
+    "text": "C#.NET",
+    "label": "NORP"
+  },
+  {
+    "text": "MVC 5",
+    "label": "ORG"
+  },
+  {
+    "text": "2005/2008/2016",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "Reporting Tools",
+    "label": "PERSON"
+  },
+  {
+    "text": "Kindo UI",
+    "label": "PERSON"
+  },
+  {
+    "text": "Crystal Report",
+    "label": "PRODUCT"
+  },
+  {
+    "text": "Visual Stadio",
+    "label": "PERSON"
+  },
+  {
+    "text": "January 2014",
+    "label": "DATE"
+  },
+  {
+    "text": "Satara",
+    "label": "GPE"
+  },
+  {
+    "text": "Maharashtra L.N.B.C.College",
+    "label": "ORG"
+  },
+  {
+    "text": "January 2011",
+    "label": "DATE"
+  },
+  {
+    "text": "Thergaon Pune",
+    "label": "PERSON"
+  },
+  {
+    "text": "Maharashtra M.M.Polytechnic",
+    "label": "ORG"
+  },
+  {
+    "text": "Skill Details",
+    "label": "PERSON"
+  },
+  {
+    "text": "Exprience",
+    "label": "GPE"
+  },
+  {
+    "text": "24 months",
+    "label": "DATE"
+  },
+  {
+    "text": "Exprience",
+    "label": "GPE"
+  },
+  {
+    "text": "24 months",
+    "label": "DATE"
+  },
+  {
+    "text": "Exprience",
+    "label": "GPE"
+  },
+  {
+    "text": "24 months",
+    "label": "DATE"
+  },
+  {
+    "text": "Exprience - 6 months",
+    "label": "DATE"
+  },
+  {
+    "text": "6 months",
+    "label": "DATE"
+  },
+  {
+    "text": "Exprience",
+    "label": "GPE"
+  },
+  {
+    "text": "Less than 1 year months",
+    "label": "DATE"
+  },
+  {
+    "text": "Exprience - Less",
+    "label": "ORG"
+  },
+  {
+    "text": "Exprience",
+    "label": "GPE"
+  },
+  {
+    "text": "6 months",
+    "label": "DATE"
+  },
+  {
+    "text": "Exprience",
+    "label": "GPE"
+  },
+  {
+    "text": "24",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "Corecode",
+    "label": "ORG"
+  }
+]

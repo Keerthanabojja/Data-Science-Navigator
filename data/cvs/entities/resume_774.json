@@ -1,0 +1,354 @@
+[
+  {
+    "text": "Big Data Ecosystems",
+    "label": "ORG"
+  },
+  {
+    "text": "MapReduce",
+    "label": "ORG"
+  },
+  {
+    "text": "Hive",
+    "label": "PERSON"
+  },
+  {
+    "text": "Sqoop",
+    "label": "ORG"
+  },
+  {
+    "text": "HBase Oozie",
+    "label": "ORG"
+  },
+  {
+    "text": "Spark",
+    "label": "GPE"
+  },
+  {
+    "text": "Pyspark",
+    "label": "GPE"
+  },
+  {
+    "text": "Programming Languages: Python",
+    "label": "ORG"
+  },
+  {
+    "text": "Core Java",
+    "label": "PERSON"
+  },
+  {
+    "text": "Scala",
+    "label": "PERSON"
+  },
+  {
+    "text": "Oracle",
+    "label": "PERSON"
+  },
+  {
+    "text": "10",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "Cassandra",
+    "label": "PERSON"
+  },
+  {
+    "text": "Toad",
+    "label": "PERSON"
+  },
+  {
+    "text": "FTP",
+    "label": "ORG"
+  },
+  {
+    "text": "Tectia",
+    "label": "GPE"
+  },
+  {
+    "text": "Putty, Autosys",
+    "label": "ORG"
+  },
+  {
+    "text": "Anaconda",
+    "label": "GPE"
+  },
+  {
+    "text": "Devops",
+    "label": "GPE"
+  },
+  {
+    "text": "RTC",
+    "label": "ORG"
+  },
+  {
+    "text": "RLM",
+    "label": "ORG"
+  },
+  {
+    "text": "Scripting Languages",
+    "label": "PERSON"
+  },
+  {
+    "text": "JSP",
+    "label": "ORG"
+  },
+  {
+    "text": "UnixEducation Details \n\n ",
+    "label": "ORG"
+  },
+  {
+    "text": "B.Tech",
+    "label": "PERSON"
+  },
+  {
+    "text": "CSE",
+    "label": "ORG"
+  },
+  {
+    "text": "SRM University\n\nSoftware Engineer",
+    "label": "ORG"
+  },
+  {
+    "text": "Toubro",
+    "label": "ORG"
+  },
+  {
+    "text": "Toubro",
+    "label": "ORG"
+  },
+  {
+    "text": "Technosoft Corporation",
+    "label": "ORG"
+  },
+  {
+    "text": "2015",
+    "label": "DATE"
+  },
+  {
+    "text": "2016",
+    "label": "DATE"
+  },
+  {
+    "text": "September 2016",
+    "label": "DATE"
+  },
+  {
+    "text": "Citibank",
+    "label": "ORG"
+  },
+  {
+    "text": "Anti-Money Laundering (",
+    "label": "ORG"
+  },
+  {
+    "text": "Transaction Monitoring",
+    "label": "ORG"
+  },
+  {
+    "text": "TM",
+    "label": "ORG"
+  },
+  {
+    "text": "ICG-Markets",
+    "label": "ORG"
+  },
+  {
+    "text": "Building",
+    "label": "GPE"
+  },
+  {
+    "text": "Anti Money Laundering",
+    "label": "ORG"
+  },
+  {
+    "text": "Data Warehouse and",
+    "label": "ORG"
+  },
+  {
+    "text": "Workspace",
+    "label": "PERSON"
+  },
+  {
+    "text": "Business Analysts",
+    "label": "ORG"
+  },
+  {
+    "text": "Dimensions",
+    "label": "PERSON"
+  },
+  {
+    "text": "DIM",
+    "label": "ORG"
+  },
+  {
+    "text": "Developing Hive Queries",
+    "label": "ORG"
+  },
+  {
+    "text": "Oozie Workflows",
+    "label": "FAC"
+  },
+  {
+    "text": "Integration with Data Quality and Reconciliation Module",
+    "label": "ORG"
+  },
+  {
+    "text": "Regression and Integration",
+    "label": "ORG"
+  },
+  {
+    "text": "Alerts",
+    "label": "FAC"
+  },
+  {
+    "text": "Jobs",
+    "label": "PERSON"
+  },
+  {
+    "text": "Learning \"Machine Learning",
+    "label": "ORG"
+  },
+  {
+    "text": "Fraud",
+    "label": "GPE"
+  },
+  {
+    "text": "Scheduling Jobs",
+    "label": "ORG"
+  },
+  {
+    "text": "Autosys",
+    "label": "PERSON"
+  },
+  {
+    "text": "Deployment and Code Management",
+    "label": "ORG"
+  },
+  {
+    "text": "RTC",
+    "label": "ORG"
+  },
+  {
+    "text": "Lifecycle Management",
+    "label": "ORG"
+  },
+  {
+    "text": "2.x",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "Yarn",
+    "label": "PERSON"
+  },
+  {
+    "text": "Hive",
+    "label": "PERSON"
+  },
+  {
+    "text": "Sqoop",
+    "label": "ORG"
+  },
+  {
+    "text": "HBase",
+    "label": "ORG"
+  },
+  {
+    "text": "Tez",
+    "label": "GPE"
+  },
+  {
+    "text": "Tableau",
+    "label": "GPE"
+  },
+  {
+    "text": "Sqlserver",
+    "label": "GPE"
+  },
+  {
+    "text": "96",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "Node Cluster",
+    "label": "PERSON"
+  },
+  {
+    "text": "Ruckus Wireless",
+    "label": "PERSON"
+  },
+  {
+    "text": "OMS",
+    "label": "ORG"
+  },
+  {
+    "text": "Working with Hadoop Distributed File System",
+    "label": "ORG"
+  },
+  {
+    "text": "SQOOP",
+    "label": "ORG"
+  },
+  {
+    "text": "Hive",
+    "label": "PERSON"
+  },
+  {
+    "text": "Tez",
+    "label": "GPE"
+  },
+  {
+    "text": "Monitoring the Jobs through",
+    "label": "ORG"
+  },
+  {
+    "text": "Oozie",
+    "label": "LOC"
+  },
+  {
+    "text": "2.x",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "Yarn",
+    "label": "PERSON"
+  },
+  {
+    "text": "Hive",
+    "label": "PERSON"
+  },
+  {
+    "text": "Oozie",
+    "label": "PERSON"
+  },
+  {
+    "text": "Autosys",
+    "label": "ORG"
+  },
+  {
+    "text": "RTC",
+    "label": "ORG"
+  },
+  {
+    "text": "RLM",
+    "label": "ORG"
+  },
+  {
+    "text": "Framwe",
+    "label": "GPE"
+  },
+  {
+    "text": "Cluster Size",
+    "label": "PERSON"
+  },
+  {
+    "text": "56",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "Node Cluster",
+    "label": "PERSON"
+  },
+  {
+    "text": "Cloudera",
+    "label": "PERSON"
+  }
+]

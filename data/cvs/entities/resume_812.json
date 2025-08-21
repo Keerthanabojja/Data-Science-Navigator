@@ -1,0 +1,146 @@
+[
+  {
+    "text": "January 2015",
+    "label": "DATE"
+  },
+  {
+    "text": "Bachelor of Engineering EXTC Mumbai",
+    "label": "ORG"
+  },
+  {
+    "text": "Maharashtra Mumbai University",
+    "label": "ORG"
+  },
+  {
+    "text": "January 2012",
+    "label": "DATE"
+  },
+  {
+    "text": "MAHARASHTRA",
+    "label": "ORG"
+  },
+  {
+    "text": "IN Fr",
+    "label": "PERSON"
+  },
+  {
+    "text": "Agnel Polytechnic",
+    "label": "PERSON"
+  },
+  {
+    "text": "Exprience",
+    "label": "GPE"
+  },
+  {
+    "text": "California",
+    "label": "GPE"
+  },
+  {
+    "text": "Mar 2016 - Sept 2017",
+    "label": "DATE"
+  },
+  {
+    "text": "California",
+    "label": "GPE"
+  },
+  {
+    "text": "BSC",
+    "label": "ORG"
+  },
+  {
+    "text": "Informatica",
+    "label": "ORG"
+  },
+  {
+    "text": "9.6.1",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "Oracle 11",
+    "label": "LAW"
+  },
+  {
+    "text": "Facets 5.0 &Tidal",
+    "label": "ORG"
+  },
+  {
+    "text": "Informatica",
+    "label": "ORG"
+  },
+  {
+    "text": "Center",
+    "label": "GPE"
+  },
+  {
+    "text": "9.6.1",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "Oracle 11",
+    "label": "LAW"
+  },
+  {
+    "text": "SQL",
+    "label": "ORG"
+  },
+  {
+    "text": "PL-SQL",
+    "label": "ORG"
+  },
+  {
+    "text": "UNIX",
+    "label": "ORG"
+  },
+  {
+    "text": "Facets",
+    "label": "GPE"
+  },
+  {
+    "text": "Putty",
+    "label": "PERSON"
+  },
+  {
+    "text": "Informatica",
+    "label": "ORG"
+  },
+  {
+    "text": "Informatica",
+    "label": "ORG"
+  },
+  {
+    "text": "Writing Unix Scripts & SQL's",
+    "label": "ORG"
+  },
+  {
+    "text": "Facets",
+    "label": "ORG"
+  },
+  {
+    "text": "SQL",
+    "label": "ORG"
+  },
+  {
+    "text": "Unit testing & trouble",
+    "label": "ORG"
+  },
+  {
+    "text": "Informatica",
+    "label": "ORG"
+  },
+  {
+    "text": "SQL query & preparation of",
+    "label": "ORG"
+  },
+  {
+    "text": "Prepare",
+    "label": "ORG"
+  },
+  {
+    "text": "Syntel",
+    "label": "ORG"
+  },
+  {
+    "text": "Syntel",
+    "label": "ORG"
+  }
+]

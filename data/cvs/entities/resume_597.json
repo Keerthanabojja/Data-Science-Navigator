@@ -1,0 +1,230 @@
+[
+  {
+    "text": "Oracle",
+    "label": "PERSON"
+  },
+  {
+    "text": "Sqlite",
+    "label": "PERSON"
+  },
+  {
+    "text": "HTML",
+    "label": "ORG"
+  },
+  {
+    "text": "BAMU",
+    "label": "PERSON"
+  },
+  {
+    "text": "Developer - Arsys Inovics pvt ltd",
+    "label": "ORG"
+  },
+  {
+    "text": "Exprience",
+    "label": "GPE"
+  },
+  {
+    "text": "31 months",
+    "label": "DATE"
+  },
+  {
+    "text": "Exprience",
+    "label": "GPE"
+  },
+  {
+    "text": "31 months",
+    "label": "DATE"
+  },
+  {
+    "text": "Exprience - 31 months",
+    "label": "DATE"
+  },
+  {
+    "text": "Exprience",
+    "label": "GPE"
+  },
+  {
+    "text": "31 months",
+    "label": "DATE"
+  },
+  {
+    "text": "Exprience - 31 months",
+    "label": "DATE"
+  },
+  {
+    "text": "Exprience - Less",
+    "label": "ORG"
+  },
+  {
+    "text": "Less than 1 year months",
+    "label": "DATE"
+  },
+  {
+    "text": "Exprience",
+    "label": "GPE"
+  },
+  {
+    "text": "Less than 1 year months",
+    "label": "DATE"
+  },
+  {
+    "text": "Exprience - Less",
+    "label": "ORG"
+  },
+  {
+    "text": "Frequency Monitoring and Analysis Systems",
+    "label": "ORG"
+  },
+  {
+    "text": "F-MAS",
+    "label": "PRODUCT"
+  },
+  {
+    "text": "F-MAS",
+    "label": "PRODUCT"
+  },
+  {
+    "text": "fault management & network",
+    "label": "ORG"
+  },
+  {
+    "text": "The Operations Support Systems",
+    "label": "ORG"
+  },
+  {
+    "text": "OSS",
+    "label": "ORG"
+  },
+  {
+    "text": "Public Switched Telephone Networks",
+    "label": "ORG"
+  },
+  {
+    "text": "Design, Development",
+    "label": "ORG"
+  },
+  {
+    "text": "Python",
+    "label": "PERSON"
+  },
+  {
+    "text": "Django",
+    "label": "PERSON"
+  },
+  {
+    "text": "Created",
+    "label": "ORG"
+  },
+  {
+    "text": "Django",
+    "label": "PERSON"
+  },
+  {
+    "text": "HTML5",
+    "label": "PERSON"
+  },
+  {
+    "text": "CSS3",
+    "label": "PRODUCT"
+  },
+  {
+    "text": "Created",
+    "label": "ORG"
+  },
+  {
+    "text": "API",
+    "label": "ORG"
+  },
+  {
+    "text": "Restful API",
+    "label": "PERSON"
+  },
+  {
+    "text": "Postman",
+    "label": "PERSON"
+  },
+  {
+    "text": "Created Unit",
+    "label": "ORG"
+  },
+  {
+    "text": "Worked",
+    "label": "GPE"
+  },
+  {
+    "text": "Wrote Python",
+    "label": "ORG"
+  },
+  {
+    "text": "Python",
+    "label": "PERSON"
+  },
+  {
+    "text": "Created a Git",
+    "label": "ORG"
+  },
+  {
+    "text": "GitHub",
+    "label": "PRODUCT"
+  },
+  {
+    "text": "Utilized Agile",
+    "label": "ORG"
+  },
+  {
+    "text": "JIRA",
+    "label": "ORG"
+  },
+  {
+    "text": "Worked",
+    "label": "GPE"
+  },
+  {
+    "text": "Django",
+    "label": "PERSON"
+  },
+  {
+    "text": "HTML",
+    "label": "ORG"
+  },
+  {
+    "text": "CSS",
+    "label": "ORG"
+  },
+  {
+    "text": "SQLAlchemy",
+    "label": "ORG"
+  },
+  {
+    "text": "JSON",
+    "label": "PERSON"
+  },
+  {
+    "text": "1",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "2",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "restfull api's",
+    "label": "PERSON"
+  },
+  {
+    "text": "3",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "Agile",
+    "label": "NORP"
+  },
+  {
+    "text": "4",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "5",
+    "label": "CARDINAL"
+  }
+]

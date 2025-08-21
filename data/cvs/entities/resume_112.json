@@ -1,0 +1,82 @@
+[
+  {
+    "text": "January 2018",
+    "label": "DATE"
+  },
+  {
+    "text": "M.F.A",
+    "label": "GPE"
+  },
+  {
+    "text": "Nagpur",
+    "label": "ORG"
+  },
+  {
+    "text": "Maharashtra Nagpur University",
+    "label": "ORG"
+  },
+  {
+    "text": "January 2016",
+    "label": "DATE"
+  },
+  {
+    "text": "Painting Nagpur",
+    "label": "PERSON"
+  },
+  {
+    "text": "Maharashtra Nagpur University",
+    "label": "ORG"
+  },
+  {
+    "text": "January 2012",
+    "label": "DATE"
+  },
+  {
+    "text": "Art  Maharashtra State Board",
+    "label": "ORG"
+  },
+  {
+    "text": "January 2010",
+    "label": "DATE"
+  },
+  {
+    "text": "Maharashtra State Board",
+    "label": "ORG"
+  },
+  {
+    "text": "January 2008",
+    "label": "DATE"
+  },
+  {
+    "text": "Maharashtra State Board",
+    "label": "ORG"
+  },
+  {
+    "text": "Exprience",
+    "label": "GPE"
+  },
+  {
+    "text": "Shubhankan Fine Arts College",
+    "label": "ORG"
+  },
+  {
+    "text": "Nov 2018",
+    "label": "DATE"
+  },
+  {
+    "text": "Artist",
+    "label": "ORG"
+  },
+  {
+    "text": "ATD",
+    "label": "ORG"
+  },
+  {
+    "text": "BFA",
+    "label": "ORG"
+  },
+  {
+    "text": "MFA",
+    "label": "ORG"
+  }
+]

@@ -1,0 +1,310 @@
+[
+  {
+    "text": "April 2000",
+    "label": "DATE"
+  },
+  {
+    "text": "January 2000 to January 2001",
+    "label": "DATE"
+  },
+  {
+    "text": "Bachelor of Arts Sociology Mumbai",
+    "label": "ORG"
+  },
+  {
+    "text": "Maharashtra The Mumbai University",
+    "label": "ORG"
+  },
+  {
+    "text": "January 1998 to January 2000",
+    "label": "DATE"
+  },
+  {
+    "text": "Bachelor of Arts Sociology  Sophia College",
+    "label": "ORG"
+  },
+  {
+    "text": "January 1997 to January 1998",
+    "label": "DATE"
+  },
+  {
+    "text": "Sophia College",
+    "label": "ORG"
+  },
+  {
+    "text": "January 1995",
+    "label": "DATE"
+  },
+  {
+    "text": "January 1996",
+    "label": "DATE"
+  },
+  {
+    "text": "St. Teresa's",
+    "label": "GPE"
+  },
+  {
+    "text": "Convent High School",
+    "label": "ORG"
+  },
+  {
+    "text": "British Council",
+    "label": "ORG"
+  },
+  {
+    "text": "Represent the",
+    "label": "PERSON"
+  },
+  {
+    "text": "India",
+    "label": "GPE"
+  },
+  {
+    "text": "Arts",
+    "label": "ORG"
+  },
+  {
+    "text": "Oversee",
+    "label": "ORG"
+  },
+  {
+    "text": "British Council's",
+    "label": "ORG"
+  },
+  {
+    "text": "Charles Wallace",
+    "label": "PERSON"
+  },
+  {
+    "text": "India",
+    "label": "GPE"
+  },
+  {
+    "text": "Young Creative Entrepreneurs",
+    "label": "ORG"
+  },
+  {
+    "text": "Oversee",
+    "label": "ORG"
+  },
+  {
+    "text": "six",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "Arts",
+    "label": "ORG"
+  },
+  {
+    "text": "India",
+    "label": "GPE"
+  },
+  {
+    "text": "the\n\nMarketing and Communications",
+    "label": "ORG"
+  },
+  {
+    "text": "British Council",
+    "label": "ORG"
+  },
+  {
+    "text": "UK",
+    "label": "GPE"
+  },
+  {
+    "text": "six",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "100",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "every day",
+    "label": "DATE"
+  },
+  {
+    "text": "Each year",
+    "label": "DATE"
+  },
+  {
+    "text": "millions",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "the United Kingdom",
+    "label": "GPE"
+  },
+  {
+    "text": "UK",
+    "label": "GPE"
+  },
+  {
+    "text": "English",
+    "label": "LANGUAGE"
+  },
+  {
+    "text": "Arts",
+    "label": "ORG"
+  },
+  {
+    "text": "Education",
+    "label": "ORG"
+  },
+  {
+    "text": "80 years'",
+    "label": "DATE"
+  },
+  {
+    "text": "British Council",
+    "label": "ORG"
+  },
+  {
+    "text": "British Council's",
+    "label": "ORG"
+  },
+  {
+    "text": "India/",
+    "label": "GPE"
+  },
+  {
+    "text": "Sri Lanka",
+    "label": "GPE"
+  },
+  {
+    "text": "India/",
+    "label": "GPE"
+  },
+  {
+    "text": "UK",
+    "label": "GPE"
+  },
+  {
+    "text": "BC",
+    "label": "ORG"
+  },
+  {
+    "text": "India/ Sri Lanka",
+    "label": "FAC"
+  },
+  {
+    "text": "UK",
+    "label": "GPE"
+  },
+  {
+    "text": "India",
+    "label": "GPE"
+  },
+  {
+    "text": "Sri Lanka",
+    "label": "GPE"
+  },
+  {
+    "text": "India/",
+    "label": "GPE"
+  },
+  {
+    "text": "Sri Lanka",
+    "label": "GPE"
+  },
+  {
+    "text": "UK",
+    "label": "GPE"
+  },
+  {
+    "text": "India",
+    "label": "GPE"
+  },
+  {
+    "text": "Sri Lanka",
+    "label": "GPE"
+  },
+  {
+    "text": "British Council",
+    "label": "ORG"
+  },
+  {
+    "text": "Programming",
+    "label": "ORG"
+  },
+  {
+    "text": "India",
+    "label": "GPE"
+  },
+  {
+    "text": "Implementing",
+    "label": "PERSON"
+  },
+  {
+    "text": "British Council",
+    "label": "ORG"
+  },
+  {
+    "text": "Council",
+    "label": "ORG"
+  },
+  {
+    "text": "AirCheck India",
+    "label": "ORG"
+  },
+  {
+    "text": "August 29, 2001",
+    "label": "DATE"
+  },
+  {
+    "text": "Mumbai",
+    "label": "GPE"
+  },
+  {
+    "text": "WIN",
+    "label": "ORG"
+  },
+  {
+    "text": "Mumbai",
+    "label": "GPE"
+  },
+  {
+    "text": "Sourcing",
+    "label": "PERSON"
+  },
+  {
+    "text": "Selecting",
+    "label": "PERSON"
+  },
+  {
+    "text": "Midi",
+    "label": "PERSON"
+  },
+  {
+    "text": "Indian",
+    "label": "NORP"
+  },
+  {
+    "text": "20\n\nyears",
+    "label": "DATE"
+  },
+  {
+    "text": "International",
+    "label": "ORG"
+  },
+  {
+    "text": "Selecting",
+    "label": "PERSON"
+  },
+  {
+    "text": "British Council",
+    "label": "ORG"
+  },
+  {
+    "text": "Mumbai",
+    "label": "GPE"
+  },
+  {
+    "text": "the United Kingdom",
+    "label": "GPE"
+  },
+  {
+    "text": "the British Council",
+    "label": "ORG"
+  }
+]

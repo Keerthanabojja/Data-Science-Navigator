@@ -1,0 +1,50 @@
+[
+  {
+    "text": "January 2016",
+    "label": "DATE"
+  },
+  {
+    "text": "ALAMURI RATNAMALA INSTITUTE OF ENGINEERING & TECHNOLOGY",
+    "label": "ORG"
+  },
+  {
+    "text": "January 2010",
+    "label": "DATE"
+  },
+  {
+    "text": "H.S.C.",
+    "label": "GPE"
+  },
+  {
+    "text": "Mumbai",
+    "label": "GPE"
+  },
+  {
+    "text": "Maharashtra MUMBAI UNIVERSITY Secured",
+    "label": "ORG"
+  },
+  {
+    "text": "January 2008",
+    "label": "DATE"
+  },
+  {
+    "text": "PRAKASH Jr. COLLEGE OF SCIENCE & COMMERCE\n\n    S.M.T.",
+    "label": "ORG"
+  },
+  {
+    "text": "Skill Details",
+    "label": "PERSON"
+  },
+  {
+    "text": "Exprience",
+    "label": "GPE"
+  },
+  {
+    "text": "1year",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "SANARCO ENGINEERING PVT",
+    "label": "ORG"
+  }
+]

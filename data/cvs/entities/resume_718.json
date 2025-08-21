@@ -1,0 +1,222 @@
+[
+  {
+    "text": "Areas of Expertise",
+    "label": "ORG"
+  },
+  {
+    "text": "12c",
+    "label": "DATE"
+  },
+  {
+    "text": "11",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "10",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "12c",
+    "label": "DATE"
+  },
+  {
+    "text": "11",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "ASM",
+    "label": "ORG"
+  },
+  {
+    "text": "Middleware",
+    "label": "PERSON"
+  },
+  {
+    "text": "OIM",
+    "label": "ORG"
+  },
+  {
+    "text": "OAM",
+    "label": "ORG"
+  },
+  {
+    "text": "Shell Scripts",
+    "label": "ORG"
+  },
+  {
+    "text": "DataGuard",
+    "label": "ORG"
+  },
+  {
+    "text": "Apache",
+    "label": "PRODUCT"
+  },
+  {
+    "text": "January 2007",
+    "label": "DATE"
+  },
+  {
+    "text": "Bachelor of Engineering Information Technology Sangli",
+    "label": "ORG"
+  },
+  {
+    "text": "Maharashtra Walchand College",
+    "label": "ORG"
+  },
+  {
+    "text": "January 2004",
+    "label": "DATE"
+  },
+  {
+    "text": "Jalgaon",
+    "label": "GPE"
+  },
+  {
+    "text": "Maharashtra Govt",
+    "label": "ORG"
+  },
+  {
+    "text": "months",
+    "label": "DATE"
+  },
+  {
+    "text": "84 months",
+    "label": "DATE"
+  },
+  {
+    "text": "SHELL",
+    "label": "ORG"
+  },
+  {
+    "text": "48",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "Tieto Software",
+    "label": "ORG"
+  },
+  {
+    "text": "AO",
+    "label": "ORG"
+  },
+  {
+    "text": "Data Tier to",
+    "label": "ORG"
+  },
+  {
+    "text": "Middle Tier & Application",
+    "label": "ORG"
+  },
+  {
+    "text": "99.3%",
+    "label": "PERCENT"
+  },
+  {
+    "text": "99.8%",
+    "label": "PERCENT"
+  },
+  {
+    "text": "Proof of Concepts",
+    "label": "WORK_OF_ART"
+  },
+  {
+    "text": "10+",
+    "label": "DATE"
+  },
+  {
+    "text": "P1",
+    "label": "PRODUCT"
+  },
+  {
+    "text": "P2",
+    "label": "PERSON"
+  },
+  {
+    "text": "Middleware",
+    "label": "PERSON"
+  },
+  {
+    "text": "Tieto Software",
+    "label": "ORG"
+  },
+  {
+    "text": "FW Openings & LoadBalancer",
+    "label": "ORG"
+  },
+  {
+    "text": "Middleware",
+    "label": "ORG"
+  },
+  {
+    "text": "OIM",
+    "label": "ORG"
+  },
+  {
+    "text": "OAM",
+    "label": "ORG"
+  },
+  {
+    "text": "Layer- SMTP",
+    "label": "PERSON"
+  },
+  {
+    "text": "ftp",
+    "label": "ORG"
+  },
+  {
+    "text": "Reverse Proxy",
+    "label": "PERSON"
+  },
+  {
+    "text": "Tieto Software",
+    "label": "ORG"
+  },
+  {
+    "text": "UAT",
+    "label": "ORG"
+  },
+  {
+    "text": "DEV",
+    "label": "ORG"
+  },
+  {
+    "text": "SOD",
+    "label": "ORG"
+  },
+  {
+    "text": "Middleware",
+    "label": "PRODUCT"
+  },
+  {
+    "text": "RCU",
+    "label": "ORG"
+  },
+  {
+    "text": "WebLogic",
+    "label": "ORG"
+  },
+  {
+    "text": "Install &",
+    "label": "ORG"
+  },
+  {
+    "text": "OHS",
+    "label": "ORG"
+  },
+  {
+    "text": "HSBC Bank France",
+    "label": "ORG"
+  },
+  {
+    "text": "as Day to day",
+    "label": "DATE"
+  },
+  {
+    "text": "AWR",
+    "label": "ORG"
+  },
+  {
+    "text": "ADDM",
+    "label": "ORG"
+  }
+]

@@ -1,0 +1,178 @@
+[
+  {
+    "text": "SKILLSET Oracle DBA",
+    "label": "PERSON"
+  },
+  {
+    "text": "MySQL",
+    "label": "GPE"
+  },
+  {
+    "text": "MARIADB",
+    "label": "GPE"
+  },
+  {
+    "text": "SQL",
+    "label": "ORG"
+  },
+  {
+    "text": "10",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "11",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "Windows",
+    "label": "ORG"
+  },
+  {
+    "text": "January 2018",
+    "label": "DATE"
+  },
+  {
+    "text": "Pune",
+    "label": "LOC"
+  },
+  {
+    "text": "Maharashtra Pune University",
+    "label": "ORG"
+  },
+  {
+    "text": "Exprience - 17 months",
+    "label": "DATE"
+  },
+  {
+    "text": "Exprience",
+    "label": "GPE"
+  },
+  {
+    "text": "17 months",
+    "label": "DATE"
+  },
+  {
+    "text": "Exprience - 17 months",
+    "label": "DATE"
+  },
+  {
+    "text": "Exprience",
+    "label": "GPE"
+  },
+  {
+    "text": "17 months",
+    "label": "DATE"
+  },
+  {
+    "text": "Exprience",
+    "label": "GPE"
+  },
+  {
+    "text": "Sept 2017",
+    "label": "DATE"
+  },
+  {
+    "text": "Creating",
+    "label": "PERSON"
+  },
+  {
+    "text": "Dba",
+    "label": "ORG"
+  },
+  {
+    "text": "Degine",
+    "label": "PERSON"
+  },
+  {
+    "text": "24",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "Sessions &",
+    "label": "ORG"
+  },
+  {
+    "text": "Oracle",
+    "label": "NORP"
+  },
+  {
+    "text": "Oracle",
+    "label": "ORG"
+  },
+  {
+    "text": "Oracle Databases of Large DB Sizes",
+    "label": "ORG"
+  },
+  {
+    "text": "Maintaining",
+    "label": "GPE"
+  },
+  {
+    "text": "Online Redo",
+    "label": "PERSON"
+  },
+  {
+    "text": "Creating Users",
+    "label": "PERSON"
+  },
+  {
+    "text": "Roles & Privileges",
+    "label": "ORG"
+  },
+  {
+    "text": "Default & Temporary",
+    "label": "ORG"
+  },
+  {
+    "text": "Taking Oracle RMAN Backups (",
+    "label": "ORG"
+  },
+  {
+    "text": "Implementing",
+    "label": "PERSON"
+  },
+  {
+    "text": "Logical Backup Using Export & Import",
+    "label": "ORG"
+  },
+  {
+    "text": "ORA",
+    "label": "ORG"
+  },
+  {
+    "text": "Checking Listener Status",
+    "label": "PERSON"
+  },
+  {
+    "text": "Troubleshooting",
+    "label": "GPE"
+  },
+  {
+    "text": "Trace",
+    "label": "ORG"
+  },
+  {
+    "text": "DDL & DML",
+    "label": "ORG"
+  },
+  {
+    "text": "Project Documentation",
+    "label": "ORG"
+  },
+  {
+    "text": "daily",
+    "label": "DATE"
+  },
+  {
+    "text": "Spearheading",
+    "label": "ORG"
+  },
+  {
+    "text": "Monitor Backround",
+    "label": "PERSON"
+  },
+  {
+    "text": "InnovativeTechnologies",
+    "label": "ORG"
+  }
+]

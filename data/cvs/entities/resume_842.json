@@ -1,0 +1,38 @@
+[
+  {
+    "text": "January 2014",
+    "label": "DATE"
+  },
+  {
+    "text": "Maharashtra University Of Pune\n\n",
+    "label": "ORG"
+  },
+  {
+    "text": "2010",
+    "label": "DATE"
+  },
+  {
+    "text": "Maharashtra University Of Pune\n\nSoftware",
+    "label": "ORG"
+  },
+  {
+    "text": "SepSoft ERP  Solutions",
+    "label": "ORG"
+  },
+  {
+    "text": "1-Jan 2016",
+    "label": "DATE"
+  },
+  {
+    "text": "24th",
+    "label": "ORDINAL"
+  },
+  {
+    "text": "Dec 2016",
+    "label": "DATE"
+  },
+  {
+    "text": "Designation - Software Developer",
+    "label": "ORG"
+  }
+]

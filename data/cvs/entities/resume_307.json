@@ -1,0 +1,50 @@
+[
+  {
+    "text": "January 2014",
+    "label": "DATE"
+  },
+  {
+    "text": "Maharashtra Nagpur University",
+    "label": "ORG"
+  },
+  {
+    "text": "January 2010",
+    "label": "DATE"
+  },
+  {
+    "text": "Mumbai",
+    "label": "GPE"
+  },
+  {
+    "text": "Maharashtra Bajaj Polytechnic",
+    "label": "ORG"
+  },
+  {
+    "text": "January 2007",
+    "label": "DATE"
+  },
+  {
+    "text": "SSC Industrial Waste Water Nagpur",
+    "label": "ORG"
+  },
+  {
+    "text": "Maharashtra Hindi City High School\n\n    University /Board\n\nSite Engineer",
+    "label": "ORG"
+  },
+  {
+    "text": "Skill Details",
+    "label": "PERSON"
+  },
+  {
+    "text": "Holder",
+    "label": "ORG"
+  },
+  {
+    "text": "Branch",
+    "label": "PERSON"
+  },
+  {
+    "text": "Apeksha Naharkar",
+    "label": "PERSON"
+  }
+]

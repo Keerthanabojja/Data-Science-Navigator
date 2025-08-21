@@ -1,0 +1,586 @@
+[
+  {
+    "text": "Kanban",
+    "label": "ORG"
+  },
+  {
+    "text": "Feature Driven",
+    "label": "ORG"
+  },
+  {
+    "text": "Automation Framework Modular",
+    "label": "ORG"
+  },
+  {
+    "text": "BPT",
+    "label": "ORG"
+  },
+  {
+    "text": "TAF",
+    "label": "GPE"
+  },
+  {
+    "text": "Load Runner",
+    "label": "PERSON"
+  },
+  {
+    "text": "VB Script",
+    "label": "ORG"
+  },
+  {
+    "text": "C++",
+    "label": "PERSON"
+  },
+  {
+    "text": "HP Quality Control",
+    "label": "ORG"
+  },
+  {
+    "text": "AP Test",
+    "label": "ORG"
+  },
+  {
+    "text": "Clear Quest Version",
+    "label": "ORG"
+  },
+  {
+    "text": "Clear",
+    "label": "PERSON"
+  },
+  {
+    "text": "Win CVS",
+    "label": "PERSON"
+  },
+  {
+    "text": "SVN Database Oracle",
+    "label": "ORG"
+  },
+  {
+    "text": "SQL",
+    "label": "ORG"
+  },
+  {
+    "text": "FTP",
+    "label": "ORG"
+  },
+  {
+    "text": "LDAP Healthcare DICOM",
+    "label": "ORG"
+  },
+  {
+    "text": "PACS",
+    "label": "GPE"
+  },
+  {
+    "text": "Rockwell Automation Logix Designer",
+    "label": "ORG"
+  },
+  {
+    "text": "RSLinx Classic",
+    "label": "PRODUCT"
+  },
+  {
+    "text": "Control Flash",
+    "label": "ORG"
+  },
+  {
+    "text": "Compare Tool",
+    "label": "PERSON"
+  },
+  {
+    "text": "Profiles",
+    "label": "ORG"
+  },
+  {
+    "text": "Maharashtra Mumbai University",
+    "label": "ORG"
+  },
+  {
+    "text": "Exprience - 63 months",
+    "label": "DATE"
+  },
+  {
+    "text": "Exprience",
+    "label": "GPE"
+  },
+  {
+    "text": "Exprience",
+    "label": "GPE"
+  },
+  {
+    "text": "Exprience - 85 months",
+    "label": "DATE"
+  },
+  {
+    "text": "Exprience",
+    "label": "GPE"
+  },
+  {
+    "text": "69",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "Logix Designer",
+    "label": "ORG"
+  },
+  {
+    "text": "RSLinx Classic",
+    "label": "PRODUCT"
+  },
+  {
+    "text": "Control Flash",
+    "label": "ORG"
+  },
+  {
+    "text": "Compare Tool",
+    "label": "PERSON"
+  },
+  {
+    "text": "Profiles",
+    "label": "ORG"
+  },
+  {
+    "text": "Onsite",
+    "label": "ORG"
+  },
+  {
+    "text": "QA",
+    "label": "ORG"
+  },
+  {
+    "text": "QA",
+    "label": "ORG"
+  },
+  {
+    "text": "Scrum",
+    "label": "PRODUCT"
+  },
+  {
+    "text": "Test Driven",
+    "label": "ORG"
+  },
+  {
+    "text": "Program Increment",
+    "label": "ORG"
+  },
+  {
+    "text": "Feature Epics",
+    "label": "ORG"
+  },
+  {
+    "text": "Backlog",
+    "label": "LOC"
+  },
+  {
+    "text": "Conduct",
+    "label": "PERSON"
+  },
+  {
+    "text": "Backlog Grooming",
+    "label": "PERSON"
+  },
+  {
+    "text": "Sprint Planning",
+    "label": "ORG"
+  },
+  {
+    "text": "Daily Stand Ups",
+    "label": "ORG"
+  },
+  {
+    "text": "Sprint Review",
+    "label": "ORG"
+  },
+  {
+    "text": "Retrospective",
+    "label": "PERSON"
+  },
+  {
+    "text": "Perform Automation",
+    "label": "ORG"
+  },
+  {
+    "text": "Design, Create, Maintain,",
+    "label": "ORG"
+  },
+  {
+    "text": "Execute",
+    "label": "ORG"
+  },
+  {
+    "text": "Test Automation Framework(TAF",
+    "label": "ORG"
+  },
+  {
+    "text": "Develop",
+    "label": "ORG"
+  },
+  {
+    "text": "Execute System",
+    "label": "ORG"
+  },
+  {
+    "text": "C++",
+    "label": "PERSON"
+  },
+  {
+    "text": "Interact",
+    "label": "GPE"
+  },
+  {
+    "text": "Business Analysts and Software Developers",
+    "label": "ORG"
+  },
+  {
+    "text": "QA",
+    "label": "ORG"
+  },
+  {
+    "text": "Created",
+    "label": "ORG"
+  },
+  {
+    "text": "Maintained",
+    "label": "PERSON"
+  },
+  {
+    "text": "High Level Requirement",
+    "label": "ORG"
+  },
+  {
+    "text": "Bug",
+    "label": "PERSON"
+  },
+  {
+    "text": "Quality Metrics",
+    "label": "ORG"
+  },
+  {
+    "text": "Traceability Matrix and Testing Summary Reports",
+    "label": "ORG"
+  },
+  {
+    "text": "Logix Designer",
+    "label": "PERSON"
+  },
+  {
+    "text": "RSLinx Classic",
+    "label": "PRODUCT"
+  },
+  {
+    "text": "ControlFlash",
+    "label": "ORG"
+  },
+  {
+    "text": "CompareTool",
+    "label": "ORG"
+  },
+  {
+    "text": "Profiles",
+    "label": "ORG"
+  },
+  {
+    "text": "Framework(TAF",
+    "label": "GPE"
+  },
+  {
+    "text": "C++",
+    "label": "PERSON"
+  },
+  {
+    "text": "Clear Case,",
+    "label": "ORG"
+  },
+  {
+    "text": "Collaborative Lifecycle Management",
+    "label": "ORG"
+  },
+  {
+    "text": "GE-Healthcare",
+    "label": "ORG"
+  },
+  {
+    "text": "Validated GE CT",
+    "label": "ORG"
+  },
+  {
+    "text": "FDA",
+    "label": "ORG"
+  },
+  {
+    "text": "Business Analysts and Development",
+    "label": "ORG"
+  },
+  {
+    "text": "Coordinated",
+    "label": "ORG"
+  },
+  {
+    "text": "Designed",
+    "label": "ORG"
+  },
+  {
+    "text": "DICOM",
+    "label": "PERSON"
+  },
+  {
+    "text": "QTP",
+    "label": "ORG"
+  },
+  {
+    "text": "GE",
+    "label": "ORG"
+  },
+  {
+    "text": "QTP",
+    "label": "ORG"
+  },
+  {
+    "text": "Performed",
+    "label": "ORG"
+  },
+  {
+    "text": "DICOM",
+    "label": "GPE"
+  },
+  {
+    "text": "Windows, Linux",
+    "label": "GPE"
+  },
+  {
+    "text": "SQL",
+    "label": "ORG"
+  },
+  {
+    "text": "QTP",
+    "label": "ORG"
+  },
+  {
+    "text": "HTML",
+    "label": "ORG"
+  },
+  {
+    "text": "XML",
+    "label": "ORG"
+  },
+  {
+    "text": "QTP",
+    "label": "ORG"
+  },
+  {
+    "text": "VBScripts",
+    "label": "ORG"
+  },
+  {
+    "text": "QC",
+    "label": "GPE"
+  },
+  {
+    "text": "DICOM",
+    "label": "ORG"
+  },
+  {
+    "text": "Hybrid and",
+    "label": "WORK_OF_ART"
+  },
+  {
+    "text": "BPT",
+    "label": "ORG"
+  },
+  {
+    "text": "Test Bed",
+    "label": "ORG"
+  },
+  {
+    "text": "Golden Data",
+    "label": "ORG"
+  },
+  {
+    "text": "the Test Scenarios",
+    "label": "ORG"
+  },
+  {
+    "text": "Automation Scripts for Integration, System",
+    "label": "WORK_OF_ART"
+  },
+  {
+    "text": "Generic",
+    "label": "PERSON"
+  },
+  {
+    "text": "QA",
+    "label": "ORG"
+  },
+  {
+    "text": "Interact",
+    "label": "NORP"
+  },
+  {
+    "text": "GE PACS",
+    "label": "ORG"
+  },
+  {
+    "text": "DICOM",
+    "label": "GPE"
+  },
+  {
+    "text": "Image Construction",
+    "label": "ORG"
+  },
+  {
+    "text": "Linux",
+    "label": "GPE"
+  },
+  {
+    "text": "SQL",
+    "label": "ORG"
+  },
+  {
+    "text": "QTP",
+    "label": "ORG"
+  },
+  {
+    "text": "HTML",
+    "label": "ORG"
+  },
+  {
+    "text": "XML",
+    "label": "ORG"
+  },
+  {
+    "text": "QTP",
+    "label": "ORG"
+  },
+  {
+    "text": "JavaScript",
+    "label": "ORG"
+  },
+  {
+    "text": "VBScripts",
+    "label": "ORG"
+  },
+  {
+    "text": "QC",
+    "label": "GPE"
+  },
+  {
+    "text": "Performed",
+    "label": "ORG"
+  },
+  {
+    "text": "API",
+    "label": "ORG"
+  },
+  {
+    "text": "System",
+    "label": "ORG"
+  },
+  {
+    "text": "Microsoft SQL",
+    "label": "ORG"
+  },
+  {
+    "text": "10",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "Linux",
+    "label": "GPE"
+  },
+  {
+    "text": "SQL",
+    "label": "ORG"
+  },
+  {
+    "text": "QTP",
+    "label": "ORG"
+  },
+  {
+    "text": "HTML",
+    "label": "ORG"
+  },
+  {
+    "text": "XML",
+    "label": "ORG"
+  },
+  {
+    "text": "QTP",
+    "label": "ORG"
+  },
+  {
+    "text": "JavaScript",
+    "label": "ORG"
+  },
+  {
+    "text": "VBScripts",
+    "label": "ORG"
+  },
+  {
+    "text": "QC",
+    "label": "GPE"
+  },
+  {
+    "text": "Vistaar Systems Limited",
+    "label": "ORG"
+  },
+  {
+    "text": "Referred Business",
+    "label": "ORG"
+  },
+  {
+    "text": "Design",
+    "label": "NORP"
+  },
+  {
+    "text": "Analysis",
+    "label": "GPE"
+  },
+  {
+    "text": "Rational Robot",
+    "label": "ORG"
+  },
+  {
+    "text": "QTP",
+    "label": "ORG"
+  },
+  {
+    "text": "Shell",
+    "label": "ORG"
+  },
+  {
+    "text": "Maintaining",
+    "label": "NORP"
+  },
+  {
+    "text": "Smoke",
+    "label": "NORP"
+  },
+  {
+    "text": "Sanitary",
+    "label": "LOC"
+  },
+  {
+    "text": "Database",
+    "label": "PERSON"
+  },
+  {
+    "text": "Rational Robot",
+    "label": "ORG"
+  },
+  {
+    "text": "QTP",
+    "label": "ORG"
+  },
+  {
+    "text": "Shell",
+    "label": "ORG"
+  },
+  {
+    "text": "Linux",
+    "label": "GPE"
+  },
+  {
+    "text": "SQL",
+    "label": "ORG"
+  }
+]

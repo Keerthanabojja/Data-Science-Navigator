@@ -1,0 +1,46 @@
+[
+  {
+    "text": "Skill Details",
+    "label": "ORG"
+  },
+  {
+    "text": "point-",
+    "label": "PERSON"
+  },
+  {
+    "text": "120",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "Matric",
+    "label": "ORG"
+  },
+  {
+    "text": "Electrical Engineering",
+    "label": "ORG"
+  },
+  {
+    "text": "Leadership Certificate Course",
+    "label": "PERSON"
+  },
+  {
+    "text": "02 weeks",
+    "label": "DATE"
+  },
+  {
+    "text": "04 weeks",
+    "label": "DATE"
+  },
+  {
+    "text": "Advance Fire Fighting",
+    "label": "PERSON"
+  },
+  {
+    "text": "Industrial\n\nSafety",
+    "label": "ORG"
+  },
+  {
+    "text": "24 weeks",
+    "label": "DATE"
+  }
+]

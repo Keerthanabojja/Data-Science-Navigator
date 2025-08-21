@@ -1,0 +1,98 @@
+[
+  {
+    "text": "JSP",
+    "label": "ORG"
+  },
+  {
+    "text": "Servlet",
+    "label": "ORG"
+  },
+  {
+    "text": "HTML",
+    "label": "ORG"
+  },
+  {
+    "text": "CSS",
+    "label": "ORG"
+  },
+  {
+    "text": "Java Script",
+    "label": "PERSON"
+  },
+  {
+    "text": "Ajax",
+    "label": "PERSON"
+  },
+  {
+    "text": "Spring",
+    "label": "DATE"
+  },
+  {
+    "text": "Hibernate Operating System",
+    "label": "ORG"
+  },
+  {
+    "text": "Microsoft",
+    "label": "ORG"
+  },
+  {
+    "text": "2003",
+    "label": "DATE"
+  },
+  {
+    "text": "Advance java Development Tool",
+    "label": "PERSON"
+  },
+  {
+    "text": "January 2007",
+    "label": "DATE"
+  },
+  {
+    "text": "H.S.C  Amravati",
+    "label": "ORG"
+  },
+  {
+    "text": "Maharashtra VidyaBharati",
+    "label": "ORG"
+  },
+  {
+    "text": "January 2005",
+    "label": "DATE"
+  },
+  {
+    "text": "Amravati",
+    "label": "GPE"
+  },
+  {
+    "text": "Maharashtra Holy Cross English School",
+    "label": "ORG"
+  },
+  {
+    "text": "Java Developer - Kunal",
+    "label": "PERSON"
+  },
+  {
+    "text": "Exprience",
+    "label": "GPE"
+  },
+  {
+    "text": "14 months",
+    "label": "DATE"
+  },
+  {
+    "text": "Exprience - Less",
+    "label": "ORG"
+  },
+  {
+    "text": "Java Developer",
+    "label": "PERSON"
+  },
+  {
+    "text": "1 July 2017",
+    "label": "DATE"
+  },
+  {
+    "text": "2",
+    "label": "CARDINAL"
+  }
+]

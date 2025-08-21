@@ -1,0 +1,118 @@
+[
+  {
+    "text": "Skill Set: Hadoop",
+    "label": "PERSON"
+  },
+  {
+    "text": "Map Reduce",
+    "label": "PERSON"
+  },
+  {
+    "text": "HDFS",
+    "label": "ORG"
+  },
+  {
+    "text": "Hive",
+    "label": "PERSON"
+  },
+  {
+    "text": "Sqoop",
+    "label": "ORG"
+  },
+  {
+    "text": "2016 to 2017",
+    "label": "DATE"
+  },
+  {
+    "text": "Solution, Demand Sense",
+    "label": "ORG"
+  },
+  {
+    "text": "Combines Enterprise",
+    "label": "ORG"
+  },
+  {
+    "text": "External Data",
+    "label": "ORG"
+  },
+  {
+    "text": "Uses Social Conversation and Sentiments",
+    "label": "ORG"
+  },
+  {
+    "text": "Load",
+    "label": "PERSON"
+  },
+  {
+    "text": "Supported Map Reduce Programs",
+    "label": "PERSON"
+  },
+  {
+    "text": "Hive",
+    "label": "PERSON"
+  },
+  {
+    "text": "49 months",
+    "label": "DATE"
+  },
+  {
+    "text": "Exprience",
+    "label": "GPE"
+  },
+  {
+    "text": "49 months",
+    "label": "DATE"
+  },
+  {
+    "text": "49 months",
+    "label": "DATE"
+  },
+  {
+    "text": "Exprience",
+    "label": "GPE"
+  },
+  {
+    "text": "49 months",
+    "label": "DATE"
+  },
+  {
+    "text": "Core Java",
+    "label": "PERSON"
+  },
+  {
+    "text": "Map Reduce",
+    "label": "PERSON"
+  },
+  {
+    "text": "Scala",
+    "label": "PERSON"
+  },
+  {
+    "text": "Spark",
+    "label": "ORG"
+  },
+  {
+    "text": "Map Reduce",
+    "label": "PERSON"
+  },
+  {
+    "text": "Sqoop",
+    "label": "ORG"
+  },
+  {
+    "text": "Hive",
+    "label": "PERSON"
+  },
+  {
+    "text": "Oracle",
+    "label": "PERSON"
+  },
+  {
+    "text": "Shell Scripting",
+    "label": "PERSON"
+  },
+  {
+    "text": "Windows\n\n",
+    "label": "NORP"
+  }
+]

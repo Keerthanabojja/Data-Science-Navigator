@@ -1,0 +1,350 @@
+[
+  {
+    "text": "May 1999",
+    "label": "DATE"
+  },
+  {
+    "text": "September 2002",
+    "label": "DATE"
+  },
+  {
+    "text": "Mumbai",
+    "label": "GPE"
+  },
+  {
+    "text": "Maharashtra Institute of Mechanical Engg",
+    "label": "ORG"
+  },
+  {
+    "text": "May 1998 to May 1999",
+    "label": "DATE"
+  },
+  {
+    "text": "May 1993",
+    "label": "DATE"
+  },
+  {
+    "text": "May 1995",
+    "label": "DATE"
+  },
+  {
+    "text": "Mumbai",
+    "label": "GPE"
+  },
+  {
+    "text": "Maharashtra Industrial Training Institute\n\nSr",
+    "label": "ORG"
+  },
+  {
+    "text": "Microsoft Office",
+    "label": "ORG"
+  },
+  {
+    "text": "Excel",
+    "label": "PRODUCT"
+  },
+  {
+    "text": "Micro",
+    "label": "ORG"
+  },
+  {
+    "text": "ERP",
+    "label": "ORG"
+  },
+  {
+    "text": "3d",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "Exprience",
+    "label": "GPE"
+  },
+  {
+    "text": "120",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "Participate",
+    "label": "WORK_OF_ART"
+  },
+  {
+    "text": "Participate",
+    "label": "WORK_OF_ART"
+  },
+  {
+    "text": "Field Service",
+    "label": "ORG"
+  },
+  {
+    "text": "Top Mgmt",
+    "label": "PERSON"
+  },
+  {
+    "text": "Assist",
+    "label": "NORP"
+  },
+  {
+    "text": "the Projects Quotations",
+    "label": "ORG"
+  },
+  {
+    "text": "Pneumatic Automation Products",
+    "label": "ORG"
+  },
+  {
+    "text": "linear & rotary",
+    "label": "ORG"
+  },
+  {
+    "text": "Fabrication &",
+    "label": "ORG"
+  },
+  {
+    "text": "Engineering Drawing",
+    "label": "PERSON"
+  },
+  {
+    "text": "Perform",
+    "label": "ORG"
+  },
+  {
+    "text": "Perform PO",
+    "label": "ORG"
+  },
+  {
+    "text": "PO",
+    "label": "GPE"
+  },
+  {
+    "text": "Estimation of Pneumatic Automation Products & Projects",
+    "label": "ORG"
+  },
+  {
+    "text": "linear & rotary",
+    "label": "ORG"
+  },
+  {
+    "text": "Analyzing &",
+    "label": "ORG"
+  },
+  {
+    "text": "Maintaining",
+    "label": "GPE"
+  },
+  {
+    "text": "Handling estimation department",
+    "label": "ORG"
+  },
+  {
+    "text": "Purchase",
+    "label": "PERSON"
+  },
+  {
+    "text": "Chemtronics",
+    "label": "NORP"
+  },
+  {
+    "text": "Proposal",
+    "label": "PERSON"
+  },
+  {
+    "text": "CAD",
+    "label": "ORG"
+  },
+  {
+    "text": "project & commercial department",
+    "label": "ORG"
+  },
+  {
+    "text": "Vendor Development & Supply Chain",
+    "label": "ORG"
+  },
+  {
+    "text": "Procurement of Steel/Raw Material &",
+    "label": "ORG"
+  },
+  {
+    "text": "Products Based on Projects",
+    "label": "ORG"
+  },
+  {
+    "text": "Continuous",
+    "label": "PERSON"
+  },
+  {
+    "text": "Contract Management & Tenders",
+    "label": "ORG"
+  },
+  {
+    "text": "Request",
+    "label": "PERSON"
+  },
+  {
+    "text": "Organize",
+    "label": "GPE"
+  },
+  {
+    "text": "Collaborate",
+    "label": "ORG"
+  },
+  {
+    "text": "Create RFQ",
+    "label": "ORG"
+  },
+  {
+    "text": "Review Vendor evaluation & Vendor",
+    "label": "ORG"
+  },
+  {
+    "text": "Supply time & quality",
+    "label": "ORG"
+  },
+  {
+    "text": "Proposal & Estimation",
+    "label": "ORG"
+  },
+  {
+    "text": "Ranjangaon MIDC\n\n\n\n",
+    "label": "PERSON"
+  },
+  {
+    "text": "Vendor",
+    "label": "ORG"
+  },
+  {
+    "text": "Vendors",
+    "label": "ORG"
+  },
+  {
+    "text": "Customer",
+    "label": "ORG"
+  },
+  {
+    "text": "Item",
+    "label": "LAW"
+  },
+  {
+    "text": "Steel, Power & Cement",
+    "label": "ORG"
+  },
+  {
+    "text": "Rotex Engineers & Manufacturing Pvt.",
+    "label": "ORG"
+  },
+  {
+    "text": "2015 - June 2016",
+    "label": "DATE"
+  },
+  {
+    "text": "Rotex Engineers & Manufacturing Pvt",
+    "label": "ORG"
+  },
+  {
+    "text": "Kaylan",
+    "label": "GPE"
+  },
+  {
+    "text": "Project",
+    "label": "ORG"
+  },
+  {
+    "text": "Vendor",
+    "label": "ORG"
+  },
+  {
+    "text": "Steel, Power & Cement",
+    "label": "ORG"
+  },
+  {
+    "text": "Supply time & quality",
+    "label": "ORG"
+  },
+  {
+    "text": "Pune",
+    "label": "GPE"
+  },
+  {
+    "text": "Ranjangaon MIDC\n\n\n\n",
+    "label": "PERSON"
+  },
+  {
+    "text": "Vendor",
+    "label": "ORG"
+  },
+  {
+    "text": "Generate",
+    "label": "ORG"
+  },
+  {
+    "text": "design & development",
+    "label": "ORG"
+  },
+  {
+    "text": "Define",
+    "label": "ORG"
+  },
+  {
+    "text": "Non-Conformity",
+    "label": "ORG"
+  },
+  {
+    "text": "NC",
+    "label": "GPE"
+  },
+  {
+    "text": "Maintain ISO",
+    "label": "ORG"
+  },
+  {
+    "text": "ISO9001-2015",
+    "label": "DATE"
+  },
+  {
+    "text": "Coordinate &",
+    "label": "ORG"
+  },
+  {
+    "text": "O.E.M.s",
+    "label": "ORG"
+  },
+  {
+    "text": "Design &",
+    "label": "ORG"
+  },
+  {
+    "text": "Carry Out",
+    "label": "PERSON"
+  },
+  {
+    "text": "Fabrication Field-Hoist",
+    "label": "ORG"
+  },
+  {
+    "text": "Goods Lifts",
+    "label": "NORP"
+  },
+  {
+    "text": "Thane\n\n\n\nRole & Responsibilities:-",
+    "label": "ORG"
+  },
+  {
+    "text": "Preparations of BOM &",
+    "label": "ORG"
+  },
+  {
+    "text": "Prototype",
+    "label": "ORG"
+  },
+  {
+    "text": "3d",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "Kurla",
+    "label": "ORG"
+  },
+  {
+    "text": "Preparations of Gauge",
+    "label": "ORG"
+  }
+]

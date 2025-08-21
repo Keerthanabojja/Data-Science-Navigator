@@ -1,0 +1,182 @@
+[
+  {
+    "text": "May 2011",
+    "label": "DATE"
+  },
+  {
+    "text": "Mumbai",
+    "label": "GPE"
+  },
+  {
+    "text": "Maharashtra Mumbai",
+    "label": "ORG"
+  },
+  {
+    "text": "Oracle",
+    "label": "PERSON"
+  },
+  {
+    "text": "RH Linux & Windows",
+    "label": "ORG"
+  },
+  {
+    "text": "Logical",
+    "label": "ORG"
+  },
+  {
+    "text": "Physical",
+    "label": "ORG"
+  },
+  {
+    "text": "Rollback",
+    "label": "ORG"
+  },
+  {
+    "text": "24",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "7",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "Oracle 11",
+    "label": "LAW"
+  },
+  {
+    "text": "12c",
+    "label": "DATE"
+  },
+  {
+    "text": "Oracle 11",
+    "label": "LAW"
+  },
+  {
+    "text": "12c",
+    "label": "DATE"
+  },
+  {
+    "text": "daily",
+    "label": "DATE"
+  },
+  {
+    "text": "User\u00e2\u0080\u0099s",
+    "label": "FAC"
+  },
+  {
+    "text": "Monitoring &",
+    "label": "ORG"
+  },
+  {
+    "text": "RMAN",
+    "label": "ORG"
+  },
+  {
+    "text": "Migration of Database",
+    "label": "ORG"
+  },
+  {
+    "text": "RMAN",
+    "label": "ORG"
+  },
+  {
+    "text": "Physical Standby",
+    "label": "ORG"
+  },
+  {
+    "text": "Tablespaces",
+    "label": "ORG"
+  },
+  {
+    "text": "tnsnames.ora files",
+    "label": "PERSON"
+  },
+  {
+    "text": "ASM",
+    "label": "ORG"
+  },
+  {
+    "text": "ASM",
+    "label": "ORG"
+  },
+  {
+    "text": "24",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "7",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "Oracle 11",
+    "label": "LAW"
+  },
+  {
+    "text": "12c",
+    "label": "DATE"
+  },
+  {
+    "text": "Non-ASM",
+    "label": "ORG"
+  },
+  {
+    "text": "ASM",
+    "label": "ORG"
+  },
+  {
+    "text": "11",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "80+",
+    "label": "DATE"
+  },
+  {
+    "text": "40",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "28",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "DR &",
+    "label": "ORG"
+  },
+  {
+    "text": "Monitoring Alert",
+    "label": "PERSON"
+  },
+  {
+    "text": "OEM",
+    "label": "ORG"
+  },
+  {
+    "text": "Crontab",
+    "label": "ORG"
+  },
+  {
+    "text": "AWR",
+    "label": "ORG"
+  },
+  {
+    "text": "Oracle",
+    "label": "PERSON"
+  },
+  {
+    "text": "SQL Server",
+    "label": "ORG"
+  },
+  {
+    "text": "Datafiles/Tablespace/Transactional Logs",
+    "label": "ORG"
+  },
+  {
+    "text": "Managing Temp",
+    "label": "PERSON"
+  },
+  {
+    "text": "Undo",
+    "label": "ORG"
+  }
+]

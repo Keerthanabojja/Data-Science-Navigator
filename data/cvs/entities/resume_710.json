@@ -1,0 +1,410 @@
+[
+  {
+    "text": "2017",
+    "label": "DATE"
+  },
+  {
+    "text": "9.5",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "9.6",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "11gR2",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "Operating Systems",
+    "label": "ORG"
+  },
+  {
+    "text": "Oracle Linux",
+    "label": "PERSON"
+  },
+  {
+    "text": "2012/ 2016",
+    "label": "DATE"
+  },
+  {
+    "text": "11",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "Oracle Database Software Installation, Creation of Database",
+    "label": "ORG"
+  },
+  {
+    "text": "File",
+    "label": "ORG"
+  },
+  {
+    "text": "Space Management",
+    "label": "ORG"
+  },
+  {
+    "text": "Privileges/Roles",
+    "label": "ORG"
+  },
+  {
+    "text": "11gR2",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "Control",
+    "label": "ORG"
+  },
+  {
+    "text": "Redolog/Archive/Undo Management",
+    "label": "WORK_OF_ART"
+  },
+  {
+    "text": "Netmgr",
+    "label": "ORG"
+  },
+  {
+    "text": "Generating AWR",
+    "label": "PERSON"
+  },
+  {
+    "text": "ADDM",
+    "label": "ORG"
+  },
+  {
+    "text": "Database Backup",
+    "label": "ORG"
+  },
+  {
+    "text": "RMAN",
+    "label": "ORG"
+  },
+  {
+    "text": "Flashback Technologies & Expdp/Impdp",
+    "label": "ORG"
+  },
+  {
+    "text": "Oracle Linux Platform",
+    "label": "ORG"
+  },
+  {
+    "text": "RAC",
+    "label": "ORG"
+  },
+  {
+    "text": "CRSCTL",
+    "label": "ORG"
+  },
+  {
+    "text": "SRVCTL",
+    "label": "ORG"
+  },
+  {
+    "text": "RAC",
+    "label": "ORG"
+  },
+  {
+    "text": "Add/Remove Nodes",
+    "label": "ORG"
+  },
+  {
+    "text": "11.2.0.1",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "Good Communication",
+    "label": "ORG"
+  },
+  {
+    "text": "Education Details \n\n ",
+    "label": "ORG"
+  },
+  {
+    "text": "B.E Computer Engineering Mumbai",
+    "label": "ORG"
+  },
+  {
+    "text": "Maharashtra Mumbai University",
+    "label": "ORG"
+  },
+  {
+    "text": "Patil Jr College",
+    "label": "PERSON"
+  },
+  {
+    "text": "Marketplace Technologies Ltd\n\nSkill Details",
+    "label": "ORG"
+  },
+  {
+    "text": "61 months",
+    "label": "DATE"
+  },
+  {
+    "text": "48 months",
+    "label": "DATE"
+  },
+  {
+    "text": "48 months",
+    "label": "DATE"
+  },
+  {
+    "text": "48 months",
+    "label": "DATE"
+  },
+  {
+    "text": "Exprience",
+    "label": "GPE"
+  },
+  {
+    "text": "Marketplace Technologies Ltd",
+    "label": "ORG"
+  },
+  {
+    "text": "MFDB",
+    "label": "ORG"
+  },
+  {
+    "text": "RTRMS",
+    "label": "ORG"
+  },
+  {
+    "text": "IndiaINX",
+    "label": "ORG"
+  },
+  {
+    "text": "Standard & Enterprise",
+    "label": "ORG"
+  },
+  {
+    "text": "7.4",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "Postgresql 9.5",
+    "label": "ORG"
+  },
+  {
+    "text": "9.6",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "2017",
+    "label": "DATE"
+  },
+  {
+    "text": "Bombay Stock Exchange",
+    "label": "ORG"
+  },
+  {
+    "text": "BSE",
+    "label": "ORG"
+  },
+  {
+    "text": "Asia",
+    "label": "LOC"
+  },
+  {
+    "text": "first & the Fastest Stock Exchange",
+    "label": "ORG"
+  },
+  {
+    "text": "6 micro seconds",
+    "label": "TIME"
+  },
+  {
+    "text": "one",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "India",
+    "label": "GPE"
+  },
+  {
+    "text": "BSE",
+    "label": "ORG"
+  },
+  {
+    "text": "SME",
+    "label": "ORG"
+  },
+  {
+    "text": "India",
+    "label": "GPE"
+  },
+  {
+    "text": "SME",
+    "label": "ORG"
+  },
+  {
+    "text": "250",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "Pacemaker",
+    "label": "ORG"
+  },
+  {
+    "text": "Coordinated with Developers/Linux",
+    "label": "ORG"
+  },
+  {
+    "text": "Installed /Configured Postgresql",
+    "label": "ORG"
+  },
+  {
+    "text": "Redhat Linux",
+    "label": "ORG"
+  },
+  {
+    "text": "Performed Postgresql Server Management",
+    "label": "ORG"
+  },
+  {
+    "text": "Backup & Restore, Configuration",
+    "label": "ORG"
+  },
+  {
+    "text": "Troubleshooting",
+    "label": "GPE"
+  },
+  {
+    "text": "Worked",
+    "label": "GPE"
+  },
+  {
+    "text": "SAN",
+    "label": "ORG"
+  },
+  {
+    "text": "EMC",
+    "label": "ORG"
+  },
+  {
+    "text": "Configured LDAP authentication & GSSAPI Authentication",
+    "label": "ORG"
+  },
+  {
+    "text": "Windows to Linux",
+    "label": "NORP"
+  },
+  {
+    "text": "Postgresql",
+    "label": "GPE"
+  },
+  {
+    "text": "Configured",
+    "label": "PRODUCT"
+  },
+  {
+    "text": "Postgresql",
+    "label": "GPE"
+  },
+  {
+    "text": "Linux",
+    "label": "GPE"
+  },
+  {
+    "text": "SQL Servers",
+    "label": "ORG"
+  },
+  {
+    "text": "PR & DR",
+    "label": "ORG"
+  },
+  {
+    "text": "Configured Linked Servers",
+    "label": "PERSON"
+  },
+  {
+    "text": "Transactional",
+    "label": "ORG"
+  },
+  {
+    "text": "Maintenance",
+    "label": "PERSON"
+  },
+  {
+    "text": "Installed & Configured",
+    "label": "ORG"
+  },
+  {
+    "text": "2014",
+    "label": "DATE"
+  },
+  {
+    "text": "2017",
+    "label": "DATE"
+  },
+  {
+    "text": "SQL Cluster",
+    "label": "ORG"
+  },
+  {
+    "text": "Maintained",
+    "label": "GPE"
+  },
+  {
+    "text": "SQL",
+    "label": "ORG"
+  },
+  {
+    "text": "Worked",
+    "label": "GPE"
+  },
+  {
+    "text": "SQL",
+    "label": "ORG"
+  },
+  {
+    "text": "Performed SQL Server",
+    "label": "ORG"
+  },
+  {
+    "text": "SQL Instances",
+    "label": "ORG"
+  },
+  {
+    "text": "Windows SQL Cluster",
+    "label": "LOC"
+  },
+  {
+    "text": "EMC",
+    "label": "ORG"
+  },
+  {
+    "text": "Worked",
+    "label": "GPE"
+  },
+  {
+    "text": "Always-On Availability Groups",
+    "label": "ORG"
+  },
+  {
+    "text": "AAG",
+    "label": "ORG"
+  },
+  {
+    "text": "HA/DR Setup",
+    "label": "ORG"
+  },
+  {
+    "text": "SAN",
+    "label": "ORG"
+  },
+  {
+    "text": "SQL Cluster",
+    "label": "ORG"
+  },
+  {
+    "text": "SAN Environments",
+    "label": "GPE"
+  },
+  {
+    "text": "Bombay Stock Exchange",
+    "label": "ORG"
+  },
+  {
+    "text": "2012",
+    "label": "DATE"
+  }
+]

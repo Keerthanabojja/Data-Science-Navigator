@@ -1,0 +1,30 @@
+[
+  {
+    "text": "MCA",
+    "label": "ORG"
+  },
+  {
+    "text": "YMCAUST",
+    "label": "ORG"
+  },
+  {
+    "text": "Faridabad",
+    "label": "GPE"
+  },
+  {
+    "text": "Haryana\n\nData Science",
+    "label": "ORG"
+  },
+  {
+    "text": "Exprience - Less",
+    "label": "ORG"
+  },
+  {
+    "text": "Less than 1 year months",
+    "label": "DATE"
+  },
+  {
+    "text": "Less than 1 year",
+    "label": "DATE"
+  }
+]

@@ -1,0 +1,130 @@
+[
+  {
+    "text": "Maharashtra Mumbai University",
+    "label": "ORG"
+  },
+  {
+    "text": "Mumbai",
+    "label": "GPE"
+  },
+  {
+    "text": "Maharashtra Maharashtra State Board",
+    "label": "ORG"
+  },
+  {
+    "text": "SSC",
+    "label": "ORG"
+  },
+  {
+    "text": "Mumbai",
+    "label": "GPE"
+  },
+  {
+    "text": "Maharashtra Maharashtra State Board",
+    "label": "ORG"
+  },
+  {
+    "text": "Fino Payments Bank",
+    "label": "ORG"
+  },
+  {
+    "text": "\u00a6 Conducted",
+    "label": "PERSON"
+  },
+  {
+    "text": "Technical Architect and Business Architect",
+    "label": "ORG"
+  },
+  {
+    "text": "Business Requirement Document",
+    "label": "ORG"
+  },
+  {
+    "text": "BRD",
+    "label": "ORG"
+  },
+  {
+    "text": "\u00a6 Created Functional Specification Document",
+    "label": "ORG"
+  },
+  {
+    "text": "FSD",
+    "label": "ORG"
+  },
+  {
+    "text": "\u00a6 Led",
+    "label": "PERSON"
+  },
+  {
+    "text": "\u00a6 SPOC",
+    "label": "PERSON"
+  },
+  {
+    "text": "\u00a6 Led",
+    "label": "PERSON"
+  },
+  {
+    "text": "\u00a6 Design",
+    "label": "PERSON"
+  },
+  {
+    "text": "\u00a6 Involved",
+    "label": "PERSON"
+  },
+  {
+    "text": "Process Design",
+    "label": "GPE"
+  },
+  {
+    "text": "\u00a6 Performed Functional Testing",
+    "label": "ORG"
+  },
+  {
+    "text": "UAT",
+    "label": "ORG"
+  },
+  {
+    "text": "UAT",
+    "label": "ORG"
+  },
+  {
+    "text": "UAT",
+    "label": "ORG"
+  },
+  {
+    "text": "\u00a6 Worked",
+    "label": "PERSON"
+  },
+  {
+    "text": "Feasibility\n\nAnalysis",
+    "label": "ORG"
+  },
+  {
+    "text": "\u00a6 Requirement",
+    "label": "PERSON"
+  },
+  {
+    "text": "Airtel Zambia National Partner Project\n\n",
+    "label": "ORG"
+  },
+  {
+    "text": "\u00a6 Led",
+    "label": "PERSON"
+  },
+  {
+    "text": "\u00a6 Designed",
+    "label": "PERSON"
+  },
+  {
+    "text": "CAPA",
+    "label": "ORG"
+  },
+  {
+    "text": "PMO",
+    "label": "NORP"
+  },
+  {
+    "text": "Parivartan",
+    "label": "GPE"
+  }
+]

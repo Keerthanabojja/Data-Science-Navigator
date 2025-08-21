@@ -1,0 +1,18 @@
+{
+  "resume": "resume_592.txt",
+  "found_skills": [
+    "python",
+    "sql",
+    "excel",
+    "spark",
+    "r",
+    "numpy"
+  ],
+  "missing_skills": [
+    "aws",
+    "tableau",
+    "hadoop",
+    "sas",
+    "azure"
+  ]
+}

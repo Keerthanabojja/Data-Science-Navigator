@@ -1,0 +1,78 @@
+[
+  {
+    "text": "MATLAB",
+    "label": "ORG"
+  },
+  {
+    "text": "Data Science, Machine Learning",
+    "label": "ORG"
+  },
+  {
+    "text": "HTML",
+    "label": "ORG"
+  },
+  {
+    "text": "Microsoft Word",
+    "label": "ORG"
+  },
+  {
+    "text": "Microsoft Excel",
+    "label": "ORG"
+  },
+  {
+    "text": "Microsoft Powerpoint",
+    "label": "ORG"
+  },
+  {
+    "text": "RECOGNITION Academic Secured",
+    "label": "ORG"
+  },
+  {
+    "text": "First",
+    "label": "ORDINAL"
+  },
+  {
+    "text": "B.Tech",
+    "label": "ORG"
+  },
+  {
+    "text": "August 2014 to May 2018",
+    "label": "DATE"
+  },
+  {
+    "text": "Ghatkesar",
+    "label": "PERSON"
+  },
+  {
+    "text": "Andhra Pradesh Aurora's",
+    "label": "PERSON"
+  },
+  {
+    "text": "Technological Institute",
+    "label": "ORG"
+  },
+  {
+    "text": "June 2012",
+    "label": "DATE"
+  },
+  {
+    "text": "May 2014  Secondary Education Warangal",
+    "label": "DATE"
+  },
+  {
+    "text": "Telangana SR Junior College\n\nData Science \n\n\n\n\n\nSkill Details",
+    "label": "ORG"
+  },
+  {
+    "text": "Exprience - Less",
+    "label": "ORG"
+  },
+  {
+    "text": "Exprience - Less",
+    "label": "ORG"
+  },
+  {
+    "text": "Exprience - Less",
+    "label": "ORG"
+  }
+]

@@ -1,0 +1,266 @@
+[
+  {
+    "text": "January 2012 to January 2013",
+    "label": "DATE"
+  },
+  {
+    "text": "B.E. Electrical  Shivaji University",
+    "label": "ORG"
+  },
+  {
+    "text": "Pune",
+    "label": "LOC"
+  },
+  {
+    "text": "Maharashtra Pune University",
+    "label": "ORG"
+  },
+  {
+    "text": "July 2006",
+    "label": "DATE"
+  },
+  {
+    "text": "SSC",
+    "label": "ORG"
+  },
+  {
+    "text": "Pune",
+    "label": "ORG"
+  },
+  {
+    "text": "Maharashtra Pune University\n\nElectrical Engineer",
+    "label": "ORG"
+  },
+  {
+    "text": "1 Year",
+    "label": "DATE"
+  },
+  {
+    "text": "3 Months",
+    "label": "DATE"
+  },
+  {
+    "text": "All Type of Maintenance of Utility",
+    "label": "ORG"
+  },
+  {
+    "text": "Electrical",
+    "label": "ORG"
+  },
+  {
+    "text": "Mechanical Maintenance",
+    "label": "ORG"
+  },
+  {
+    "text": "Two",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "625",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "Generator Set",
+    "label": "PERSON"
+  },
+  {
+    "text": "Kirloskar",
+    "label": "PERSON"
+  },
+  {
+    "text": "Provision For Interlocking",
+    "label": "ORG"
+  },
+  {
+    "text": "Kirloskar",
+    "label": "PERSON"
+  },
+  {
+    "text": "Handling HT Vacuum & SF6 Circuit Breaker",
+    "label": "ORG"
+  },
+  {
+    "text": "5000",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "KVA",
+    "label": "PERSON"
+  },
+  {
+    "text": "LT Air",
+    "label": "ORG"
+  },
+  {
+    "text": "Breaker",
+    "label": "ORG"
+  },
+  {
+    "text": "2000A",
+    "label": "DATE"
+  },
+  {
+    "text": "Maintenance of STP",
+    "label": "PERSON"
+  },
+  {
+    "text": "WTP Plant",
+    "label": "ORG"
+  },
+  {
+    "text": "Maintenance of Air Blower",
+    "label": "ORG"
+  },
+  {
+    "text": "Soft Starter",
+    "label": "PERSON"
+  },
+  {
+    "text": "EOT Crane",
+    "label": "ORG"
+  },
+  {
+    "text": "Mono Rail",
+    "label": "PERSON"
+  },
+  {
+    "text": "Centrifugal",
+    "label": "GPE"
+  },
+  {
+    "text": "Hydraulic Machine",
+    "label": "PERSON"
+  },
+  {
+    "text": "Lath Machine",
+    "label": "PERSON"
+  },
+  {
+    "text": "Drill Machine",
+    "label": "PERSON"
+  },
+  {
+    "text": "AHU",
+    "label": "ORG"
+  },
+  {
+    "text": "Chiller",
+    "label": "PERSON"
+  },
+  {
+    "text": "PLC/SCADA Operation",
+    "label": "ORG"
+  },
+  {
+    "text": "Switchgear and Control Panel",
+    "label": "ORG"
+  },
+  {
+    "text": "Pump and Motor\n\n",
+    "label": "ORG"
+  },
+  {
+    "text": "Maintenance of UPS",
+    "label": "PERSON"
+  },
+  {
+    "text": "Battery Charger",
+    "label": "GPE"
+  },
+  {
+    "text": "Battery Bank",
+    "label": "ORG"
+  },
+  {
+    "text": "450",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "Monitoring and Controlling",
+    "label": "ORG"
+  },
+  {
+    "text": "Control Panel",
+    "label": "ORG"
+  },
+  {
+    "text": "Relays Panel",
+    "label": "ORG"
+  },
+  {
+    "text": "Fault Finding & Relay Resetting",
+    "label": "ORG"
+  },
+  {
+    "text": "Monitoring and Correcting Power Factor\n\n\u00e2\u0080\u00a2 Service",
+    "label": "ORG"
+  },
+  {
+    "text": "55",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "Maintenance of MCC",
+    "label": "PERSON"
+  },
+  {
+    "text": "PCC Panel",
+    "label": "ORG"
+  },
+  {
+    "text": "Servicing of Motor",
+    "label": "ORG"
+  },
+  {
+    "text": "Associated Component and",
+    "label": "ORG"
+  },
+  {
+    "text": "Problem Solving",
+    "label": "ORG"
+  },
+  {
+    "text": "Power Contactor",
+    "label": "ORG"
+  },
+  {
+    "text": "CT",
+    "label": "ORG"
+  },
+  {
+    "text": "Effecting Preventive/Predictive Maintenance Schedules Equipment",
+    "label": "ORG"
+  },
+  {
+    "text": "Order to Increase",
+    "label": "ORG"
+  },
+  {
+    "text": "Maintenance & Operation",
+    "label": "ORG"
+  },
+  {
+    "text": "Preventive Maintenance",
+    "label": "GPE"
+  },
+  {
+    "text": "33/22kV",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "Main Feeder &",
+    "label": "ORG"
+  },
+  {
+    "text": "Various Aspect of Safety & Its Application",
+    "label": "ORG"
+  },
+  {
+    "text": "Issue of Work Permit Line Clearance",
+    "label": "ORG"
+  },
+  {
+    "text": "Requirement & Proper Usage of Protective Equipment",
+    "label": "ORG"
+  }
+]

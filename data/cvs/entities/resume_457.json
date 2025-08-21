@@ -1,0 +1,394 @@
+[
+  {
+    "text": "January 2011 to January 2016",
+    "label": "DATE"
+  },
+  {
+    "text": "Mumbai",
+    "label": "GPE"
+  },
+  {
+    "text": "Maharashtra MUMBAI UNIVERSITY\n\n Bachelor of Electronics Engineering Electronics Engineering Mumbai",
+    "label": "ORG"
+  },
+  {
+    "text": "Maharashtra Atharva College of Engineering",
+    "label": "ORG"
+  },
+  {
+    "text": "BARC hospital Anushaktinagar",
+    "label": "ORG"
+  },
+  {
+    "text": "Trombay",
+    "label": "ORG"
+  },
+  {
+    "text": "BARC",
+    "label": "ORG"
+  },
+  {
+    "text": "Kalyan",
+    "label": "GPE"
+  },
+  {
+    "text": "Implemented of academy",
+    "label": "ORG"
+  },
+  {
+    "text": "PLC",
+    "label": "ORG"
+  },
+  {
+    "text": "Industrial Automation",
+    "label": "ORG"
+  },
+  {
+    "text": "Level",
+    "label": "ORG"
+  },
+  {
+    "text": "PID",
+    "label": "ORG"
+  },
+  {
+    "text": "PLC",
+    "label": "ORG"
+  },
+  {
+    "text": "DOL",
+    "label": "ORG"
+  },
+  {
+    "text": "Star",
+    "label": "ORG"
+  },
+  {
+    "text": "3",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "Panel",
+    "label": "GPE"
+  },
+  {
+    "text": "IP",
+    "label": "ORG"
+  },
+  {
+    "text": "Control Panel",
+    "label": "ORG"
+  },
+  {
+    "text": "Eletrical Single Line Daigram",
+    "label": "ORG"
+  },
+  {
+    "text": "SLD",
+    "label": "ORG"
+  },
+  {
+    "text": "SMEC Automation",
+    "label": "ORG"
+  },
+  {
+    "text": "India",
+    "label": "GPE"
+  },
+  {
+    "text": "Marine Boiler",
+    "label": "PERSON"
+  },
+  {
+    "text": "Main Engine Control",
+    "label": "ORG"
+  },
+  {
+    "text": "IGG",
+    "label": "ORG"
+  },
+  {
+    "text": "Alarm System",
+    "label": "ORG"
+  },
+  {
+    "text": "6 months",
+    "label": "DATE"
+  },
+  {
+    "text": "8th June 2016 to 30th November 2016",
+    "label": "DATE"
+  },
+  {
+    "text": "Industrial Calibration and Instrumentation and Post",
+    "label": "ORG"
+  },
+  {
+    "text": "Industrial Automation",
+    "label": "ORG"
+  },
+  {
+    "text": "3 months",
+    "label": "DATE"
+  },
+  {
+    "text": "Industrial Automation Tools like PLC",
+    "label": "ORG"
+  },
+  {
+    "text": "PAC",
+    "label": "ORG"
+  },
+  {
+    "text": "SCADA",
+    "label": "GPE"
+  },
+  {
+    "text": "HMI",
+    "label": "ORG"
+  },
+  {
+    "text": "INTERFACING",
+    "label": "ORG"
+  },
+  {
+    "text": "DRIVES",
+    "label": "ORG"
+  },
+  {
+    "text": "MCC PANEL",
+    "label": "ORG"
+  },
+  {
+    "text": "VFD",
+    "label": "ORG"
+  },
+  {
+    "text": "Post Graduation",
+    "label": "ORG"
+  },
+  {
+    "text": "Industrial Automation and Post Graduation",
+    "label": "ORG"
+  },
+  {
+    "text": "07-11-2016",
+    "label": "DATE"
+  },
+  {
+    "text": "PLC Hardware",
+    "label": "ORG"
+  },
+  {
+    "text": "Schneider",
+    "label": "PERSON"
+  },
+  {
+    "text": "Siemens",
+    "label": "ORG"
+  },
+  {
+    "text": "Omron",
+    "label": "GPE"
+  },
+  {
+    "text": "Delta",
+    "label": "ORG"
+  },
+  {
+    "text": "ABB",
+    "label": "ORG"
+  },
+  {
+    "text": "GE-Fanuc",
+    "label": "ORG"
+  },
+  {
+    "text": "PLC",
+    "label": "ORG"
+  },
+  {
+    "text": "SCADA",
+    "label": "GPE"
+  },
+  {
+    "text": "Intouch",
+    "label": "ORG"
+  },
+  {
+    "text": "Vijeo-Citect",
+    "label": "ORG"
+  },
+  {
+    "text": "iFix",
+    "label": "ORG"
+  },
+  {
+    "text": "Factory TalkView",
+    "label": "LOC"
+  },
+  {
+    "text": "OPC",
+    "label": "ORG"
+  },
+  {
+    "text": "Kepware",
+    "label": "GPE"
+  },
+  {
+    "text": "HMI &",
+    "label": "ORG"
+  },
+  {
+    "text": "Schneider-Electric",
+    "label": "ORG"
+  },
+  {
+    "text": "28",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "Series",
+    "label": "EVENT"
+  },
+  {
+    "text": "Control Valve, Level",
+    "label": "ORG"
+  },
+  {
+    "text": "Druck Injector",
+    "label": "ORG"
+  },
+  {
+    "text": "Smart DP",
+    "label": "ORG"
+  },
+  {
+    "text": "HART COMMUNICATOR",
+    "label": "ORG"
+  },
+  {
+    "text": "Hand Tools",
+    "label": "PERSON"
+  },
+  {
+    "text": "Tubes and Pipe",
+    "label": "ORG"
+  },
+  {
+    "text": "Cable and Cable Glanding",
+    "label": "ORG"
+  },
+  {
+    "text": "HONEYWELL",
+    "label": "ORG"
+  },
+  {
+    "text": "Completed 5 days Robotic",
+    "label": "ORG"
+  },
+  {
+    "text": "KUKA KR 16",
+    "label": "ORG"
+  },
+  {
+    "text": "Atharva College of Engineering",
+    "label": "ORG"
+  },
+  {
+    "text": "2 weeks",
+    "label": "DATE"
+  },
+  {
+    "text": "RK Electricals",
+    "label": "ORG"
+  },
+  {
+    "text": "EPLAN",
+    "label": "ORG"
+  },
+  {
+    "text": "Rockwell",
+    "label": "ORG"
+  },
+  {
+    "text": "Twido",
+    "label": "NORP"
+  },
+  {
+    "text": "Step7-Microwin SP2",
+    "label": "PERSON"
+  },
+  {
+    "text": "CX-Programmer",
+    "label": "ORG"
+  },
+  {
+    "text": "WPL Software",
+    "label": "ORG"
+  },
+  {
+    "text": "Codesys",
+    "label": "GPE"
+  },
+  {
+    "text": "Versa Pro",
+    "label": "PERSON"
+  },
+  {
+    "text": "Wonderware",
+    "label": "ORG"
+  },
+  {
+    "text": "CitectScada7.4",
+    "label": "PRODUCT"
+  },
+  {
+    "text": "FactotyTalk View",
+    "label": "ORG"
+  },
+  {
+    "text": "C++",
+    "label": "WORK_OF_ART"
+  },
+  {
+    "text": "JAVA\" Programming",
+    "label": "WORK_OF_ART"
+  },
+  {
+    "text": "IIT",
+    "label": "ORG"
+  },
+  {
+    "text": "Completed 5 days",
+    "label": "ORG"
+  },
+  {
+    "text": "Basic Of Mac OS",
+    "label": "WORK_OF_ART"
+  },
+  {
+    "text": "Atharva College of Engineering",
+    "label": "ORG"
+  },
+  {
+    "text": "Completed Phython Workshop",
+    "label": "PERSON"
+  },
+  {
+    "text": "CodeStrike",
+    "label": "ORG"
+  },
+  {
+    "text": "1 day",
+    "label": "DATE"
+  },
+  {
+    "text": "'15",
+    "label": "DATE"
+  },
+  {
+    "text": "Atharva College of Engineering",
+    "label": "ORG"
+  }
+]

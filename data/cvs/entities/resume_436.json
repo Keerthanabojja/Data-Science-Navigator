@@ -1,0 +1,54 @@
+[
+  {
+    "text": "January 2016",
+    "label": "DATE"
+  },
+  {
+    "text": "Bachelor Of Engineering LEAN PROJECTS Mumbai",
+    "label": "ORG"
+  },
+  {
+    "text": "Maharashtra Mumbai University",
+    "label": "ORG"
+  },
+  {
+    "text": "January 2013",
+    "label": "DATE"
+  },
+  {
+    "text": "Diploma Computer Engineering Ratnagiri",
+    "label": "ORG"
+  },
+  {
+    "text": "Maharashtra Maharashtra State Board of Technical Education",
+    "label": "ORG"
+  },
+  {
+    "text": "Quick Learner",
+    "label": "PERSON"
+  },
+  {
+    "text": "Microsoft Excel",
+    "label": "ORG"
+  },
+  {
+    "text": "Role",
+    "label": "PRODUCT"
+  },
+  {
+    "text": "SAP",
+    "label": "ORG"
+  },
+  {
+    "text": "Confidence and Positive Attitude",
+    "label": "ORG"
+  },
+  {
+    "text": "10.X",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "SAP Market Place",
+    "label": "ORG"
+  }
+]

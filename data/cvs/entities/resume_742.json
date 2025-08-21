@@ -1,0 +1,106 @@
+[
+  {
+    "text": "SQL",
+    "label": "ORG"
+  },
+  {
+    "text": "Oracle",
+    "label": "NORP"
+  },
+  {
+    "text": "Edvancer Eduventures",
+    "label": "PERSON"
+  },
+  {
+    "text": "Leadership",
+    "label": "PRODUCT"
+  },
+  {
+    "text": "June 2012",
+    "label": "DATE"
+  },
+  {
+    "text": "Pre-University College\n\nApplication Database Administrator-DBMS",
+    "label": "ORG"
+  },
+  {
+    "text": "Oracle",
+    "label": "ORG"
+  },
+  {
+    "text": "Oracle",
+    "label": "NORP"
+  },
+  {
+    "text": "30 months",
+    "label": "DATE"
+  },
+  {
+    "text": "MACHINE",
+    "label": "ORG"
+  },
+  {
+    "text": "Exprience",
+    "label": "GPE"
+  },
+  {
+    "text": "30 months",
+    "label": "DATE"
+  },
+  {
+    "text": "Exprience - 30 months",
+    "label": "DATE"
+  },
+  {
+    "text": "Exprience",
+    "label": "GPE"
+  },
+  {
+    "text": "30 months",
+    "label": "DATE"
+  },
+  {
+    "text": "IBM India Pvt Ltd",
+    "label": "ORG"
+  },
+  {
+    "text": "Blue Cross Blue Shield",
+    "label": "ORG"
+  },
+  {
+    "text": "Massachusetts Health Insurance",
+    "label": "ORG"
+  },
+  {
+    "text": "Oracle",
+    "label": "PERSON"
+  },
+  {
+    "text": "Linux",
+    "label": "PRODUCT"
+  },
+  {
+    "text": "SLA",
+    "label": "ORG"
+  },
+  {
+    "text": "weekly",
+    "label": "DATE"
+  },
+  {
+    "text": "IBM Certifications",
+    "label": "ORG"
+  },
+  {
+    "text": "101",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "Applied Data Science",
+    "label": "ORG"
+  },
+  {
+    "text": "Big Data Foundations",
+    "label": "ORG"
+  }
+]

@@ -1,0 +1,190 @@
+[
+  {
+    "text": "Technical Expertise Operating Systems",
+    "label": "ORG"
+  },
+  {
+    "text": "Oracle",
+    "label": "PERSON"
+  },
+  {
+    "text": "7.0/9.0",
+    "label": "MONEY"
+  },
+  {
+    "text": "Solar",
+    "label": "ORG"
+  },
+  {
+    "text": "DPA",
+    "label": "ORG"
+  },
+  {
+    "text": "Web Server",
+    "label": "PERSON"
+  },
+  {
+    "text": "7.0",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "DBArtisan",
+    "label": "ORG"
+  },
+  {
+    "text": "Studio 3T",
+    "label": "LAW"
+  },
+  {
+    "text": "SnapShot",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "SQL ServerEducation Details",
+    "label": "ORG"
+  },
+  {
+    "text": "B. Tech Computer Science Gulbarga",
+    "label": "ORG"
+  },
+  {
+    "text": "Karnataka PDACOE",
+    "label": "PERSON"
+  },
+  {
+    "text": "Gulbarga",
+    "label": "ORG"
+  },
+  {
+    "text": "Autonomous Institution\n\nDatabase Administrator II \n\n\n\nDatabase Administrator III - BNY Mellon International Operations (India) PVT",
+    "label": "ORG"
+  },
+  {
+    "text": "LTD",
+    "label": "ORG"
+  },
+  {
+    "text": "BNY Mellon International Operations",
+    "label": "ORG"
+  },
+  {
+    "text": "\u00ef\u0083\u0098\tInstallation of SSRS",
+    "label": "WORK_OF_ART"
+  },
+  {
+    "text": "Aware",
+    "label": "ORG"
+  },
+  {
+    "text": "SSIS",
+    "label": "ORG"
+  },
+  {
+    "text": "SQL",
+    "label": "ORG"
+  },
+  {
+    "text": "2005/2008",
+    "label": "DATE"
+  },
+  {
+    "text": "QA",
+    "label": "ORG"
+  },
+  {
+    "text": "DEV",
+    "label": "ORG"
+  },
+  {
+    "text": "UAT",
+    "label": "ORG"
+  },
+  {
+    "text": "QA",
+    "label": "GPE"
+  },
+  {
+    "text": "UAT & DEV",
+    "label": "ORG"
+  },
+  {
+    "text": "DR",
+    "label": "GPE"
+  },
+  {
+    "text": "Writing",
+    "label": "ORG"
+  },
+  {
+    "text": "DR",
+    "label": "GPE"
+  },
+  {
+    "text": "Ops",
+    "label": "ORG"
+  },
+  {
+    "text": "Ops",
+    "label": "ORG"
+  },
+  {
+    "text": "Oracle & Sybase Server",
+    "label": "ORG"
+  },
+  {
+    "text": "Linux",
+    "label": "PERSON"
+  },
+  {
+    "text": "daily",
+    "label": "DATE"
+  },
+  {
+    "text": "Hewlett-Packard",
+    "label": "ORG"
+  },
+  {
+    "text": "Softenger India PVT",
+    "label": "ORG"
+  },
+  {
+    "text": "SQL",
+    "label": "ORG"
+  },
+  {
+    "text": "\u00ef\u0083\u0098\tCreate & Maintain",
+    "label": "ORG"
+  },
+  {
+    "text": "daily",
+    "label": "DATE"
+  },
+  {
+    "text": "weekly",
+    "label": "DATE"
+  },
+  {
+    "text": "& Space",
+    "label": "ORG"
+  },
+  {
+    "text": "one",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "Online/Offline",
+    "label": "EVENT"
+  },
+  {
+    "text": "quarterly",
+    "label": "DATE"
+  },
+  {
+    "text": "SQL",
+    "label": "ORG"
+  },
+  {
+    "text": "Contacting",
+    "label": "ORG"
+  }
+]

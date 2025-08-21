@@ -1,0 +1,398 @@
+[
+  {
+    "text": "Education Details \n\n ",
+    "label": "ORG"
+  },
+  {
+    "text": "Civil Engineering Civil Engineering Chennai",
+    "label": "ORG"
+  },
+  {
+    "text": "Tamil Nadu Anna University",
+    "label": "PERSON"
+  },
+  {
+    "text": "Mumbai",
+    "label": "GPE"
+  },
+  {
+    "text": "India",
+    "label": "GPE"
+  },
+  {
+    "text": "Jacobs Engineering India Limits",
+    "label": "ORG"
+  },
+  {
+    "text": "United States Company",
+    "label": "ORG"
+  },
+  {
+    "text": "Glaxo Smith Kline",
+    "label": "ORG"
+  },
+  {
+    "text": "GSK",
+    "label": "ORG"
+  },
+  {
+    "text": "Nashik",
+    "label": "GPE"
+  },
+  {
+    "text": "India",
+    "label": "GPE"
+  },
+  {
+    "text": "Glaxo Smith Kline",
+    "label": "ORG"
+  },
+  {
+    "text": "GSK",
+    "label": "ORG"
+  },
+  {
+    "text": "British",
+    "label": "NORP"
+  },
+  {
+    "text": "India",
+    "label": "GPE"
+  },
+  {
+    "text": "USD 150 million",
+    "label": "MONEY"
+  },
+  {
+    "text": "GSK",
+    "label": "ORG"
+  },
+  {
+    "text": "Medicine Manufacturing",
+    "label": "ORG"
+  },
+  {
+    "text": "ETP",
+    "label": "ORG"
+  },
+  {
+    "text": "Effluent Drain",
+    "label": "PERSON"
+  },
+  {
+    "text": "Inspection and Test Request",
+    "label": "LAW"
+  },
+  {
+    "text": "ITR",
+    "label": "ORG"
+  },
+  {
+    "text": "Contractor",
+    "label": "PERSON"
+  },
+  {
+    "text": "Develop",
+    "label": "ORG"
+  },
+  {
+    "text": "Inspection Test Plan",
+    "label": "LAW"
+  },
+  {
+    "text": "Checklist",
+    "label": "NORP"
+  },
+  {
+    "text": "QA",
+    "label": "GPE"
+  },
+  {
+    "text": "QA/QC",
+    "label": "ORG"
+  },
+  {
+    "text": "3|Page",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "March 2016",
+    "label": "DATE"
+  },
+  {
+    "text": "Gulf Asia Contracting Co LLC Dubai",
+    "label": "ORG"
+  },
+  {
+    "text": "Chawla Architectural & Consulting Engineers\n\nClient",
+    "label": "ORG"
+  },
+  {
+    "text": "Geepas International ltd",
+    "label": "ORG"
+  },
+  {
+    "text": "2B",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "Geepas Tower",
+    "label": "PERSON"
+  },
+  {
+    "text": "UAE",
+    "label": "ORG"
+  },
+  {
+    "text": "the Guinness World\n\nRecords",
+    "label": "ORG"
+  },
+  {
+    "text": "Gulf Asia Contracting",
+    "label": "ORG"
+  },
+  {
+    "text": "multi-billion-dollar",
+    "label": "MONEY"
+  },
+  {
+    "text": "RP Group",
+    "label": "ORG"
+  },
+  {
+    "text": "19,793",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "42 hours",
+    "label": "TIME"
+  },
+  {
+    "text": "Dh600-million",
+    "label": "MONEY"
+  },
+  {
+    "text": "$163 million",
+    "label": "MONEY"
+  },
+  {
+    "text": "Al Barsha",
+    "label": "GPE"
+  },
+  {
+    "text": "Dubai",
+    "label": "GPE"
+  },
+  {
+    "text": "Western International Group",
+    "label": "ORG"
+  },
+  {
+    "text": "the Project Team",
+    "label": "ORG"
+  },
+  {
+    "text": "the Contract Plan and Contract Specifications",
+    "label": "LAW"
+  },
+  {
+    "text": "Liaise",
+    "label": "PERSON"
+  },
+  {
+    "text": "Client",
+    "label": "GPE"
+  },
+  {
+    "text": "Project",
+    "label": "NORP"
+  },
+  {
+    "text": "O & M",
+    "label": "ORG"
+  },
+  {
+    "text": "Non-Conformance Report",
+    "label": "ORG"
+  },
+  {
+    "text": "NCR",
+    "label": "ORG"
+  },
+  {
+    "text": "the Contract Specifications",
+    "label": "ORG"
+  },
+  {
+    "text": "Monthly",
+    "label": "DATE"
+  },
+  {
+    "text": "Project Review Meetings",
+    "label": "ORG"
+  },
+  {
+    "text": "PRM",
+    "label": "ORG"
+  },
+  {
+    "text": "Mumbai",
+    "label": "GPE"
+  },
+  {
+    "text": "India",
+    "label": "GPE"
+  },
+  {
+    "text": "Toyo Engineering India Limits",
+    "label": "ORG"
+  },
+  {
+    "text": "Japan Company",
+    "label": "ORG"
+  },
+  {
+    "text": "LNG Limits",
+    "label": "ORG"
+  },
+  {
+    "text": "Dahej",
+    "label": "GPE"
+  },
+  {
+    "text": "Gujarat",
+    "label": "GPE"
+  },
+  {
+    "text": "India",
+    "label": "GPE"
+  },
+  {
+    "text": "LNG",
+    "label": "ORG"
+  },
+  {
+    "text": "Liquefied Natural Gas) ltd",
+    "label": "ORG"
+  },
+  {
+    "text": "India",
+    "label": "GPE"
+  },
+  {
+    "text": "Dahej",
+    "label": "PRODUCT"
+  },
+  {
+    "text": "17.5 million tons",
+    "label": "QUANTITY"
+  },
+  {
+    "text": "LNG ltd",
+    "label": "ORG"
+  },
+  {
+    "text": "first",
+    "label": "ORDINAL"
+  },
+  {
+    "text": "LNG",
+    "label": "ORG"
+  },
+  {
+    "text": "India",
+    "label": "GPE"
+  },
+  {
+    "text": "the Capacity of\n\n",
+    "label": "ORG"
+  },
+  {
+    "text": "10 million metric tons",
+    "label": "QUANTITY"
+  },
+  {
+    "text": "Indian",
+    "label": "NORP"
+  },
+  {
+    "text": "The Project Involving in Air",
+    "label": "ORG"
+  },
+  {
+    "text": "Substation",
+    "label": "ORG"
+  },
+  {
+    "text": "Pump House",
+    "label": "ORG"
+  },
+  {
+    "text": "Control",
+    "label": "ORG"
+  },
+  {
+    "text": "QA",
+    "label": "GPE"
+  },
+  {
+    "text": "QA/QC",
+    "label": "ORG"
+  },
+  {
+    "text": "Company's\n\nHealth, Safety and Environment",
+    "label": "ORG"
+  },
+  {
+    "text": "2|Page\n\n",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "Perform",
+    "label": "ORG"
+  },
+  {
+    "text": "Cary",
+    "label": "PERSON"
+  },
+  {
+    "text": "Non-Compliance Report",
+    "label": "ORG"
+  },
+  {
+    "text": "Kerala",
+    "label": "PERSON"
+  },
+  {
+    "text": "India",
+    "label": "GPE"
+  },
+  {
+    "text": "Kerala",
+    "label": "GPE"
+  },
+  {
+    "text": "G + 8 Floor",
+    "label": "ORG"
+  },
+  {
+    "text": "1|Page",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "Health, Safety, Security",
+    "label": "ORG"
+  },
+  {
+    "text": "PPE",
+    "label": "ORG"
+  },
+  {
+    "text": "daily",
+    "label": "DATE"
+  },
+  {
+    "text": "weekly",
+    "label": "DATE"
+  }
+]

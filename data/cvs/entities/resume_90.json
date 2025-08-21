@@ -1,0 +1,98 @@
+[
+  {
+    "text": "January 2001 to January 2003",
+    "label": "DATE"
+  },
+  {
+    "text": "Law Chennai",
+    "label": "PERSON"
+  },
+  {
+    "text": "Tamil Nadu",
+    "label": "PERSON"
+  },
+  {
+    "text": "Ambedkar Law University",
+    "label": "PERSON"
+  },
+  {
+    "text": "January 1998 to January 2001",
+    "label": "DATE"
+  },
+  {
+    "text": "Bachelor Law Chennai",
+    "label": "ORG"
+  },
+  {
+    "text": "Tamil Nadu",
+    "label": "PERSON"
+  },
+  {
+    "text": "Ambedkar Law University",
+    "label": "PERSON"
+  },
+  {
+    "text": "January 1995",
+    "label": "DATE"
+  },
+  {
+    "text": "January 1998",
+    "label": "DATE"
+  },
+  {
+    "text": "Bachelor English Literature Tirunelveli",
+    "label": "ORG"
+  },
+  {
+    "text": "Tamil Nadu",
+    "label": "PERSON"
+  },
+  {
+    "text": "Manonmaniam Sundaranar",
+    "label": "PERSON"
+  },
+  {
+    "text": "Madras",
+    "label": "GPE"
+  },
+  {
+    "text": "India",
+    "label": "GPE"
+  },
+  {
+    "text": "City Civil Court",
+    "label": "ORG"
+  },
+  {
+    "text": "Chennai\n\n\n\n",
+    "label": "PERSON"
+  },
+  {
+    "text": "Chennai\n\n\n\n",
+    "label": "PERSON"
+  },
+  {
+    "text": "Labour Courts",
+    "label": "ORG"
+  },
+  {
+    "text": "Christian Institute of Management, Chennai",
+    "label": "ORG"
+  },
+  {
+    "text": "2016",
+    "label": "DATE"
+  },
+  {
+    "text": "Chennai",
+    "label": "ORG"
+  },
+  {
+    "text": "NESSA Trust",
+    "label": "ORG"
+  },
+  {
+    "text": "2018",
+    "label": "DATE"
+  }
+]

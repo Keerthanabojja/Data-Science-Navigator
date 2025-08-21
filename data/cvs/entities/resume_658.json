@@ -1,0 +1,302 @@
+[
+  {
+    "text": "Checkpoint",
+    "label": "PERSON"
+  },
+  {
+    "text": "Splat",
+    "label": "ORG"
+  },
+  {
+    "text": "Palo Alto",
+    "label": "GPE"
+  },
+  {
+    "text": "\u00e2\u009e\u00a2 Firewall",
+    "label": "ORG"
+  },
+  {
+    "text": "Cisco",
+    "label": "GPE"
+  },
+  {
+    "text": "Checkpoint Smart",
+    "label": "PERSON"
+  },
+  {
+    "text": "Palo Alto",
+    "label": "GPE"
+  },
+  {
+    "text": "LTM",
+    "label": "ORG"
+  },
+  {
+    "text": "Cisco Switches",
+    "label": "PERSON"
+  },
+  {
+    "text": "\u00e2\u009e\u00a2 Security Management & Event Management:",
+    "label": "ORG"
+  },
+  {
+    "text": "4.1",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "BMC Remedy",
+    "label": "PERSON"
+  },
+  {
+    "text": "January 2006 to January 2010",
+    "label": "DATE"
+  },
+  {
+    "text": "Bachelor of Engineering Information Technology Mumbai",
+    "label": "ORG"
+  },
+  {
+    "text": "Maharashtra Mumbai University",
+    "label": "ORG"
+  },
+  {
+    "text": "Exprience - 97 months",
+    "label": "DATE"
+  },
+  {
+    "text": "Exprience - 89 months",
+    "label": "DATE"
+  },
+  {
+    "text": "Exprience - 72 months",
+    "label": "DATE"
+  },
+  {
+    "text": "Exprience - 45 months",
+    "label": "DATE"
+  },
+  {
+    "text": "Exprience - 44 monthsCompany",
+    "label": "ORG"
+  },
+  {
+    "text": "Cisco ASA",
+    "label": "ORG"
+  },
+  {
+    "text": "5500-X",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "Single",
+    "label": "GPE"
+  },
+  {
+    "text": "SSL",
+    "label": "ORG"
+  },
+  {
+    "text": "Juniper",
+    "label": "ORG"
+  },
+  {
+    "text": "Roles/ Realm",
+    "label": "PERSON"
+  },
+  {
+    "text": "PAC",
+    "label": "ORG"
+  },
+  {
+    "text": "HLD",
+    "label": "ORG"
+  },
+  {
+    "text": "LLD",
+    "label": "ORG"
+  },
+  {
+    "text": "IP Schema and Configuration",
+    "label": "ORG"
+  },
+  {
+    "text": "\u00e2\u009e\u00a2 Incident Management, Change",
+    "label": "ORG"
+  },
+  {
+    "text": "Problem Management",
+    "label": "ORG"
+  },
+  {
+    "text": "Cisco",
+    "label": "GPE"
+  },
+  {
+    "text": "Upgrades Checkpoint",
+    "label": "ORG"
+  },
+  {
+    "text": "GAIA R75",
+    "label": "ORG"
+  },
+  {
+    "text": "R77",
+    "label": "PRODUCT"
+  },
+  {
+    "text": "Palo alto",
+    "label": "GPE"
+  },
+  {
+    "text": "Cisco ASA's",
+    "label": "ORG"
+  },
+  {
+    "text": "US",
+    "label": "GPE"
+  },
+  {
+    "text": "Canada",
+    "label": "GPE"
+  },
+  {
+    "text": "Cisco Routers",
+    "label": "ORG"
+  },
+  {
+    "text": "Cisco",
+    "label": "GPE"
+  },
+  {
+    "text": "29xx, 28xx, 19xx",
+    "label": "DATE"
+  },
+  {
+    "text": "Cisco",
+    "label": "GPE"
+  },
+  {
+    "text": "2960, 3560",
+    "label": "DATE"
+  },
+  {
+    "text": "Cisco Meraki AP",
+    "label": "PERSON"
+  },
+  {
+    "text": "Meraki Cloud",
+    "label": "PERSON"
+  },
+  {
+    "text": "LTM",
+    "label": "ORG"
+  },
+  {
+    "text": "Infosys Technologies",
+    "label": "ORG"
+  },
+  {
+    "text": "Cisco Routers",
+    "label": "PERSON"
+  },
+  {
+    "text": "Switches",
+    "label": "ORG"
+  },
+  {
+    "text": "LAN",
+    "label": "ORG"
+  },
+  {
+    "text": "WAN",
+    "label": "ORG"
+  },
+  {
+    "text": "RSA",
+    "label": "ORG"
+  },
+  {
+    "text": "4.1",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "IDS",
+    "label": "ORG"
+  },
+  {
+    "text": "IPS",
+    "label": "ORG"
+  },
+  {
+    "text": "Qualis",
+    "label": "PERSON"
+  },
+  {
+    "text": "Wipro Technologies",
+    "label": "ORG"
+  },
+  {
+    "text": "Manage",
+    "label": "ORG"
+  },
+  {
+    "text": "Network Infrastructure",
+    "label": "ORG"
+  },
+  {
+    "text": "Cisco",
+    "label": "GPE"
+  },
+  {
+    "text": "Juniper Platforms",
+    "label": "ORG"
+  },
+  {
+    "text": "Cisco Router 3845",
+    "label": "ORG"
+  },
+  {
+    "text": "Cisco",
+    "label": "GPE"
+  },
+  {
+    "text": "3750E",
+    "label": "DATE"
+  },
+  {
+    "text": "2960",
+    "label": "DATE"
+  },
+  {
+    "text": "Cisco",
+    "label": "GPE"
+  },
+  {
+    "text": "Cisco 5550/20",
+    "label": "ORG"
+  },
+  {
+    "text": "ASA",
+    "label": "ORG"
+  },
+  {
+    "text": "Juniper SA 6500 SSL VPN",
+    "label": "ORG"
+  },
+  {
+    "text": "RSA",
+    "label": "ORG"
+  },
+  {
+    "text": "2FA",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "weekly",
+    "label": "DATE"
+  },
+  {
+    "text": "monthly",
+    "label": "DATE"
+  }
+]

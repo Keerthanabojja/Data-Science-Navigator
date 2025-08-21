@@ -1,0 +1,202 @@
+[
+  {
+    "text": "Knows English",
+    "label": "PRODUCT"
+  },
+  {
+    "text": "8",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "8",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "8",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "Hindi",
+    "label": "GPE"
+  },
+  {
+    "text": "Focused",
+    "label": "GPE"
+  },
+  {
+    "text": "Microsoft Certified Systems Engineer",
+    "label": "ORG"
+  },
+  {
+    "text": "2008",
+    "label": "DATE"
+  },
+  {
+    "text": "Windows",
+    "label": "LOC"
+  },
+  {
+    "text": "July 2009 to May 2012",
+    "label": "DATE"
+  },
+  {
+    "text": "Laws Bikaner",
+    "label": "PERSON"
+  },
+  {
+    "text": "Rajasthan Maharaja",
+    "label": "PERSON"
+  },
+  {
+    "text": "August 2008",
+    "label": "DATE"
+  },
+  {
+    "text": "November 2008",
+    "label": "DATE"
+  },
+  {
+    "text": "Microsoft Certified Systems Engineer Networking Chandigarh",
+    "label": "ORG"
+  },
+  {
+    "text": "July 2005",
+    "label": "DATE"
+  },
+  {
+    "text": "April 2008",
+    "label": "DATE"
+  },
+  {
+    "text": "Science Bio-Informatics Chandigarh",
+    "label": "ORG"
+  },
+  {
+    "text": "Chandigarh Panjab University",
+    "label": "ORG"
+  },
+  {
+    "text": "Exprience - 72 months",
+    "label": "DATE"
+  },
+  {
+    "text": "72 months",
+    "label": "DATE"
+  },
+  {
+    "text": "Microsoft",
+    "label": "ORG"
+  },
+  {
+    "text": "72 months",
+    "label": "DATE"
+  },
+  {
+    "text": "Exprience - 72",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "District Courts",
+    "label": "ORG"
+  },
+  {
+    "text": "Licensed Advocate",
+    "label": "PERSON"
+  },
+  {
+    "text": "16",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "Bar Council of Punjab & Haryana",
+    "label": "ORG"
+  },
+  {
+    "text": "Chandigarh",
+    "label": "PERSON"
+  },
+  {
+    "text": "District Courts",
+    "label": "ORG"
+  },
+  {
+    "text": "Mansa",
+    "label": "ORG"
+  },
+  {
+    "text": "18-Aug-2012",
+    "label": "DATE"
+  },
+  {
+    "text": "the All India Bar Examination",
+    "label": "ORG"
+  },
+  {
+    "text": "Bar Council of India",
+    "label": "ORG"
+  },
+  {
+    "text": "September, 2013",
+    "label": "DATE"
+  },
+  {
+    "text": "Lead/Sole Counsel",
+    "label": "ORG"
+  },
+  {
+    "text": "2012",
+    "label": "DATE"
+  },
+  {
+    "text": "the Panel of District Legal Services Authority",
+    "label": "ORG"
+  },
+  {
+    "text": "Mansa",
+    "label": "ORG"
+  },
+  {
+    "text": "National Legal Services Authority",
+    "label": "ORG"
+  },
+  {
+    "text": "India",
+    "label": "GPE"
+  },
+  {
+    "text": "Administrative Committee",
+    "label": "ORG"
+  },
+  {
+    "text": "Punjab",
+    "label": "NORP"
+  },
+  {
+    "text": "District Bar Association",
+    "label": "ORG"
+  },
+  {
+    "text": "Mansa",
+    "label": "ORG"
+  },
+  {
+    "text": "2017-18",
+    "label": "DATE"
+  },
+  {
+    "text": "International",
+    "label": "ORG"
+  },
+  {
+    "text": "Injury",
+    "label": "ORG"
+  },
+  {
+    "text": "Negotiates",
+    "label": "ORG"
+  },
+  {
+    "text": "more than 6 years",
+    "label": "DATE"
+  }
+]

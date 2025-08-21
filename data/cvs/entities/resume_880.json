@@ -1,0 +1,138 @@
+[
+  {
+    "text": "KEY",
+    "label": "ORG"
+  },
+  {
+    "text": "C++",
+    "label": "PERSON"
+  },
+  {
+    "text": "Apex",
+    "label": "GPE"
+  },
+  {
+    "text": "Visualforce",
+    "label": "GPE"
+  },
+  {
+    "text": "Salesforce.com",
+    "label": "ORG"
+  },
+  {
+    "text": "Force.com",
+    "label": "ORG"
+  },
+  {
+    "text": "Salesforce CRM",
+    "label": "ORG"
+  },
+  {
+    "text": "Blockchain Website",
+    "label": "PERSON"
+  },
+  {
+    "text": "HTML5",
+    "label": "PERSON"
+  },
+  {
+    "text": "CSS3",
+    "label": "PRODUCT"
+  },
+  {
+    "text": "DIPLOMA",
+    "label": "ORG"
+  },
+  {
+    "text": "Project Name",
+    "label": "ORG"
+  },
+  {
+    "text": "Java",
+    "label": "PERSON"
+  },
+  {
+    "text": "two",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "VANET AP DEGREE",
+    "label": "PRODUCT"
+  },
+  {
+    "text": "Project Name: Drowsiness Detection System Technology",
+    "label": "ORG"
+  },
+  {
+    "text": "Raspberry",
+    "label": "PERSON"
+  },
+  {
+    "text": "Driver",
+    "label": "ORG"
+  },
+  {
+    "text": "Drowsy",
+    "label": "PERSON"
+  },
+  {
+    "text": "January 2017",
+    "label": "DATE"
+  },
+  {
+    "text": "B.E Computer Engineering Pune",
+    "label": "ORG"
+  },
+  {
+    "text": "Maharashtra Sanghavi College of Engineering",
+    "label": "ORG"
+  },
+  {
+    "text": "January 2014",
+    "label": "DATE"
+  },
+  {
+    "text": "Computer Technology Nashik",
+    "label": "ORG"
+  },
+  {
+    "text": "Maharashtra Shree Mahavir Polytechnic",
+    "label": "ORG"
+  },
+  {
+    "text": "January 2010",
+    "label": "DATE"
+  },
+  {
+    "text": "C.D.O.Meri",
+    "label": "NORP"
+  },
+  {
+    "text": "Exprience",
+    "label": "GPE"
+  },
+  {
+    "text": "6 months",
+    "label": "DATE"
+  },
+  {
+    "text": "6 months",
+    "label": "DATE"
+  },
+  {
+    "text": "Exprience - 6 months",
+    "label": "DATE"
+  },
+  {
+    "text": "Exprience",
+    "label": "GPE"
+  },
+  {
+    "text": "6 months",
+    "label": "DATE"
+  },
+  {
+    "text": "Waves and Ethereum",
+    "label": "ORG"
+  }
+]

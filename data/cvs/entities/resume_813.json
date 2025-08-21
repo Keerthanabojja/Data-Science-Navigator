@@ -1,0 +1,318 @@
+[
+  {
+    "text": "SKILL",
+    "label": "ORG"
+  },
+  {
+    "text": "Microsoft",
+    "label": "ORG"
+  },
+  {
+    "text": "Platform 6.2.1 Management",
+    "label": "ORG"
+  },
+  {
+    "text": "AWS Services",
+    "label": "ORG"
+  },
+  {
+    "text": "Microsoft",
+    "label": "ORG"
+  },
+  {
+    "text": "TAC",
+    "label": "ORG"
+  },
+  {
+    "text": "Studio \u00e2\u009c\u0093",
+    "label": "PERSON"
+  },
+  {
+    "text": "S3 Schema",
+    "label": "PERSON"
+  },
+  {
+    "text": "Dimensions \u00e2\u009c\u0093",
+    "label": "ORG"
+  },
+  {
+    "text": "Data Integration Microsoft Access Education Details",
+    "label": "ORG"
+  },
+  {
+    "text": "January 2012 to January 2016",
+    "label": "DATE"
+  },
+  {
+    "text": "Mumbai",
+    "label": "GPE"
+  },
+  {
+    "text": "Maharashtra University of Mumbai",
+    "label": "ORG"
+  },
+  {
+    "text": "January 2012",
+    "label": "DATE"
+  },
+  {
+    "text": "CBSE",
+    "label": "ORG"
+  },
+  {
+    "text": "Kerala St. Francis\n\nTalend",
+    "label": "ORG"
+  },
+  {
+    "text": "ETL Developer - Tata Consultancy Services",
+    "label": "PERSON"
+  },
+  {
+    "text": "20 months",
+    "label": "DATE"
+  },
+  {
+    "text": "Exprience",
+    "label": "GPE"
+  },
+  {
+    "text": "20 months",
+    "label": "DATE"
+  },
+  {
+    "text": "Exprience - 20 months",
+    "label": "DATE"
+  },
+  {
+    "text": "Data Migration",
+    "label": "ORG"
+  },
+  {
+    "text": "System",
+    "label": "ORG"
+  },
+  {
+    "text": "TALEND",
+    "label": "ORG"
+  },
+  {
+    "text": "Big Data",
+    "label": "ORG"
+  },
+  {
+    "text": "tS3configuration",
+    "label": "PRODUCT"
+  },
+  {
+    "text": "tMap",
+    "label": "ORG"
+  },
+  {
+    "text": "tJoin",
+    "label": "PRODUCT"
+  },
+  {
+    "text": "tReplicate",
+    "label": "ORG"
+  },
+  {
+    "text": "tParallelize",
+    "label": "GPE"
+  },
+  {
+    "text": "tAggregate",
+    "label": "ORG"
+  },
+  {
+    "text": "tJava",
+    "label": "ORG"
+  },
+  {
+    "text": "tJavarow",
+    "label": "ORG"
+  },
+  {
+    "text": "tFilter",
+    "label": "ORG"
+  },
+  {
+    "text": "ETL",
+    "label": "ORG"
+  },
+  {
+    "text": "Joblets",
+    "label": "NORP"
+  },
+  {
+    "text": "Created",
+    "label": "ORG"
+  },
+  {
+    "text": "SQL",
+    "label": "ORG"
+  },
+  {
+    "text": "Staging and Data-Warehouse",
+    "label": "WORK_OF_ART"
+  },
+  {
+    "text": "SQL Queries",
+    "label": "ORG"
+  },
+  {
+    "text": "Created",
+    "label": "ORG"
+  },
+  {
+    "text": "Target",
+    "label": "ORG"
+  },
+  {
+    "text": "Facts",
+    "label": "ORG"
+  },
+  {
+    "text": "Performance Tuning",
+    "label": "PERSON"
+  },
+  {
+    "text": "tMap",
+    "label": "ORG"
+  },
+  {
+    "text": "lookup & Joiner Functions",
+    "label": "ORG"
+  },
+  {
+    "text": "Created Implicit",
+    "label": "PERSON"
+  },
+  {
+    "text": "Context",
+    "label": "ORG"
+  },
+  {
+    "text": "Worked on Talend Administration Console",
+    "label": "ORG"
+  },
+  {
+    "text": "TAC",
+    "label": "ORG"
+  },
+  {
+    "text": "Talend",
+    "label": "ORG"
+  },
+  {
+    "text": "TAC",
+    "label": "ORG"
+  },
+  {
+    "text": "Fact",
+    "label": "ORG"
+  },
+  {
+    "text": "SCD",
+    "label": "ORG"
+  },
+  {
+    "text": "1",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "SCD",
+    "label": "ORG"
+  },
+  {
+    "text": "2",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "Incremental",
+    "label": "ORG"
+  },
+  {
+    "text": "Developed Framework Integrated Job",
+    "label": "PERSON"
+  },
+  {
+    "text": "SQL Database",
+    "label": "GPE"
+  },
+  {
+    "text": "Created Talend",
+    "label": "ORG"
+  },
+  {
+    "text": "one",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "FTP",
+    "label": "ORG"
+  },
+  {
+    "text": "FTP",
+    "label": "ORG"
+  },
+  {
+    "text": "Talend Studio",
+    "label": "ORG"
+  },
+  {
+    "text": "FTP",
+    "label": "ORG"
+  },
+  {
+    "text": "tFileExist",
+    "label": "LAW"
+  },
+  {
+    "text": "Successfully Loaded Data",
+    "label": "ORG"
+  },
+  {
+    "text": "SQL Database",
+    "label": "ORG"
+  },
+  {
+    "text": "Flatfiles",
+    "label": "PERSON"
+  },
+  {
+    "text": "XML",
+    "label": "ORG"
+  },
+  {
+    "text": "ETL",
+    "label": "ORG"
+  },
+  {
+    "text": "ETL Solution",
+    "label": "ORG"
+  },
+  {
+    "text": "TALEND Big Data Platform",
+    "label": "ORG"
+  },
+  {
+    "text": "Agile",
+    "label": "NORP"
+  },
+  {
+    "text": "Data Warehouse",
+    "label": "ORG"
+  },
+  {
+    "text": "ETL",
+    "label": "ORG"
+  },
+  {
+    "text": "Data Migration",
+    "label": "ORG"
+  },
+  {
+    "text": "System",
+    "label": "ORG"
+  }
+]

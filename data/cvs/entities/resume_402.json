@@ -1,0 +1,78 @@
+[
+  {
+    "text": "2",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "3",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "Programming Languages",
+    "label": "ORG"
+  },
+  {
+    "text": "Discipline",
+    "label": "PERSON"
+  },
+  {
+    "text": "August 2014 to July 2017",
+    "label": "DATE"
+  },
+  {
+    "text": "MCA Computer",
+    "label": "ORG"
+  },
+  {
+    "text": "Sciene Amravati",
+    "label": "PERSON"
+  },
+  {
+    "text": "Maharashtra SGBAU",
+    "label": "GPE"
+  },
+  {
+    "text": "Core Java",
+    "label": "PERSON"
+  },
+  {
+    "text": "JSP",
+    "label": "ORG"
+  },
+  {
+    "text": "Servlet",
+    "label": "ORG"
+  },
+  {
+    "text": "Spring",
+    "label": "DATE"
+  },
+  {
+    "text": "Hibernate",
+    "label": "PERSON"
+  },
+  {
+    "text": "Struts",
+    "label": "PERSON"
+  },
+  {
+    "text": "1",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "Java",
+    "label": "PERSON"
+  },
+  {
+    "text": "2",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "Jsp",
+    "label": "PERSON"
+  },
+  {
+    "text": "Sprinng MVC Technologies",
+    "label": "ORG"
+  }
+]

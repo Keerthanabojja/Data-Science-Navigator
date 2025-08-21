@@ -1,0 +1,402 @@
+[
+  {
+    "text": "SAP Business Intelligence Version",
+    "label": "ORG"
+  },
+  {
+    "text": "UDT",
+    "label": "ORG"
+  },
+  {
+    "text": "CMC",
+    "label": "ORG"
+  },
+  {
+    "text": "BW, Bex Queries",
+    "label": "ORG"
+  },
+  {
+    "text": "SAP BO Developer",
+    "label": "PERSON"
+  },
+  {
+    "text": "SAP BO Developer - Credit Suisse",
+    "label": "PERSON"
+  },
+  {
+    "text": "Exprience",
+    "label": "GPE"
+  },
+  {
+    "text": "72 months",
+    "label": "DATE"
+  },
+  {
+    "text": "36 months",
+    "label": "DATE"
+  },
+  {
+    "text": "72 months",
+    "label": "DATE"
+  },
+  {
+    "text": "Exprience",
+    "label": "GPE"
+  },
+  {
+    "text": "72 months",
+    "label": "DATE"
+  },
+  {
+    "text": "SAP",
+    "label": "ORG"
+  },
+  {
+    "text": "Exprience",
+    "label": "GPE"
+  },
+  {
+    "text": "Role SAP BO Developer",
+    "label": "PRODUCT"
+  },
+  {
+    "text": "Project",
+    "label": "ORG"
+  },
+  {
+    "text": "Swiss",
+    "label": "NORP"
+  },
+  {
+    "text": "CV",
+    "label": "PERSON"
+  },
+  {
+    "text": "Handling",
+    "label": "PERSON"
+  },
+  {
+    "text": "Business Objects",
+    "label": "ORG"
+  },
+  {
+    "text": "Worked",
+    "label": "GPE"
+  },
+  {
+    "text": "the Business Requirements",
+    "label": "ORG"
+  },
+  {
+    "text": "Raised OSS",
+    "label": "GPE"
+  },
+  {
+    "text": "SAP",
+    "label": "ORG"
+  },
+  {
+    "text": "Project",
+    "label": "ORG"
+  },
+  {
+    "text": "Project 2",
+    "label": "PERSON"
+  },
+  {
+    "text": "Role SAP BO Developer",
+    "label": "PRODUCT"
+  },
+  {
+    "text": "Project",
+    "label": "ORG"
+  },
+  {
+    "text": "The Globe Integrated Order",
+    "label": "ORG"
+  },
+  {
+    "text": "IO",
+    "label": "GPE"
+  },
+  {
+    "text": "Billing Detail",
+    "label": "PERSON"
+  },
+  {
+    "text": "Order Detail",
+    "label": "PERSON"
+  },
+  {
+    "text": "CV",
+    "label": "PERSON"
+  },
+  {
+    "text": "Handling",
+    "label": "PERSON"
+  },
+  {
+    "text": "Business Objects",
+    "label": "ORG"
+  },
+  {
+    "text": "Worked",
+    "label": "GPE"
+  },
+  {
+    "text": "the Business Requirements",
+    "label": "ORG"
+  },
+  {
+    "text": "Raised OSS",
+    "label": "GPE"
+  },
+  {
+    "text": "SAP",
+    "label": "ORG"
+  },
+  {
+    "text": "Implemented Union",
+    "label": "ORG"
+  },
+  {
+    "text": "Project",
+    "label": "ORG"
+  },
+  {
+    "text": "3",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "Design Studio 1.6 SP6 & Bex Queries",
+    "label": "PERSON"
+  },
+  {
+    "text": "Project",
+    "label": "ORG"
+  },
+  {
+    "text": "Nestle",
+    "label": "GPE"
+  },
+  {
+    "text": "hours",
+    "label": "TIME"
+  },
+  {
+    "text": "geo map",
+    "label": "PERSON"
+  },
+  {
+    "text": "BW Bex",
+    "label": "ORG"
+  },
+  {
+    "text": "Queries",
+    "label": "ORG"
+  },
+  {
+    "text": "the Business Requirements",
+    "label": "ORG"
+  },
+  {
+    "text": "Suggested",
+    "label": "ORG"
+  },
+  {
+    "text": "Bug Fixes",
+    "label": "ORG"
+  },
+  {
+    "text": "4",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "Nestle BA\n\nCompany Tech Mahindra Pvt",
+    "label": "ORG"
+  },
+  {
+    "text": "Design Studio 1.6 & Bex Queries",
+    "label": "ORG"
+  },
+  {
+    "text": "Nestle",
+    "label": "GPE"
+  },
+  {
+    "text": "Dashboard",
+    "label": "PERSON"
+  },
+  {
+    "text": "Design",
+    "label": "GPE"
+  },
+  {
+    "text": "Nestle",
+    "label": "GPE"
+  },
+  {
+    "text": "Nestle",
+    "label": "GPE"
+  },
+  {
+    "text": "BW Bex Queries",
+    "label": "ORG"
+  },
+  {
+    "text": "the Business Requirements",
+    "label": "ORG"
+  },
+  {
+    "text": "BW",
+    "label": "GPE"
+  },
+  {
+    "text": "POC",
+    "label": "ORG"
+  },
+  {
+    "text": "5",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "Project Name",
+    "label": "ORG"
+  },
+  {
+    "text": "Warner Bros\n\nClient Marvin Pictures",
+    "label": "ORG"
+  },
+  {
+    "text": "US",
+    "label": "GPE"
+  },
+  {
+    "text": "CapGemini Pvt",
+    "label": "ORG"
+  },
+  {
+    "text": "Bangalore",
+    "label": "PERSON"
+  },
+  {
+    "text": "SAP BO 4.1 Webi",
+    "label": "ORG"
+  },
+  {
+    "text": "CMC",
+    "label": "ORG"
+  },
+  {
+    "text": "Query",
+    "label": "ORG"
+  },
+  {
+    "text": "Role SAP BO Developer",
+    "label": "PRODUCT"
+  },
+  {
+    "text": "Application",
+    "label": "ORG"
+  },
+  {
+    "text": "Information",
+    "label": "PRODUCT"
+  },
+  {
+    "text": "Business Growth",
+    "label": "ORG"
+  },
+  {
+    "text": "CMC",
+    "label": "ORG"
+  },
+  {
+    "text": "the Business Requirements",
+    "label": "ORG"
+  },
+  {
+    "text": "CMC",
+    "label": "ORG"
+  },
+  {
+    "text": "user & user group",
+    "label": "ORG"
+  },
+  {
+    "text": "Worked",
+    "label": "GPE"
+  },
+  {
+    "text": "Raised OSS",
+    "label": "GPE"
+  },
+  {
+    "text": "SAP",
+    "label": "ORG"
+  },
+  {
+    "text": "BO",
+    "label": "ORG"
+  },
+  {
+    "text": "Worked",
+    "label": "GPE"
+  },
+  {
+    "text": "ETA",
+    "label": "ORG"
+  },
+  {
+    "text": "BO",
+    "label": "ORG"
+  },
+  {
+    "text": "6",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "Sweden",
+    "label": "GPE"
+  },
+  {
+    "text": "CapGemini Pvt",
+    "label": "ORG"
+  },
+  {
+    "text": "Nordea",
+    "label": "ORG"
+  },
+  {
+    "text": "Users",
+    "label": "PERSON"
+  },
+  {
+    "text": "the Business Requirements",
+    "label": "ORG"
+  },
+  {
+    "text": "Developed",
+    "label": "PERSON"
+  },
+  {
+    "text": "Implementation of Business Object i.e. Webi",
+    "label": "ORG"
+  },
+  {
+    "text": "one",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "BIAR File",
+    "label": "ORG"
+  },
+  {
+    "text": "MAT",
+    "label": "ORG"
+  },
+  {
+    "text": "KT",
+    "label": "ORG"
+  }
+]

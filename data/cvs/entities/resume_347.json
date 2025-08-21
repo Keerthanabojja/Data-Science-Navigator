@@ -1,0 +1,66 @@
+[
+  {
+    "text": "6.6",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "Oracle",
+    "label": "PERSON"
+  },
+  {
+    "text": "SQL",
+    "label": "ORG"
+  },
+  {
+    "text": "Derby",
+    "label": "ORG"
+  },
+  {
+    "text": "SonarQube",
+    "label": "PERSON"
+  },
+  {
+    "text": "Coordinated",
+    "label": "ORG"
+  },
+  {
+    "text": "Savitribai Phule Pune University",
+    "label": "ORG"
+  },
+  {
+    "text": "Java Developer - Aurus Tech Pvt",
+    "label": "PERSON"
+  },
+  {
+    "text": "Exprience",
+    "label": "GPE"
+  },
+  {
+    "text": "32 months",
+    "label": "DATE"
+  },
+  {
+    "text": "6 months",
+    "label": "DATE"
+  },
+  {
+    "text": "Less than 1 year months",
+    "label": "DATE"
+  },
+  {
+    "text": "2 years",
+    "label": "DATE"
+  },
+  {
+    "text": "Core Java",
+    "label": "PERSON"
+  },
+  {
+    "text": "Java Developer",
+    "label": "PERSON"
+  },
+  {
+    "text": "Coordinated",
+    "label": "ORG"
+  }
+]

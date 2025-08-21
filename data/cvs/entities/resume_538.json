@@ -1,0 +1,554 @@
+[
+  {
+    "text": "MS Office",
+    "label": "ORG"
+  },
+  {
+    "text": "ERP",
+    "label": "ORG"
+  },
+  {
+    "text": "Flotilla",
+    "label": "PERSON"
+  },
+  {
+    "text": "9",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "4000",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "Bandra West",
+    "label": "PERSON"
+  },
+  {
+    "text": "Mumbai",
+    "label": "GPE"
+  },
+  {
+    "text": "Mumbai",
+    "label": "GPE"
+  },
+  {
+    "text": "Maharashtra Bombay University",
+    "label": "ORG"
+  },
+  {
+    "text": "Mumbai",
+    "label": "GPE"
+  },
+  {
+    "text": "Maharashtra St. Andrews College",
+    "label": "ORG"
+  },
+  {
+    "text": "DIM Business Management  IGNOU\n\nOperations",
+    "label": "ORG"
+  },
+  {
+    "text": "6 months",
+    "label": "DATE"
+  },
+  {
+    "text": "ERP-",
+    "label": "ORG"
+  },
+  {
+    "text": "Exprience - 6 months",
+    "label": "DATE"
+  },
+  {
+    "text": "6 months",
+    "label": "DATE"
+  },
+  {
+    "text": "Jan 2019",
+    "label": "DATE"
+  },
+  {
+    "text": "Date",
+    "label": "ORG"
+  },
+  {
+    "text": "India Largest Insurance Brokerage",
+    "label": "ORG"
+  },
+  {
+    "text": "24",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "PAN India",
+    "label": "ORG"
+  },
+  {
+    "text": "LandmarkGroup",
+    "label": "ORG"
+  },
+  {
+    "text": "annual",
+    "label": "DATE"
+  },
+  {
+    "text": "2200",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "12",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "PAN India for Motor and Health Insurance",
+    "label": "ORG"
+  },
+  {
+    "text": "Health & Motor",
+    "label": "ORG"
+  },
+  {
+    "text": "Costings of Insurance",
+    "label": "ORG"
+  },
+  {
+    "text": "MIS",
+    "label": "ORG"
+  },
+  {
+    "text": "SOP",
+    "label": "ORG"
+  },
+  {
+    "text": "weekly",
+    "label": "DATE"
+  },
+  {
+    "text": "PAN India",
+    "label": "ORG"
+  },
+  {
+    "text": "daily",
+    "label": "DATE"
+  },
+  {
+    "text": "Trippereri Travels & Tours",
+    "label": "ORG"
+  },
+  {
+    "text": "Jan 2017",
+    "label": "DATE"
+  },
+  {
+    "text": "2018",
+    "label": "DATE"
+  },
+  {
+    "text": "Tours",
+    "label": "ORG"
+  },
+  {
+    "text": "Operations",
+    "label": "ORG"
+  },
+  {
+    "text": "Jan 2015",
+    "label": "DATE"
+  },
+  {
+    "text": "5",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "International hotels",
+    "label": "ORG"
+  },
+  {
+    "text": "Groups",
+    "label": "ORG"
+  },
+  {
+    "text": "India",
+    "label": "GPE"
+  },
+  {
+    "text": "more than 50",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "India",
+    "label": "GPE"
+  },
+  {
+    "text": "Supply Chain Logistics",
+    "label": "ORG"
+  },
+  {
+    "text": "Shipping",
+    "label": "GPE"
+  },
+  {
+    "text": "Distribution",
+    "label": "PERSON"
+  },
+  {
+    "text": "Overlooking",
+    "label": "ORG"
+  },
+  {
+    "text": "India",
+    "label": "GPE"
+  },
+  {
+    "text": "India",
+    "label": "GPE"
+  },
+  {
+    "text": "Sourcing",
+    "label": "PERSON"
+  },
+  {
+    "text": "Ecoflex Middle East",
+    "label": "LOC"
+  },
+  {
+    "text": "the GEA Group Germany",
+    "label": "ORG"
+  },
+  {
+    "text": "EUR 5.7 billion",
+    "label": "MONEY"
+  },
+  {
+    "text": "annually",
+    "label": "DATE"
+  },
+  {
+    "text": "KEY DELIVERABLES",
+    "label": "PERSON"
+  },
+  {
+    "text": "Air Lines",
+    "label": "ORG"
+  },
+  {
+    "text": "Bulk Air",
+    "label": "ORG"
+  },
+  {
+    "text": "Americas",
+    "label": "LOC"
+  },
+  {
+    "text": "Europe",
+    "label": "LOC"
+  },
+  {
+    "text": "Dubai",
+    "label": "GPE"
+  },
+  {
+    "text": "India",
+    "label": "GPE"
+  },
+  {
+    "text": "China &",
+    "label": "ORG"
+  },
+  {
+    "text": "GCC Countries",
+    "label": "ORG"
+  },
+  {
+    "text": "Custom House Agents",
+    "label": "ORG"
+  },
+  {
+    "text": "transport &",
+    "label": "ORG"
+  },
+  {
+    "text": "/European",
+    "label": "NORP"
+  },
+  {
+    "text": "Materials / Inventory Management: Handling",
+    "label": "ORG"
+  },
+  {
+    "text": "Supplier Pre-Qualification",
+    "label": "PERSON"
+  },
+  {
+    "text": "Operations",
+    "label": "ORG"
+  },
+  {
+    "text": "Order Dispatch",
+    "label": "PERSON"
+  },
+  {
+    "text": "Warehouse Management & Special Processes",
+    "label": "ORG"
+  },
+  {
+    "text": "Inventory Control and Global Purchase",
+    "label": "ORG"
+  },
+  {
+    "text": "ISO",
+    "label": "ORG"
+  },
+  {
+    "text": "Europe",
+    "label": "LOC"
+  },
+  {
+    "text": "US",
+    "label": "GPE"
+  },
+  {
+    "text": "Asia",
+    "label": "LOC"
+  },
+  {
+    "text": "45",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "monthly",
+    "label": "DATE"
+  },
+  {
+    "text": "Maintaining",
+    "label": "GPE"
+  },
+  {
+    "text": "15 million",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "three",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "Marine Oil and Construction",
+    "label": "ORG"
+  },
+  {
+    "text": "SABIC",
+    "label": "ORG"
+  },
+  {
+    "text": "KSA",
+    "label": "ORG"
+  },
+  {
+    "text": "daily",
+    "label": "DATE"
+  },
+  {
+    "text": "24-hour",
+    "label": "TIME"
+  },
+  {
+    "text": "Kuehne + Nagel LLC",
+    "label": "PERSON"
+  },
+  {
+    "text": "Logistics",
+    "label": "GPE"
+  },
+  {
+    "text": "3",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "Coordination, Documentation",
+    "label": "ORG"
+  },
+  {
+    "text": "United nations",
+    "label": "ORG"
+  },
+  {
+    "text": "Johnson & Johnson",
+    "label": "ORG"
+  },
+  {
+    "text": "Hotel",
+    "label": "ORG"
+  },
+  {
+    "text": "the middle east",
+    "label": "LOC"
+  },
+  {
+    "text": "Marriot",
+    "label": "ORG"
+  },
+  {
+    "text": "Hilton Group",
+    "label": "ORG"
+  },
+  {
+    "text": "the Far East/ Middle East/ Amman",
+    "label": "LOC"
+  },
+  {
+    "text": "Egypt",
+    "label": "GPE"
+  },
+  {
+    "text": "USA",
+    "label": "GPE"
+  },
+  {
+    "text": "Sea",
+    "label": "LOC"
+  },
+  {
+    "text": "the Entire Customs Clearance",
+    "label": "ORG"
+  },
+  {
+    "text": "Account",
+    "label": "ORG"
+  },
+  {
+    "text": "monthly",
+    "label": "DATE"
+  },
+  {
+    "text": "DHL Express",
+    "label": "ORG"
+  },
+  {
+    "text": "Air Express Courrier",
+    "label": "ORG"
+  },
+  {
+    "text": "DPWN",
+    "label": "ORG"
+  },
+  {
+    "text": "Deutsche Post World Net",
+    "label": "ORG"
+  },
+  {
+    "text": "Key Accountholders",
+    "label": "PERSON"
+  },
+  {
+    "text": "DHL India",
+    "label": "ORG"
+  },
+  {
+    "text": "DHL",
+    "label": "ORG"
+  },
+  {
+    "text": "DHL",
+    "label": "ORG"
+  },
+  {
+    "text": "India",
+    "label": "GPE"
+  },
+  {
+    "text": "State Bank of India",
+    "label": "ORG"
+  },
+  {
+    "text": "Globally",
+    "label": "ORG"
+  },
+  {
+    "text": "SBI",
+    "label": "ORG"
+  },
+  {
+    "text": "Global Services",
+    "label": "ORG"
+  },
+  {
+    "text": "Cargo",
+    "label": "PRODUCT"
+  },
+  {
+    "text": "Account",
+    "label": "ORG"
+  },
+  {
+    "text": "Jebel Ali Port",
+    "label": "PERSON"
+  },
+  {
+    "text": "Dubai",
+    "label": "GPE"
+  },
+  {
+    "text": "Coordinating Barge",
+    "label": "ORG"
+  },
+  {
+    "text": "Complete Inventory Management",
+    "label": "ORG"
+  },
+  {
+    "text": "ISO",
+    "label": "ORG"
+  },
+  {
+    "text": "Flotilla",
+    "label": "GPE"
+  },
+  {
+    "text": "Serck Services International",
+    "label": "ORG"
+  },
+  {
+    "text": "Maintenance",
+    "label": "PERSON"
+  },
+  {
+    "text": "daily",
+    "label": "DATE"
+  },
+  {
+    "text": "ISO",
+    "label": "ORG"
+  },
+  {
+    "text": "Serck Services International",
+    "label": "ORG"
+  },
+  {
+    "text": "March 2000 - April 2003",
+    "label": "DATE"
+  },
+  {
+    "text": "British",
+    "label": "NORP"
+  },
+  {
+    "text": "Logistic",
+    "label": "NORP"
+  },
+  {
+    "text": "2001",
+    "label": "DATE"
+  },
+  {
+    "text": "Maintaining",
+    "label": "GPE"
+  },
+  {
+    "text": "Handling",
+    "label": "PERSON"
+  },
+  {
+    "text": "four",
+    "label": "CARDINAL"
+  }
+]

@@ -1,0 +1,70 @@
+[
+  {
+    "text": "Bachelor",
+    "label": "ORG"
+  },
+  {
+    "text": "Bachelor's",
+    "label": "ORG"
+  },
+  {
+    "text": "Guru Nanak",
+    "label": "PERSON"
+  },
+  {
+    "text": "Less than 1 year months",
+    "label": "DATE"
+  },
+  {
+    "text": "Less than 1 year",
+    "label": "DATE"
+  },
+  {
+    "text": "Honda",
+    "label": "ORG"
+  },
+  {
+    "text": "Honda",
+    "label": "ORG"
+  },
+  {
+    "text": "india Ltd",
+    "label": "ORG"
+  },
+  {
+    "text": "1",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "Maruti",
+    "label": "GPE"
+  },
+  {
+    "text": "10 years\n\n2",
+    "label": "DATE"
+  },
+  {
+    "text": "Honda",
+    "label": "ORG"
+  },
+  {
+    "text": "last 5 years",
+    "label": "DATE"
+  },
+  {
+    "text": "3",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "4",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "Lead Nagpur university",
+    "label": "ORG"
+  },
+  {
+    "text": "5",
+    "label": "CARDINAL"
+  }
+]

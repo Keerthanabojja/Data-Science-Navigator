@@ -1,0 +1,178 @@
+[
+  {
+    "text": "January 2013",
+    "label": "DATE"
+  },
+  {
+    "text": "Master of Engineering Information Technology Pune",
+    "label": "ORG"
+  },
+  {
+    "text": "Maharashtra M.I.T",
+    "label": "ORG"
+  },
+  {
+    "text": "January 2005",
+    "label": "DATE"
+  },
+  {
+    "text": "Bachelor of Engineering Information Technology Pusad",
+    "label": "ORG"
+  },
+  {
+    "text": "Maharashtra Amravati University",
+    "label": "ORG"
+  },
+  {
+    "text": "January 2001",
+    "label": "DATE"
+  },
+  {
+    "text": "Pusad",
+    "label": "ORG"
+  },
+  {
+    "text": "Maharashtra P. N. Junior College",
+    "label": "ORG"
+  },
+  {
+    "text": "January 1999",
+    "label": "DATE"
+  },
+  {
+    "text": "S.S.C",
+    "label": "ORG"
+  },
+  {
+    "text": "Pusad",
+    "label": "ORG"
+  },
+  {
+    "text": "Maharashtra K.D. High-School",
+    "label": "ORG"
+  },
+  {
+    "text": "Java Developer - Maxgen",
+    "label": "PERSON"
+  },
+  {
+    "text": "Infrasoft Technologies",
+    "label": "ORG"
+  },
+  {
+    "text": "Andheri",
+    "label": "PERSON"
+  },
+  {
+    "text": "Java Developer",
+    "label": "PERSON"
+  },
+  {
+    "text": "Tata Power",
+    "label": "ORG"
+  },
+  {
+    "text": "Android -Mobile App Development",
+    "label": "ORG"
+  },
+  {
+    "text": "Java-Core Java",
+    "label": "ORG"
+  },
+  {
+    "text": "Advance Java",
+    "label": "PERSON"
+  },
+  {
+    "text": "JSF",
+    "label": "ORG"
+  },
+  {
+    "text": "Hibernate",
+    "label": "PERSON"
+  },
+  {
+    "text": "Spring",
+    "label": "DATE"
+  },
+  {
+    "text": "2015-16",
+    "label": "DATE"
+  },
+  {
+    "text": "Computing and Mobile Devices",
+    "label": "ORG"
+  },
+  {
+    "text": "Android",
+    "label": "ORG"
+  },
+  {
+    "text": "Java",
+    "label": "PERSON"
+  },
+  {
+    "text": "Core Java",
+    "label": "PERSON"
+  },
+  {
+    "text": "Object Oriented Programming",
+    "label": "ORG"
+  },
+  {
+    "text": "PPS",
+    "label": "ORG"
+  },
+  {
+    "text": "Programming",
+    "label": "ORG"
+  },
+  {
+    "text": "IAS (Information Assurance",
+    "label": "ORG"
+  },
+  {
+    "text": "Android",
+    "label": "ORG"
+  },
+  {
+    "text": "C++",
+    "label": "PERSON"
+  },
+  {
+    "text": "Java",
+    "label": "PERSON"
+  },
+  {
+    "text": "Android",
+    "label": "PERSON"
+  },
+  {
+    "text": "MS Access",
+    "label": "ORG"
+  },
+  {
+    "text": "SQL",
+    "label": "ORG"
+  },
+  {
+    "text": "Oracle\n\n\n\nNATIONAL CONFERENCE",
+    "label": "ORG"
+  },
+  {
+    "text": "1",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "28-29 April 2011",
+    "label": "DATE"
+  },
+  {
+    "text": "Pimpri",
+    "label": "GPE"
+  },
+  {
+    "text": "Pune",
+    "label": "ORG"
+  }
+]

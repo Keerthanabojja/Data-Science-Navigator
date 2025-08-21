@@ -1,0 +1,238 @@
+[
+  {
+    "text": "15 years",
+    "label": "DATE"
+  },
+  {
+    "text": "Data Base Design",
+    "label": "ORG"
+  },
+  {
+    "text": "PHP",
+    "label": "ORG"
+  },
+  {
+    "text": "JavaScript",
+    "label": "ORG"
+  },
+  {
+    "text": "HTML 5",
+    "label": "ORG"
+  },
+  {
+    "text": "Ajax",
+    "label": "PERSON"
+  },
+  {
+    "text": "DevOps Methodology",
+    "label": "ORG"
+  },
+  {
+    "text": "Scrum Framework",
+    "label": "PERSON"
+  },
+  {
+    "text": "JIRA Tool",
+    "label": "PERSON"
+  },
+  {
+    "text": "GIT",
+    "label": "PERSON"
+  },
+  {
+    "text": "Core Java",
+    "label": "PERSON"
+  },
+  {
+    "text": "April 2004",
+    "label": "DATE"
+  },
+  {
+    "text": "MCM Computer Management Pune",
+    "label": "ORG"
+  },
+  {
+    "text": "Maharashtra Pune University",
+    "label": "ORG"
+  },
+  {
+    "text": "April 1998",
+    "label": "DATE"
+  },
+  {
+    "text": "Kerala University",
+    "label": "ORG"
+  },
+  {
+    "text": "PHP",
+    "label": "ORG"
+  },
+  {
+    "text": "JavaScript",
+    "label": "ORG"
+  },
+  {
+    "text": "HTML",
+    "label": "ORG"
+  },
+  {
+    "text": "Ajax",
+    "label": "PERSON"
+  },
+  {
+    "text": "XML",
+    "label": "ORG"
+  },
+  {
+    "text": "DevOps Methodology",
+    "label": "ORG"
+  },
+  {
+    "text": "Scrum Framework",
+    "label": "PERSON"
+  },
+  {
+    "text": "JIRA Tool",
+    "label": "PERSON"
+  },
+  {
+    "text": "GIT",
+    "label": "PERSON"
+  },
+  {
+    "text": "AngularJs",
+    "label": "PERSON"
+  },
+  {
+    "text": "Bootstrap",
+    "label": "ORG"
+  },
+  {
+    "text": "Node.js",
+    "label": "GPE"
+  },
+  {
+    "text": "Laravel",
+    "label": "ORG"
+  },
+  {
+    "text": "120",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "Agile Model & Methodology",
+    "label": "ORG"
+  },
+  {
+    "text": "KPI",
+    "label": "ORG"
+  },
+  {
+    "text": "Prepare",
+    "label": "PERSON"
+  },
+  {
+    "text": "weekly-monthly",
+    "label": "DATE"
+  },
+  {
+    "text": "Top Management\n\nProject Undertaken",
+    "label": "ORG"
+  },
+  {
+    "text": "Knoxed Ltd",
+    "label": "ORG"
+  },
+  {
+    "text": "UK",
+    "label": "GPE"
+  },
+  {
+    "text": "PHP",
+    "label": "ORG"
+  },
+  {
+    "text": "Mysql, Ajax",
+    "label": "ORG"
+  },
+  {
+    "text": "XML",
+    "label": "ORG"
+  },
+  {
+    "text": "Raspberry pi Server",
+    "label": "PERSON"
+  },
+  {
+    "text": "Agile Model & Methodology",
+    "label": "ORG"
+  },
+  {
+    "text": "QC",
+    "label": "PERSON"
+  },
+  {
+    "text": "Project Undertaken",
+    "label": "ORG"
+  },
+  {
+    "text": "Knoxed Ltd",
+    "label": "ORG"
+  },
+  {
+    "text": "UK",
+    "label": "GPE"
+  },
+  {
+    "text": "PHP",
+    "label": "ORG"
+  },
+  {
+    "text": "Mysql, Ajax",
+    "label": "ORG"
+  },
+  {
+    "text": "XML",
+    "label": "ORG"
+  },
+  {
+    "text": "Agile Model & Methodology",
+    "label": "ORG"
+  },
+  {
+    "text": "www.SmashingDay.com",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "Agile Model & Methodology",
+    "label": "ORG"
+  },
+  {
+    "text": "QC",
+    "label": "PERSON"
+  },
+  {
+    "text": "Agile Model & Methodology",
+    "label": "ORG"
+  },
+  {
+    "text": "QC",
+    "label": "PERSON"
+  },
+  {
+    "text": "Development & Design",
+    "label": "ORG"
+  },
+  {
+    "text": "www.justbe.com/",
+    "label": "PERSON"
+  },
+  {
+    "text": "Development & Design",
+    "label": "ORG"
+  },
+  {
+    "text": "Maza",
+    "label": "GPE"
+  }
+]

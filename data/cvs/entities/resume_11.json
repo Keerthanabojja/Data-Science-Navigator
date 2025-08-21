@@ -1,0 +1,242 @@
+[
+  {
+    "text": "matplotlib",
+    "label": "PERSON"
+  },
+  {
+    "text": "Sql",
+    "label": "PERSON"
+  },
+  {
+    "text": "Java",
+    "label": "PERSON"
+  },
+  {
+    "text": "Bayes",
+    "label": "ORG"
+  },
+  {
+    "text": "KNN",
+    "label": "ORG"
+  },
+  {
+    "text": "Random Forest",
+    "label": "ORG"
+  },
+  {
+    "text": "Cluster Analysis",
+    "label": "ORG"
+  },
+  {
+    "text": "Topic Modelling",
+    "label": "WORK_OF_ART"
+  },
+  {
+    "text": "PCA & Neural Nets",
+    "label": "ORG"
+  },
+  {
+    "text": "SqlServer",
+    "label": "GPE"
+  },
+  {
+    "text": "Cassandra",
+    "label": "GPE"
+  },
+  {
+    "text": "DC.js",
+    "label": "GPE"
+  },
+  {
+    "text": "kibana",
+    "label": "PERSON"
+  },
+  {
+    "text": "matplotlib",
+    "label": "PERSON"
+  },
+  {
+    "text": "Tableau",
+    "label": "GPE"
+  },
+  {
+    "text": "HTML",
+    "label": "ORG"
+  },
+  {
+    "text": "CSS",
+    "label": "ORG"
+  },
+  {
+    "text": "6",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "Logstash",
+    "label": "GPE"
+  },
+  {
+    "text": "Kafka",
+    "label": "PERSON"
+  },
+  {
+    "text": "Git, Docker",
+    "label": "ORG"
+  },
+  {
+    "text": "Deep",
+    "label": "NORP"
+  },
+  {
+    "text": "24 months",
+    "label": "DATE"
+  },
+  {
+    "text": "Exprience",
+    "label": "GPE"
+  },
+  {
+    "text": "24 months",
+    "label": "DATE"
+  },
+  {
+    "text": "Exprience",
+    "label": "GPE"
+  },
+  {
+    "text": "24",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "Tools & Technologies: Python",
+    "label": "ORG"
+  },
+  {
+    "text": "Bayes",
+    "label": "ORG"
+  },
+  {
+    "text": "Vader",
+    "label": "PERSON"
+  },
+  {
+    "text": "Tableau",
+    "label": "GPE"
+  },
+  {
+    "text": "ANALYTICS - MOTOR VEHICLE CUSTOMER REVIEW DATA",
+    "label": "ORG"
+  },
+  {
+    "text": "past one year",
+    "label": "DATE"
+  },
+  {
+    "text": "Negative & Neutral",
+    "label": "ORG"
+  },
+  {
+    "text": "4",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "Negative",
+    "label": "LOC"
+  },
+  {
+    "text": "one",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "about hours",
+    "label": "TIME"
+  },
+  {
+    "text": "Tools & Technologies: Python",
+    "label": "ORG"
+  },
+  {
+    "text": "NLTK",
+    "label": "ORG"
+  },
+  {
+    "text": "JavaScript",
+    "label": "ORG"
+  },
+  {
+    "text": "SqlServer",
+    "label": "ORG"
+  },
+  {
+    "text": "INFORMATION GOVERNANCE\n\nOrganizations",
+    "label": "PERSON"
+  },
+  {
+    "text": "Information Governance",
+    "label": "PRODUCT"
+  },
+  {
+    "text": "Meta",
+    "label": "ORG"
+  },
+  {
+    "text": "kibana",
+    "label": "PERSON"
+  },
+  {
+    "text": "PII",
+    "label": "ORG"
+  },
+  {
+    "text": "Tools & Technologies: Python",
+    "label": "ORG"
+  },
+  {
+    "text": "Flask",
+    "label": "GPE"
+  },
+  {
+    "text": "Elastic Search",
+    "label": "ORG"
+  },
+  {
+    "text": "Kibana\n\n\n\n",
+    "label": "PERSON"
+  },
+  {
+    "text": "FAP",
+    "label": "ORG"
+  },
+  {
+    "text": "ERP",
+    "label": "ORG"
+  },
+  {
+    "text": "Accounting",
+    "label": "NORP"
+  },
+  {
+    "text": "Tools & Technologies",
+    "label": "ORG"
+  },
+  {
+    "text": "JavaScript",
+    "label": "ORG"
+  },
+  {
+    "text": "SqlServer",
+    "label": "ORG"
+  },
+  {
+    "text": "CSS",
+    "label": "ORG"
+  },
+  {
+    "text": "Bootstrap",
+    "label": "ORG"
+  },
+  {
+    "text": "Node.js",
+    "label": "GPE"
+  }
+]

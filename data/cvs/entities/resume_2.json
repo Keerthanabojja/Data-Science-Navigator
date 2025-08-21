@@ -1,0 +1,70 @@
+[
+  {
+    "text": "May 2013",
+    "label": "DATE"
+  },
+  {
+    "text": "May 2017",
+    "label": "DATE"
+  },
+  {
+    "text": "UIT-RGPV\n\nData Scientist \n\n\n\nData Scientist - Matelabs",
+    "label": "ORG"
+  },
+  {
+    "text": "Less than 1 year months",
+    "label": "DATE"
+  },
+  {
+    "text": "Exprience",
+    "label": "GPE"
+  },
+  {
+    "text": "Less than 1 year months",
+    "label": "DATE"
+  },
+  {
+    "text": "Less than 1 year months",
+    "label": "DATE"
+  },
+  {
+    "text": "Keras-",
+    "label": "PERSON"
+  },
+  {
+    "text": "Less than 1 year",
+    "label": "DATE"
+  },
+  {
+    "text": "60",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "Koramangala",
+    "label": "GPE"
+  },
+  {
+    "text": "5th",
+    "label": "ORDINAL"
+  },
+  {
+    "text": "Bengaluru",
+    "label": "GPE"
+  },
+  {
+    "text": "India",
+    "label": "GPE"
+  },
+  {
+    "text": "Deployed",
+    "label": "ORG"
+  },
+  {
+    "text": "ARIMA",
+    "label": "ORG"
+  },
+  {
+    "text": "Holt",
+    "label": "GPE"
+  }
+]

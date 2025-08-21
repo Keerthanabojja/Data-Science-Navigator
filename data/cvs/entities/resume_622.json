@@ -1,0 +1,330 @@
+[
+  {
+    "text": "B1",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "Sweden & US",
+    "label": "ORG"
+  },
+  {
+    "text": "Seattle",
+    "label": "GPE"
+  },
+  {
+    "text": "January 2013",
+    "label": "DATE"
+  },
+  {
+    "text": "Maharashtra Symbiosis Institute",
+    "label": "ORG"
+  },
+  {
+    "text": "January 2007",
+    "label": "DATE"
+  },
+  {
+    "text": "Bachelor of Engineering Electronics and Telecommunications Pune",
+    "label": "ORG"
+  },
+  {
+    "text": "Maharashtra Pune University",
+    "label": "ORG"
+  },
+  {
+    "text": "DevOps",
+    "label": "ORG"
+  },
+  {
+    "text": "DevOps",
+    "label": "ORG"
+  },
+  {
+    "text": "48 months",
+    "label": "DATE"
+  },
+  {
+    "text": "Shell",
+    "label": "ORG"
+  },
+  {
+    "text": "Exprience",
+    "label": "GPE"
+  },
+  {
+    "text": "96 months",
+    "label": "DATE"
+  },
+  {
+    "text": "6 months",
+    "label": "DATE"
+  },
+  {
+    "text": "72 months",
+    "label": "DATE"
+  },
+  {
+    "text": "Less than 1 year months",
+    "label": "DATE"
+  },
+  {
+    "text": "Exprience",
+    "label": "GPE"
+  },
+  {
+    "text": "Less than 1 year months",
+    "label": "DATE"
+  },
+  {
+    "text": "Azure Cloud",
+    "label": "PERSON"
+  },
+  {
+    "text": "RDS",
+    "label": "ORG"
+  },
+  {
+    "text": "CloudFormation Template",
+    "label": "ORG"
+  },
+  {
+    "text": "Lambda",
+    "label": "GPE"
+  },
+  {
+    "text": "Dynamo",
+    "label": "PRODUCT"
+  },
+  {
+    "text": "Cloud Watch",
+    "label": "PERSON"
+  },
+  {
+    "text": "Elastic Bean",
+    "label": "NORP"
+  },
+  {
+    "text": "Appdynamics",
+    "label": "GPE"
+  },
+  {
+    "text": "Tibco Spotfire enterprise & Cloud Product",
+    "label": "ORG"
+  },
+  {
+    "text": "Ops",
+    "label": "ORG"
+  },
+  {
+    "text": "India",
+    "label": "GPE"
+  },
+  {
+    "text": "15",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "4",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "1",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "Managing Tibco Spotfire Enterprise & Cloud",
+    "label": "ORG"
+  },
+  {
+    "text": "2",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "3",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "4",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "4",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "5",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "AWS",
+    "label": "ORG"
+  },
+  {
+    "text": "Shell",
+    "label": "ORG"
+  },
+  {
+    "text": "AWS",
+    "label": "ORG"
+  },
+  {
+    "text": "EIP",
+    "label": "ORG"
+  },
+  {
+    "text": "Wrote Lambda",
+    "label": "PERSON"
+  },
+  {
+    "text": "Synechron Technologies Limited",
+    "label": "ORG"
+  },
+  {
+    "text": "Linux-Xen Servers",
+    "label": "PERSON"
+  },
+  {
+    "text": "Redhat Satellite",
+    "label": "ORG"
+  },
+  {
+    "text": "1",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "2",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "xen",
+    "label": "NORP"
+  },
+  {
+    "text": "3",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "Creating Satellite",
+    "label": "ORG"
+  },
+  {
+    "text": "4",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "5",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "RHDS",
+    "label": "ORG"
+  },
+  {
+    "text": "Cvs",
+    "label": "PERSON"
+  },
+  {
+    "text": "VDI",
+    "label": "ORG"
+  },
+  {
+    "text": "1",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "2",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "3",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "4",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "Patni Computer Systems Limited",
+    "label": "ORG"
+  },
+  {
+    "text": "IBM",
+    "label": "ORG"
+  },
+  {
+    "text": "AIX",
+    "label": "ORG"
+  },
+  {
+    "text": "HTML",
+    "label": "ORG"
+  },
+  {
+    "text": "Genworth Financial\n\nDuration",
+    "label": "ORG"
+  },
+  {
+    "text": "2",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "2 months",
+    "label": "DATE"
+  },
+  {
+    "text": "a Maintenance Project",
+    "label": "PERSON"
+  },
+  {
+    "text": "Genworth Imaging Solutions",
+    "label": "ORG"
+  },
+  {
+    "text": "Providers",
+    "label": "ORG"
+  },
+  {
+    "text": "Oracle Database",
+    "label": "GPE"
+  },
+  {
+    "text": "P8 Filenet",
+    "label": "LOC"
+  },
+  {
+    "text": "L1",
+    "label": "GPE"
+  },
+  {
+    "text": "Monitoring P8 Filenet",
+    "label": "ORG"
+  },
+  {
+    "text": "10",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "Linux Proxy",
+    "label": "PERSON"
+  },
+  {
+    "text": "Mysql / Oracle / SQL Support",
+    "label": "ORG"
+  },
+  {
+    "text": "Handling Oracle",
+    "label": "PERSON"
+  },
+  {
+    "text": "Trexo",
+    "label": "PERSON"
+  },
+  {
+    "text": "Shell",
+    "label": "ORG"
+  },
+  {
+    "text": "older than five days",
+    "label": "DATE"
+  }
+]

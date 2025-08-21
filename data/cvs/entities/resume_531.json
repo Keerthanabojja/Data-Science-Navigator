@@ -1,0 +1,1202 @@
+[
+  {
+    "text": "August 2000",
+    "label": "DATE"
+  },
+  {
+    "text": "B.E Electronics Pune",
+    "label": "ORG"
+  },
+  {
+    "text": "Maharashtra Pune University",
+    "label": "ORG"
+  },
+  {
+    "text": "Delta Controls",
+    "label": "ORG"
+  },
+  {
+    "text": "Dubai",
+    "label": "GPE"
+  },
+  {
+    "text": "Delta Controls",
+    "label": "ORG"
+  },
+  {
+    "text": "Dubai",
+    "label": "GPE"
+  },
+  {
+    "text": "M/s Deltannex Integrators Pvt",
+    "label": "ORG"
+  },
+  {
+    "text": "'17",
+    "label": "DATE"
+  },
+  {
+    "text": "Designation - Operations",
+    "label": "ORG"
+  },
+  {
+    "text": "1st Employee",
+    "label": "ORG"
+  },
+  {
+    "text": "1",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "GM",
+    "label": "ORG"
+  },
+  {
+    "text": "RFQ",
+    "label": "ORG"
+  },
+  {
+    "text": "Project Schedule",
+    "label": "ORG"
+  },
+  {
+    "text": "Organization\n\nChart and Meeting",
+    "label": "ORG"
+  },
+  {
+    "text": "3",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "RFQ",
+    "label": "ORG"
+  },
+  {
+    "text": "Client",
+    "label": "GPE"
+  },
+  {
+    "text": "Purchase Order",
+    "label": "PERSON"
+  },
+  {
+    "text": "4",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "5",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "6",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "7",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "8",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "9",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "10",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "11",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "12",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "13",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "Liaison",
+    "label": "PERSON"
+  },
+  {
+    "text": "14",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "Monitoring &",
+    "label": "ORG"
+  },
+  {
+    "text": "15",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "Change Orders / Waivers / Concessions",
+    "label": "ORG"
+  },
+  {
+    "text": "16",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "MRN",
+    "label": "ORG"
+  },
+  {
+    "text": "17",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "Planning & Co-ordination",
+    "label": "ORG"
+  },
+  {
+    "text": "18",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "19",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "Proposal 20",
+    "label": "LAW"
+  },
+  {
+    "text": "Preparation of Project Management Reports",
+    "label": "ORG"
+  },
+  {
+    "text": "Planned vs Actual",
+    "label": "ORG"
+  },
+  {
+    "text": "EV Analysis",
+    "label": "ORG"
+  },
+  {
+    "text": "Scheduled Variances",
+    "label": "ORG"
+  },
+  {
+    "text": "Monthly",
+    "label": "DATE"
+  },
+  {
+    "text": "21",
+    "label": "DATE"
+  },
+  {
+    "text": "Exception/ Alert",
+    "label": "PERSON"
+  },
+  {
+    "text": "GM",
+    "label": "ORG"
+  },
+  {
+    "text": "22",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "23",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "24",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "the Project Team",
+    "label": "ORG"
+  },
+  {
+    "text": "25",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "Customer 26",
+    "label": "ORG"
+  },
+  {
+    "text": "Sales & technical discussions",
+    "label": "ORG"
+  },
+  {
+    "text": "27",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "28",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "29",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "30",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "May 2015 to June 2016",
+    "label": "DATE"
+  },
+  {
+    "text": "HONEYWELL",
+    "label": "ORG"
+  },
+  {
+    "text": "Seoul",
+    "label": "GPE"
+  },
+  {
+    "text": "South Korea",
+    "label": "GPE"
+  },
+  {
+    "text": "Roles and Responsibilities",
+    "label": "WORK_OF_ART"
+  },
+  {
+    "text": "1",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "Honeywell Korea LE",
+    "label": "ORG"
+  },
+  {
+    "text": "GES",
+    "label": "ORG"
+  },
+  {
+    "text": "2",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "Project / Work",
+    "label": "ORG"
+  },
+  {
+    "text": "Honeywell Korea",
+    "label": "ORG"
+  },
+  {
+    "text": "LE",
+    "label": "GPE"
+  },
+  {
+    "text": "3",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "Communicating Project / Work",
+    "label": "ORG"
+  },
+  {
+    "text": "GES",
+    "label": "ORG"
+  },
+  {
+    "text": "Helping GES",
+    "label": "PERSON"
+  },
+  {
+    "text": "GES",
+    "label": "ORG"
+  },
+  {
+    "text": "5",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "GES",
+    "label": "ORG"
+  },
+  {
+    "text": "Honeywell Korea PM / LE",
+    "label": "ORG"
+  },
+  {
+    "text": "6",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "GES",
+    "label": "ORG"
+  },
+  {
+    "text": "Honeywell Korea",
+    "label": "ORG"
+  },
+  {
+    "text": "7",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "Helping GES",
+    "label": "PERSON"
+  },
+  {
+    "text": "JAs",
+    "label": "GPE"
+  },
+  {
+    "text": "8",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "Honeywell Korea PM",
+    "label": "ORG"
+  },
+  {
+    "text": "9",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "GES",
+    "label": "ORG"
+  },
+  {
+    "text": "Honeywell Korea",
+    "label": "GPE"
+  },
+  {
+    "text": "GES",
+    "label": "ORG"
+  },
+  {
+    "text": "Honeywell Korea LE",
+    "label": "ORG"
+  },
+  {
+    "text": "Communicating Honeywell Korea",
+    "label": "ORG"
+  },
+  {
+    "text": "Honeywell Korea",
+    "label": "GPE"
+  },
+  {
+    "text": "GES",
+    "label": "ORG"
+  },
+  {
+    "text": "Understanding GES Change",
+    "label": "ORG"
+  },
+  {
+    "text": "Honeywell Korea LE",
+    "label": "ORG"
+  },
+  {
+    "text": "GES",
+    "label": "ORG"
+  },
+  {
+    "text": "g. Ensuring",
+    "label": "PERSON"
+  },
+  {
+    "text": "Deliverables",
+    "label": "PERSON"
+  },
+  {
+    "text": "GES & Honeywell Korea",
+    "label": "ORG"
+  },
+  {
+    "text": "Scheduling Project",
+    "label": "ORG"
+  },
+  {
+    "text": "Attending Proto",
+    "label": "ORG"
+  },
+  {
+    "text": "Design Review",
+    "label": "ORG"
+  },
+  {
+    "text": "Pre-Inspection Meetings / Pre KOM / KOM",
+    "label": "ORG"
+  },
+  {
+    "text": "l. Ensuring",
+    "label": "ORG"
+  },
+  {
+    "text": "Pre-FAT / FAT",
+    "label": "ORG"
+  },
+  {
+    "text": "KOM",
+    "label": "ORG"
+  },
+  {
+    "text": "GES",
+    "label": "ORG"
+  },
+  {
+    "text": "n. Ensuring",
+    "label": "PERSON"
+  },
+  {
+    "text": "GES EM",
+    "label": "ORG"
+  },
+  {
+    "text": "10",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "Monthly Progress",
+    "label": "WORK_OF_ART"
+  },
+  {
+    "text": "11",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "monthly",
+    "label": "DATE"
+  },
+  {
+    "text": "Honeywell Korea PAS Business",
+    "label": "ORG"
+  },
+  {
+    "text": "GES",
+    "label": "ORG"
+  },
+  {
+    "text": "12",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "Attending Project review",
+    "label": "ORG"
+  },
+  {
+    "text": "PM / LE / EPC",
+    "label": "ORG"
+  },
+  {
+    "text": "13",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "Helping Honeywell",
+    "label": "PERSON"
+  },
+  {
+    "text": "GES",
+    "label": "ORG"
+  },
+  {
+    "text": "14",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "15",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "Projects Completed",
+    "label": "PERSON"
+  },
+  {
+    "text": "HONEYWELL",
+    "label": "ORG"
+  },
+  {
+    "text": "India",
+    "label": "GPE"
+  },
+  {
+    "text": "HONEYWELL",
+    "label": "ORG"
+  },
+  {
+    "text": "Project Highlights\n\nFGP/WPMP\n\nClient",
+    "label": "ORG"
+  },
+  {
+    "text": "MAC",
+    "label": "ORG"
+  },
+  {
+    "text": "MUSTANG/HONEYWELL\n\n\n\nTeam Lead\n\nSystem",
+    "label": "ORG"
+  },
+  {
+    "text": "DCS",
+    "label": "ORG"
+  },
+  {
+    "text": "weekly",
+    "label": "DATE"
+  },
+  {
+    "text": "telephonic",
+    "label": "PERSON"
+  },
+  {
+    "text": "PROJECT",
+    "label": "NORP"
+  },
+  {
+    "text": "LNG RTLF\n\nClient",
+    "label": "ORG"
+  },
+  {
+    "text": "CBI / National Grid",
+    "label": "ORG"
+  },
+  {
+    "text": "UK",
+    "label": "GPE"
+  },
+  {
+    "text": "LNG",
+    "label": "ORG"
+  },
+  {
+    "text": "DCS",
+    "label": "ORG"
+  },
+  {
+    "text": "1",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "Design",
+    "label": "GPE"
+  },
+  {
+    "text": "HARDWARE",
+    "label": "ORG"
+  },
+  {
+    "text": "\u00a6 Network Cabinet",
+    "label": "PERSON"
+  },
+  {
+    "text": "\u00a6 System",
+    "label": "PERSON"
+  },
+  {
+    "text": "\u00a6 Heat and",
+    "label": "PERSON"
+  },
+  {
+    "text": "\u00a6 Network",
+    "label": "PERSON"
+  },
+  {
+    "text": "Miscellaneous",
+    "label": "PERSON"
+  },
+  {
+    "text": "\u00e2\u0097",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "C-300 Application",
+    "label": "ORG"
+  },
+  {
+    "text": "Focal",
+    "label": "ORG"
+  },
+  {
+    "text": "weekly",
+    "label": "DATE"
+  },
+  {
+    "text": "telephonic",
+    "label": "PERSON"
+  },
+  {
+    "text": "AMC",
+    "label": "ORG"
+  },
+  {
+    "text": "HPM Migration-MX8800\n\nClient:",
+    "label": "PERSON"
+  },
+  {
+    "text": "Thai Oil Public Co. Ltd.",
+    "label": "ORG"
+  },
+  {
+    "text": "1",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "Microsoft",
+    "label": "ORG"
+  },
+  {
+    "text": "Logic Point",
+    "label": "ORG"
+  },
+  {
+    "text": "HPM",
+    "label": "ORG"
+  },
+  {
+    "text": "PU Calculation",
+    "label": "ORG"
+  },
+  {
+    "text": "HPM",
+    "label": "PERSON"
+  },
+  {
+    "text": "Focal",
+    "label": "ORG"
+  },
+  {
+    "text": "weekly",
+    "label": "DATE"
+  },
+  {
+    "text": "telephonic",
+    "label": "PERSON"
+  },
+  {
+    "text": "AMC",
+    "label": "ORG"
+  },
+  {
+    "text": "HPM Migration-CCR1",
+    "label": "PERSON"
+  },
+  {
+    "text": "Thai Oil Public Co. Ltd.",
+    "label": "ORG"
+  },
+  {
+    "text": "1",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "Microsoft",
+    "label": "ORG"
+  },
+  {
+    "text": "Logic Point",
+    "label": "ORG"
+  },
+  {
+    "text": "HPM",
+    "label": "ORG"
+  },
+  {
+    "text": "PU Calculation",
+    "label": "ORG"
+  },
+  {
+    "text": "HPM",
+    "label": "PERSON"
+  },
+  {
+    "text": "Focal",
+    "label": "ORG"
+  },
+  {
+    "text": "weekly",
+    "label": "DATE"
+  },
+  {
+    "text": "telephonic",
+    "label": "PERSON"
+  },
+  {
+    "text": "Utilities",
+    "label": "ORG"
+  },
+  {
+    "text": "Offsites\n\nClient:",
+    "label": "ORG"
+  },
+  {
+    "text": "EGYPT",
+    "label": "GPE"
+  },
+  {
+    "text": "2Nos",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "4",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "10",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "1",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "01",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "01",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "01",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "01",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "05",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "Hardware Engineering",
+    "label": "ORG"
+  },
+  {
+    "text": "Software Engineering",
+    "label": "ORG"
+  },
+  {
+    "text": "Preparation of BOM",
+    "label": "ORG"
+  },
+  {
+    "text": "Client",
+    "label": "GPE"
+  },
+  {
+    "text": "weekly",
+    "label": "DATE"
+  },
+  {
+    "text": "FAT",
+    "label": "ORG"
+  },
+  {
+    "text": "Abu Dhabi",
+    "label": "ORG"
+  },
+  {
+    "text": "Control Plant-3/ Control Plant6\n\nClient",
+    "label": "ORG"
+  },
+  {
+    "text": "JBK Controls",
+    "label": "PERSON"
+  },
+  {
+    "text": "Qatar Foundation",
+    "label": "ORG"
+  },
+  {
+    "text": "Qatar",
+    "label": "GPE"
+  },
+  {
+    "text": "SCADA",
+    "label": "NORP"
+  },
+  {
+    "text": "26",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "Nos",
+    "label": "PERSON"
+  },
+  {
+    "text": "60",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "2",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "01",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "02",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "10",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "Wiring",
+    "label": "ORG"
+  },
+  {
+    "text": "30",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "PLC",
+    "label": "ORG"
+  },
+  {
+    "text": "30",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "PLC",
+    "label": "ORG"
+  },
+  {
+    "text": "30",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "PLC",
+    "label": "ORG"
+  },
+  {
+    "text": "FAT",
+    "label": "ORG"
+  },
+  {
+    "text": "2nd",
+    "label": "ORDINAL"
+  },
+  {
+    "text": "Quality Checks for Wiring Schematics",
+    "label": "ORG"
+  },
+  {
+    "text": "FDS",
+    "label": "ORG"
+  },
+  {
+    "text": "FAT",
+    "label": "ORG"
+  },
+  {
+    "text": "the Pre-FAT",
+    "label": "ORG"
+  },
+  {
+    "text": "FAT",
+    "label": "ORG"
+  },
+  {
+    "text": "QATAR",
+    "label": "GPE"
+  },
+  {
+    "text": "JBK Controls",
+    "label": "PERSON"
+  },
+  {
+    "text": "Qatar Foundation",
+    "label": "ORG"
+  },
+  {
+    "text": "Qatar",
+    "label": "GPE"
+  },
+  {
+    "text": "Wiring",
+    "label": "ORG"
+  },
+  {
+    "text": "28",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "PLC",
+    "label": "ORG"
+  },
+  {
+    "text": "28",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "PLC",
+    "label": "ORG"
+  },
+  {
+    "text": "28",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "PLC",
+    "label": "ORG"
+  },
+  {
+    "text": "FAT",
+    "label": "ORG"
+  },
+  {
+    "text": "2nd",
+    "label": "ORDINAL"
+  },
+  {
+    "text": "Quality Checks for Wiring Schematics",
+    "label": "ORG"
+  },
+  {
+    "text": "FDS",
+    "label": "ORG"
+  },
+  {
+    "text": "FAT",
+    "label": "ORG"
+  },
+  {
+    "text": "the Pre-FAT",
+    "label": "ORG"
+  },
+  {
+    "text": "FAT",
+    "label": "ORG"
+  },
+  {
+    "text": "QATAR",
+    "label": "GPE"
+  },
+  {
+    "text": "JBK Controls",
+    "label": "PERSON"
+  },
+  {
+    "text": "Qatar Foundation",
+    "label": "ORG"
+  },
+  {
+    "text": "Qatar",
+    "label": "GPE"
+  },
+  {
+    "text": "Wiring",
+    "label": "ORG"
+  },
+  {
+    "text": "6",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "PLC",
+    "label": "ORG"
+  },
+  {
+    "text": "6",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "PLC",
+    "label": "ORG"
+  },
+  {
+    "text": "6",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "PLC",
+    "label": "ORG"
+  },
+  {
+    "text": "FAT",
+    "label": "ORG"
+  },
+  {
+    "text": "2nd",
+    "label": "ORDINAL"
+  },
+  {
+    "text": "Quality Checks for Wiring Schematics",
+    "label": "ORG"
+  },
+  {
+    "text": "FDS",
+    "label": "ORG"
+  },
+  {
+    "text": "FAT",
+    "label": "ORG"
+  },
+  {
+    "text": "the Pre-FAT",
+    "label": "ORG"
+  },
+  {
+    "text": "FAT",
+    "label": "ORG"
+  },
+  {
+    "text": "QATAR",
+    "label": "GPE"
+  },
+  {
+    "text": "Chevron Oronite",
+    "label": "PERSON"
+  },
+  {
+    "text": "Singapore",
+    "label": "GPE"
+  },
+  {
+    "text": "Completed",
+    "label": "ORG"
+  },
+  {
+    "text": "3",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "2nd",
+    "label": "ORDINAL"
+  },
+  {
+    "text": "66",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "KH Engineering B.V.",
+    "label": "ORG"
+  },
+  {
+    "text": "Amsterdam\n\n\n\nTeam Lead \u00e2\u0080\u00a2 Application",
+    "label": "ORG"
+  },
+  {
+    "text": "Highway Gateway (",
+    "label": "FAC"
+  },
+  {
+    "text": "CMPI",
+    "label": "ORG"
+  },
+  {
+    "text": "Furnace COIL",
+    "label": "ORG"
+  },
+  {
+    "text": "HMI",
+    "label": "ORG"
+  },
+  {
+    "text": "ACE Control Modules",
+    "label": "ORG"
+  },
+  {
+    "text": "Accountable for PLC",
+    "label": "ORG"
+  },
+  {
+    "text": "SCADA",
+    "label": "GPE"
+  },
+  {
+    "text": "Process Plants",
+    "label": "ORG"
+  },
+  {
+    "text": "DRIVES",
+    "label": "ORG"
+  },
+  {
+    "text": "SCADA",
+    "label": "GPE"
+  },
+  {
+    "text": "Documentation of Engineering",
+    "label": "ORG"
+  },
+  {
+    "text": "Breakdown Structure",
+    "label": "WORK_OF_ART"
+  },
+  {
+    "text": "Project Plan",
+    "label": "ORG"
+  },
+  {
+    "text": "Plan & Schedules",
+    "label": "ORG"
+  },
+  {
+    "text": "PLC",
+    "label": "ORG"
+  },
+  {
+    "text": "Schedule",
+    "label": "PERSON"
+  },
+  {
+    "text": "Project",
+    "label": "ORG"
+  },
+  {
+    "text": "Expert",
+    "label": "ORG"
+  },
+  {
+    "text": "Adopt",
+    "label": "PERSON"
+  },
+  {
+    "text": "Fox Controls",
+    "label": "ORG"
+  },
+  {
+    "text": "Dubai",
+    "label": "GPE"
+  },
+  {
+    "text": "Worked as Management Representative",
+    "label": "ORG"
+  },
+  {
+    "text": "ISO",
+    "label": "ORG"
+  },
+  {
+    "text": "the year 2011",
+    "label": "DATE"
+  },
+  {
+    "text": "1.2",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "MW",
+    "label": "ORG"
+  },
+  {
+    "text": "8.4",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "MW",
+    "label": "ORG"
+  },
+  {
+    "text": "Inverter-Converter",
+    "label": "LOC"
+  },
+  {
+    "text": "SAP",
+    "label": "ORG"
+  }
+]

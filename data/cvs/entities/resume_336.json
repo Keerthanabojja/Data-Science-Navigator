@@ -1,0 +1,122 @@
+[
+  {
+    "text": "Java",
+    "label": "PERSON"
+  },
+  {
+    "text": "SQL",
+    "label": "ORG"
+  },
+  {
+    "text": "PL/SQL",
+    "label": "ORG"
+  },
+  {
+    "text": "C++",
+    "label": "PERSON"
+  },
+  {
+    "text": "BootStrap",
+    "label": "ORG"
+  },
+  {
+    "text": "JSP",
+    "label": "ORG"
+  },
+  {
+    "text": "Ext JS Operating Systems",
+    "label": "ORG"
+  },
+  {
+    "text": "Eclipse",
+    "label": "PRODUCT"
+  },
+  {
+    "text": "SoapBox",
+    "label": "ORG"
+  },
+  {
+    "text": "MS-SQL",
+    "label": "ORG"
+  },
+  {
+    "text": "MS-Access",
+    "label": "ORG"
+  },
+  {
+    "text": "January 2017",
+    "label": "DATE"
+  },
+  {
+    "text": "B.E. Computer Technology Gondia",
+    "label": "ORG"
+  },
+  {
+    "text": "MAHARASHTRA",
+    "label": "ORG"
+  },
+  {
+    "text": "Manoharbhai Patel Institute of Engineering and Technology\n\n HSC  ",
+    "label": "ORG"
+  },
+  {
+    "text": "Gondia",
+    "label": "GPE"
+  },
+  {
+    "text": "MAHARASHTRA",
+    "label": "ORG"
+  },
+  {
+    "text": "Java Developer - Xoriant Solutions Pvt Ltd",
+    "label": "PERSON"
+  },
+  {
+    "text": "Hertz",
+    "label": "ORG"
+  },
+  {
+    "text": "XML",
+    "label": "ORG"
+  },
+  {
+    "text": "JSON",
+    "label": "PERSON"
+  },
+  {
+    "text": "Hertz",
+    "label": "ORG"
+  },
+  {
+    "text": "TOAD",
+    "label": "ORG"
+  },
+  {
+    "text": "SoapBox",
+    "label": "ORG"
+  },
+  {
+    "text": "Backend",
+    "label": "GPE"
+  },
+  {
+    "text": "Task",
+    "label": "PRODUCT"
+  },
+  {
+    "text": "daily",
+    "label": "DATE"
+  },
+  {
+    "text": "Java, Sql, Ext JS",
+    "label": "ORG"
+  },
+  {
+    "text": "JSP",
+    "label": "ORG"
+  },
+  {
+    "text": "XML",
+    "label": "ORG"
+  }
+]

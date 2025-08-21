@@ -1,0 +1,190 @@
+[
+  {
+    "text": "Eagerness",
+    "label": "NORP"
+  },
+  {
+    "text": "Competitive",
+    "label": "ORG"
+  },
+  {
+    "text": "Dhanraj WaghEducation Details",
+    "label": "ORG"
+  },
+  {
+    "text": "January 2012 to January 2016",
+    "label": "DATE"
+  },
+  {
+    "text": "Maharashtra Pune University",
+    "label": "ORG"
+  },
+  {
+    "text": "January 2012",
+    "label": "DATE"
+  },
+  {
+    "text": "Maharashtra SND College of Engineering",
+    "label": "ORG"
+  },
+  {
+    "text": "January 2010",
+    "label": "DATE"
+  },
+  {
+    "text": "Secondary School Certificate  Yeola",
+    "label": "ORG"
+  },
+  {
+    "text": "Maharashtra Swami Muktanand Jr. College",
+    "label": "ORG"
+  },
+  {
+    "text": "Maharashtra State Board",
+    "label": "ORG"
+  },
+  {
+    "text": "SSC",
+    "label": "ORG"
+  },
+  {
+    "text": "Maharashtra State Bard\n\n BE  Rajapur",
+    "label": "ORG"
+  },
+  {
+    "text": "Quality Control Engineer - M/S Rakesh Transformer Industries Pvt.",
+    "label": "ORG"
+  },
+  {
+    "text": "Routine",
+    "label": "NORP"
+  },
+  {
+    "text": "10",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "MVA",
+    "label": "ORG"
+  },
+  {
+    "text": "2026",
+    "label": "DATE"
+  },
+  {
+    "text": "1180",
+    "label": "DATE"
+  },
+  {
+    "text": "11171",
+    "label": "DATE"
+  },
+  {
+    "text": "Power Transformers, Distribution Transformers",
+    "label": "ORG"
+  },
+  {
+    "text": "Inverter Duty",
+    "label": "PERSON"
+  },
+  {
+    "text": "Furnace Transformer",
+    "label": "ORG"
+  },
+  {
+    "text": "Dry Type",
+    "label": "ORG"
+  },
+  {
+    "text": "OLTC",
+    "label": "ORG"
+  },
+  {
+    "text": "CTR",
+    "label": "ORG"
+  },
+  {
+    "text": "BR",
+    "label": "ORG"
+  },
+  {
+    "text": "PRV",
+    "label": "ORG"
+  },
+  {
+    "text": "MOG",
+    "label": "ORG"
+  },
+  {
+    "text": "OTI",
+    "label": "ORG"
+  },
+  {
+    "text": "Setting",
+    "label": "ORG"
+  },
+  {
+    "text": "CAPA",
+    "label": "ORG"
+  },
+  {
+    "text": "Handling 3rd party and Government Body's Inspection",
+    "label": "ORG"
+  },
+  {
+    "text": "Preparation of Daily Internal Testing Reports",
+    "label": "ORG"
+  },
+  {
+    "text": "ISO & BIS",
+    "label": "ORG"
+  },
+  {
+    "text": "Maintain Records",
+    "label": "ORG"
+  },
+  {
+    "text": "Quality Inspection of Winding",
+    "label": "ORG"
+  },
+  {
+    "text": "Core Coil",
+    "label": "ORG"
+  },
+  {
+    "text": "Pre Dispatch Quality Inspection of Complete Product",
+    "label": "ORG"
+  },
+  {
+    "text": "2026",
+    "label": "DATE"
+  },
+  {
+    "text": "1180/",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "Distribution Transformer",
+    "label": "ORG"
+  },
+  {
+    "text": "Power Transformer",
+    "label": "ORG"
+  },
+  {
+    "text": "Transformer",
+    "label": "ORG"
+  },
+  {
+    "text": "3rd",
+    "label": "ORDINAL"
+  },
+  {
+    "text": "Government Body's",
+    "label": "ORG"
+  },
+  {
+    "text": "Preparation of Daily Internal Testing Reports",
+    "label": "ORG"
+  }
+]

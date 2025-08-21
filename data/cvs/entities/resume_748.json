@@ -1,0 +1,194 @@
+[
+  {
+    "text": "Technical Skills Programming Languages: C",
+    "label": "ORG"
+  },
+  {
+    "text": "C++",
+    "label": "PERSON"
+  },
+  {
+    "text": "Java",
+    "label": "PERSON"
+  },
+  {
+    "text": "HTML5",
+    "label": "PERSON"
+  },
+  {
+    "text": "CSS",
+    "label": "ORG"
+  },
+  {
+    "text": "MapReduce Scripting Languages",
+    "label": "ORG"
+  },
+  {
+    "text": "PL-SQL",
+    "label": "ORG"
+  },
+  {
+    "text": "IBM",
+    "label": "ORG"
+  },
+  {
+    "text": "IBM",
+    "label": "ORG"
+  },
+  {
+    "text": "Weka Operating Systems",
+    "label": "ORG"
+  },
+  {
+    "text": "Vista",
+    "label": "GPE"
+  },
+  {
+    "text": "UNIX",
+    "label": "ORG"
+  },
+  {
+    "text": "Windows 7",
+    "label": "NORP"
+  },
+  {
+    "text": "January 2015",
+    "label": "DATE"
+  },
+  {
+    "text": "B.E",
+    "label": "GPE"
+  },
+  {
+    "text": "Pimpri Chinchwad",
+    "label": "ORG"
+  },
+  {
+    "text": "MAHARASHTRA",
+    "label": "ORG"
+  },
+  {
+    "text": "Pimpri Chinchwad College of Engineering",
+    "label": "ORG"
+  },
+  {
+    "text": "January 2012",
+    "label": "DATE"
+  },
+  {
+    "text": "MSBTE",
+    "label": "ORG"
+  },
+  {
+    "text": "Dnyanganaga Polytechnic\n\n S.S.C",
+    "label": "ORG"
+  },
+  {
+    "text": "New English School Takali\n\nHadoop/Big Data Developer \n\n\n\nHadoop/Big Data Developer - British Telecom\n\n",
+    "label": "ORG"
+  },
+  {
+    "text": "37 months",
+    "label": "DATE"
+  },
+  {
+    "text": "37 months",
+    "label": "DATE"
+  },
+  {
+    "text": "Exprience - 37 months",
+    "label": "DATE"
+  },
+  {
+    "text": "Exprience",
+    "label": "GPE"
+  },
+  {
+    "text": "32 months",
+    "label": "DATE"
+  },
+  {
+    "text": "Exprience - 6 monthsCompany",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "British Telecom",
+    "label": "ORG"
+  },
+  {
+    "text": "UK",
+    "label": "GPE"
+  },
+  {
+    "text": "Working on HDFS",
+    "label": "ORG"
+  },
+  {
+    "text": "MapReduce",
+    "label": "ORG"
+  },
+  {
+    "text": "Hive",
+    "label": "PERSON"
+  },
+  {
+    "text": "Spark",
+    "label": "GPE"
+  },
+  {
+    "text": "Scala",
+    "label": "PERSON"
+  },
+  {
+    "text": "Sqoop",
+    "label": "ORG"
+  },
+  {
+    "text": "Spark",
+    "label": "ORG"
+  },
+  {
+    "text": "Random",
+    "label": "ORG"
+  },
+  {
+    "text": "Hadoop",
+    "label": "ORG"
+  },
+  {
+    "text": "DXC",
+    "label": "ORG"
+  },
+  {
+    "text": "Bangalore",
+    "label": "PERSON"
+  },
+  {
+    "text": "Worked on Azure",
+    "label": "WORK_OF_ART"
+  },
+  {
+    "text": "EMR",
+    "label": "PERSON"
+  },
+  {
+    "text": "Design",
+    "label": "GPE"
+  },
+  {
+    "text": "Hadoop",
+    "label": "ORG"
+  },
+  {
+    "text": "Develop MapReduce",
+    "label": "ORG"
+  },
+  {
+    "text": "Hadoop",
+    "label": "ORG"
+  },
+  {
+    "text": "HDFS",
+    "label": "ORG"
+  }
+]

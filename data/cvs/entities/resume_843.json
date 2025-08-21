@@ -1,0 +1,334 @@
+[
+  {
+    "text": "MVC",
+    "label": "ORG"
+  },
+  {
+    "text": "6.0",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "Library JavaScript",
+    "label": "PERSON"
+  },
+  {
+    "text": "JQuery",
+    "label": "ORG"
+  },
+  {
+    "text": "Typescript",
+    "label": "ORG"
+  },
+  {
+    "text": "3.5",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "4.0",
+    "label": "DATE"
+  },
+  {
+    "text": "4.5",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "Databases SQL Server",
+    "label": "EVENT"
+  },
+  {
+    "text": "2005, 2008,",
+    "label": "DATE"
+  },
+  {
+    "text": "2014",
+    "label": "DATE"
+  },
+  {
+    "text": "2015",
+    "label": "DATE"
+  },
+  {
+    "text": "Tortoise SVN",
+    "label": "ORG"
+  },
+  {
+    "text": "Git,Education Details",
+    "label": "ORG"
+  },
+  {
+    "text": "January 2010",
+    "label": "DATE"
+  },
+  {
+    "text": "Andhra Pradesh JNTU\n\n",
+    "label": "PERSON"
+  },
+  {
+    "text": "Exprience",
+    "label": "GPE"
+  },
+  {
+    "text": "34 months",
+    "label": "DATE"
+  },
+  {
+    "text": "Exprience -",
+    "label": "EVENT"
+  },
+  {
+    "text": "34 months",
+    "label": "DATE"
+  },
+  {
+    "text": "Exprience",
+    "label": "GPE"
+  },
+  {
+    "text": "34 months",
+    "label": "DATE"
+  },
+  {
+    "text": "Exprience",
+    "label": "GPE"
+  },
+  {
+    "text": "34 months",
+    "label": "DATE"
+  },
+  {
+    "text": "January 2017",
+    "label": "DATE"
+  },
+  {
+    "text": "Microsoft MVC",
+    "label": "ORG"
+  },
+  {
+    "text": "Knockout JS",
+    "label": "PERSON"
+  },
+  {
+    "text": "Consuming Web API",
+    "label": "PERSON"
+  },
+  {
+    "text": "Created",
+    "label": "ORG"
+  },
+  {
+    "text": "Worked",
+    "label": "GPE"
+  },
+  {
+    "text": "MVC",
+    "label": "ORG"
+  },
+  {
+    "text": "JavaScript",
+    "label": "ORG"
+  },
+  {
+    "text": "JSON",
+    "label": "PERSON"
+  },
+  {
+    "text": "LINQ",
+    "label": "ORG"
+  },
+  {
+    "text": "2015",
+    "label": "DATE"
+  },
+  {
+    "text": "The Tie Bar",
+    "label": "WORK_OF_ART"
+  },
+  {
+    "text": "US",
+    "label": "GPE"
+  },
+  {
+    "text": "one",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "Leave Management System\n\nEnvironment",
+    "label": "ORG"
+  },
+  {
+    "text": "2010",
+    "label": "DATE"
+  },
+  {
+    "text": "C#.Net",
+    "label": "ORG"
+  },
+  {
+    "text": "JavaScript",
+    "label": "ORG"
+  },
+  {
+    "text": "JQuery\n\nDatabase",
+    "label": "PERSON"
+  },
+  {
+    "text": "2008",
+    "label": "DATE"
+  },
+  {
+    "text": "two",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "second",
+    "label": "ORDINAL"
+  },
+  {
+    "text": "CMS",
+    "label": "ORG"
+  },
+  {
+    "text": "2010",
+    "label": "DATE"
+  },
+  {
+    "text": "C#.Net",
+    "label": "ORG"
+  },
+  {
+    "text": "JavaScript",
+    "label": "ORG"
+  },
+  {
+    "text": "JQuery\n\nDatabase",
+    "label": "PERSON"
+  },
+  {
+    "text": "2008",
+    "label": "DATE"
+  },
+  {
+    "text": "Pune",
+    "label": "ORG"
+  },
+  {
+    "text": "two modules",
+    "label": "QUANTITY"
+  },
+  {
+    "text": "Admin",
+    "label": "PERSON"
+  },
+  {
+    "text": "cms",
+    "label": "ORG"
+  },
+  {
+    "text": "Pune",
+    "label": "LOC"
+  },
+  {
+    "text": "2008",
+    "label": "DATE"
+  },
+  {
+    "text": "C#.Net",
+    "label": "ORG"
+  },
+  {
+    "text": "JavaScript",
+    "label": "ORG"
+  },
+  {
+    "text": "JQuery\n\nDatabase",
+    "label": "PERSON"
+  },
+  {
+    "text": "2008",
+    "label": "DATE"
+  },
+  {
+    "text": "cms",
+    "label": "ORG"
+  },
+  {
+    "text": "one",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "2008",
+    "label": "DATE"
+  },
+  {
+    "text": "2010",
+    "label": "DATE"
+  },
+  {
+    "text": "C#.Net",
+    "label": "ORG"
+  },
+  {
+    "text": "JavaScript",
+    "label": "ORG"
+  },
+  {
+    "text": "JQuery",
+    "label": "ORG"
+  },
+  {
+    "text": "2008",
+    "label": "DATE"
+  },
+  {
+    "text": "JOHNSON",
+    "label": "PERSON"
+  },
+  {
+    "text": "Switzerland",
+    "label": "GPE"
+  },
+  {
+    "text": "Norway",
+    "label": "GPE"
+  },
+  {
+    "text": "Sweden",
+    "label": "GPE"
+  },
+  {
+    "text": "Organisational Development, Management and Leadership Support and Development",
+    "label": "ORG"
+  },
+  {
+    "text": "2008",
+    "label": "DATE"
+  },
+  {
+    "text": "3.0",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "C#.Net",
+    "label": "ORG"
+  },
+  {
+    "text": "JavaScript",
+    "label": "ORG"
+  },
+  {
+    "text": "JQuery",
+    "label": "ORG"
+  },
+  {
+    "text": "2008",
+    "label": "DATE"
+  },
+  {
+    "text": "System",
+    "label": "ORG"
+  },
+  {
+    "text": "the Project List, Client List, Notification List",
+    "label": "ORG"
+  }
+]

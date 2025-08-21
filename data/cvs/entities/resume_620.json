@@ -1,0 +1,218 @@
+[
+  {
+    "text": "SQL",
+    "label": "ORG"
+  },
+  {
+    "text": "PL/SQL",
+    "label": "ORG"
+  },
+  {
+    "text": "JAVA",
+    "label": "GPE"
+  },
+  {
+    "text": "JAVAEE",
+    "label": "GPE"
+  },
+  {
+    "text": "Javascript",
+    "label": "PERSON"
+  },
+  {
+    "text": "HTML",
+    "label": "ORG"
+  },
+  {
+    "text": "CSS",
+    "label": "ORG"
+  },
+  {
+    "text": "Hibernate",
+    "label": "PERSON"
+  },
+  {
+    "text": "Software Tools",
+    "label": "PERSON"
+  },
+  {
+    "text": "Xillinx",
+    "label": "PERSON"
+  },
+  {
+    "text": "Modelsim",
+    "label": "PERSON"
+  },
+  {
+    "text": "Matlab",
+    "label": "PERSON"
+  },
+  {
+    "text": "Multisim",
+    "label": "NORP"
+  },
+  {
+    "text": "Operating Systems",
+    "label": "ORG"
+  },
+  {
+    "text": "Vista",
+    "label": "GPE"
+  },
+  {
+    "text": "07",
+    "label": "DATE"
+  },
+  {
+    "text": "08",
+    "label": "DATE"
+  },
+  {
+    "text": "Ubuntu",
+    "label": "GPE"
+  },
+  {
+    "text": "B.E. Project FPGA Implementation of Team Size",
+    "label": "ORG"
+  },
+  {
+    "text": "4",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "AES Algorithm AES",
+    "label": "ORG"
+  },
+  {
+    "text": "Advanced Encryption Standard",
+    "label": "ORG"
+  },
+  {
+    "text": "Secret Key",
+    "label": "PERSON"
+  },
+  {
+    "text": "T.E.",
+    "label": "GPE"
+  },
+  {
+    "text": "Sorting Robot",
+    "label": "ORG"
+  },
+  {
+    "text": "Size",
+    "label": "PERSON"
+  },
+  {
+    "text": "3",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "TCS",
+    "label": "ORG"
+  },
+  {
+    "text": "230",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "RGB",
+    "label": "ORG"
+  },
+  {
+    "text": "4",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "Attendance System",
+    "label": "PERSON"
+  },
+  {
+    "text": "GSM",
+    "label": "ORG"
+  },
+  {
+    "text": "May 2016",
+    "label": "DATE"
+  },
+  {
+    "text": "B.E. Savitribai Phule",
+    "label": "ORG"
+  },
+  {
+    "text": "Maharashtra Pune University",
+    "label": "ORG"
+  },
+  {
+    "text": "March 2010",
+    "label": "DATE"
+  },
+  {
+    "text": "S.S.C",
+    "label": "ORG"
+  },
+  {
+    "text": "Maharashtra Board",
+    "label": "ORG"
+  },
+  {
+    "text": "Exprience",
+    "label": "GPE"
+  },
+  {
+    "text": "6 months",
+    "label": "DATE"
+  },
+  {
+    "text": "Exprience - 6 months",
+    "label": "DATE"
+  },
+  {
+    "text": "Exprience",
+    "label": "GPE"
+  },
+  {
+    "text": "6 months",
+    "label": "DATE"
+  },
+  {
+    "text": "6 months",
+    "label": "DATE"
+  },
+  {
+    "text": "6 months",
+    "label": "DATE"
+  },
+  {
+    "text": "Less than 1 year months",
+    "label": "DATE"
+  },
+  {
+    "text": "Less than 1 year months",
+    "label": "DATE"
+  },
+  {
+    "text": "Less than 1 year months",
+    "label": "DATE"
+  },
+  {
+    "text": "Parkar Consulting",
+    "label": "PERSON"
+  },
+  {
+    "text": "DevOps",
+    "label": "ORG"
+  },
+  {
+    "text": "Parkar Consulting",
+    "label": "PERSON"
+  },
+  {
+    "text": "Labs",
+    "label": "PERSON"
+  },
+  {
+    "text": "AWS",
+    "label": "ORG"
+  }
+]

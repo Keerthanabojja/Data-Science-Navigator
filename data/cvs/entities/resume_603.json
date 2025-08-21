@@ -1,0 +1,902 @@
+[
+  {
+    "text": "Technical Skills Key Skills MS Technology",
+    "label": "ORG"
+  },
+  {
+    "text": "SharePoint",
+    "label": "ORG"
+  },
+  {
+    "text": "MS SQL",
+    "label": "ORG"
+  },
+  {
+    "text": "Oracle PL/SQL Project Management & Execution",
+    "label": "ORG"
+  },
+  {
+    "text": "Cloud Computing",
+    "label": "PERSON"
+  },
+  {
+    "text": "Windows Azure",
+    "label": "ORG"
+  },
+  {
+    "text": "Amazon",
+    "label": "ORG"
+  },
+  {
+    "text": "Cloud XML/XAML/XSLT",
+    "label": "PERSON"
+  },
+  {
+    "text": "HTML5",
+    "label": "PERSON"
+  },
+  {
+    "text": "DHTML",
+    "label": "ORG"
+  },
+  {
+    "text": "CSS3",
+    "label": "PRODUCT"
+  },
+  {
+    "text": "JavaScript",
+    "label": "ORG"
+  },
+  {
+    "text": "OData Service",
+    "label": "ORG"
+  },
+  {
+    "text": "VBScript",
+    "label": "ORG"
+  },
+  {
+    "text": "Node JS",
+    "label": "PERSON"
+  },
+  {
+    "text": "Handling Dynamic QA Activities",
+    "label": "ORG"
+  },
+  {
+    "text": "JAVA",
+    "label": "PERSON"
+  },
+  {
+    "text": "JSP",
+    "label": "ORG"
+  },
+  {
+    "text": "MVC",
+    "label": "ORG"
+  },
+  {
+    "text": "MVP",
+    "label": "ORG"
+  },
+  {
+    "text": "Abstract Factory",
+    "label": "ORG"
+  },
+  {
+    "text": "UML Implementation .NET SAP Connector",
+    "label": "ORG"
+  },
+  {
+    "text": "SAP",
+    "label": "ORG"
+  },
+  {
+    "text": "ASP.NET Client Management SAP Web Channel",
+    "label": "ORG"
+  },
+  {
+    "text": "Team Foundation Server",
+    "label": "ORG"
+  },
+  {
+    "text": "GitHub",
+    "label": "ORG"
+  },
+  {
+    "text": "IBM",
+    "label": "ORG"
+  },
+  {
+    "text": "Team Forge",
+    "label": "PERSON"
+  },
+  {
+    "text": "SharePoint Portal Administration /Development",
+    "label": "ORG"
+  },
+  {
+    "text": "CollabNet",
+    "label": "ORG"
+  },
+  {
+    "text": "JIRA",
+    "label": "NORP"
+  },
+  {
+    "text": "Machine",
+    "label": "ORG"
+  },
+  {
+    "text": "AI",
+    "label": "GPE"
+  },
+  {
+    "text": "Crystal",
+    "label": "PRODUCT"
+  },
+  {
+    "text": "Escalation Management SSRS",
+    "label": "ORG"
+  },
+  {
+    "text": "Tableau",
+    "label": "GPE"
+  },
+  {
+    "text": "Centreon",
+    "label": "PRODUCT"
+  },
+  {
+    "text": "Cisco Meraki",
+    "label": "PERSON"
+  },
+  {
+    "text": "Team Building & Leadership Liaison & Coordination",
+    "label": "ORG"
+  },
+  {
+    "text": "Time Management Thinker Collaborator Planner Information Security",
+    "label": "ORG"
+  },
+  {
+    "text": "Communicator Quality",
+    "label": "ORG"
+  },
+  {
+    "text": "Career Timeline",
+    "label": "ORG"
+  },
+  {
+    "text": "Recent 5",
+    "label": "DATE"
+  },
+  {
+    "text": "ADA",
+    "label": "PRODUCT"
+  },
+  {
+    "text": "Aditya Birla Group",
+    "label": "ORG"
+  },
+  {
+    "text": "Software",
+    "label": "ORG"
+  },
+  {
+    "text": "Project Group",
+    "label": "ORG"
+  },
+  {
+    "text": "Lead/Technical",
+    "label": "ORG"
+  },
+  {
+    "text": "2006-2007",
+    "label": "DATE"
+  },
+  {
+    "text": "2008-2009 2009-2012",
+    "label": "DATE"
+  },
+  {
+    "text": "2012-2013 2013",
+    "label": "DATE"
+  },
+  {
+    "text": "Northbound eClerx Software",
+    "label": "PERSON"
+  },
+  {
+    "text": "Programmer Technical Project",
+    "label": "ORG"
+  },
+  {
+    "text": "January 1998",
+    "label": "DATE"
+  },
+  {
+    "text": "Bachelor of Art Economics Dibrugarh",
+    "label": "ORG"
+  },
+  {
+    "text": "Dibrugarh University",
+    "label": "ORG"
+  },
+  {
+    "text": "Sikkim Manipal University",
+    "label": "ORG"
+  },
+  {
+    "text": "Maharashtra NIIT",
+    "label": "ORG"
+  },
+  {
+    "text": "MICROSOFT",
+    "label": "ORG"
+  },
+  {
+    "text": "Exprience",
+    "label": "GPE"
+  },
+  {
+    "text": "Exprience",
+    "label": "GPE"
+  },
+  {
+    "text": "Exprience",
+    "label": "GPE"
+  },
+  {
+    "text": "92 months",
+    "label": "DATE"
+  },
+  {
+    "text": "Exprience - 79 months",
+    "label": "EVENT"
+  },
+  {
+    "text": "Exprience",
+    "label": "GPE"
+  },
+  {
+    "text": "Aditya Birla Group",
+    "label": "ORG"
+  },
+  {
+    "text": "Cloud",
+    "label": "PERSON"
+  },
+  {
+    "text": "2013",
+    "label": "DATE"
+  },
+  {
+    "text": "Date\n\nWorking",
+    "label": "ORG"
+  },
+  {
+    "text": "Project",
+    "label": "ORG"
+  },
+  {
+    "text": "Team (Internal\n\nDevelopment",
+    "label": "ORG"
+  },
+  {
+    "text": "Vendor",
+    "label": "ORG"
+  },
+  {
+    "text": "QA",
+    "label": "ORG"
+  },
+  {
+    "text": "Cloud",
+    "label": "PERSON"
+  },
+  {
+    "text": "Resource",
+    "label": "ORG"
+  },
+  {
+    "text": "Hardware/Networking",
+    "label": "ORG"
+  },
+  {
+    "text": "monthly",
+    "label": "DATE"
+  },
+  {
+    "text": "KPI",
+    "label": "ORG"
+  },
+  {
+    "text": "the Project Functional, Technical and Business",
+    "label": "ORG"
+  },
+  {
+    "text": "Technology Road",
+    "label": "LOC"
+  },
+  {
+    "text": "IOT",
+    "label": "ORG"
+  },
+  {
+    "text": "Virtual",
+    "label": "PERSON"
+  },
+  {
+    "text": "Machine",
+    "label": "ORG"
+  },
+  {
+    "text": "eClerx Software Service",
+    "label": "ORG"
+  },
+  {
+    "text": "Mumbai",
+    "label": "GPE"
+  },
+  {
+    "text": "eClerx Software Service",
+    "label": "ORG"
+  },
+  {
+    "text": "ASP.NET 4.0",
+    "label": "PERSON"
+  },
+  {
+    "text": "SSRS",
+    "label": "ORG"
+  },
+  {
+    "text": "SQL Server",
+    "label": "ORG"
+  },
+  {
+    "text": "2008",
+    "label": "DATE"
+  },
+  {
+    "text": "Annet Technologies Mumbai",
+    "label": "ORG"
+  },
+  {
+    "text": "2",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "Different Android",
+    "label": "ORG"
+  },
+  {
+    "text": "Mar 2011 - Oct 2012\n\nEnvironment",
+    "label": "PERSON"
+  },
+  {
+    "text": "ASP.NET 4.0",
+    "label": "PERSON"
+  },
+  {
+    "text": "JavaScript",
+    "label": "ORG"
+  },
+  {
+    "text": "HTML 5",
+    "label": "ORG"
+  },
+  {
+    "text": "CSS3",
+    "label": "PRODUCT"
+  },
+  {
+    "text": "Technical/Functional",
+    "label": "ORG"
+  },
+  {
+    "text": "SharePoint Documents Library Environment",
+    "label": "ORG"
+  },
+  {
+    "text": "SharePoint",
+    "label": "ORG"
+  },
+  {
+    "text": "Delivery Award o Design and Delivery Excellence Award",
+    "label": "ORG"
+  },
+  {
+    "text": "Genentech",
+    "label": "ORG"
+  },
+  {
+    "text": "Biogen",
+    "label": "ORG"
+  },
+  {
+    "text": "Astellas Pharma",
+    "label": "PERSON"
+  },
+  {
+    "text": "Polaris",
+    "label": "PERSON"
+  },
+  {
+    "text": "Genentech",
+    "label": "ORG"
+  },
+  {
+    "text": "Biogen",
+    "label": "ORG"
+  },
+  {
+    "text": "Astellas Pharma",
+    "label": "PERSON"
+  },
+  {
+    "text": "Polaris",
+    "label": "PERSON"
+  },
+  {
+    "text": "New York",
+    "label": "GPE"
+  },
+  {
+    "text": "ASP.NET 3.5",
+    "label": "PRODUCT"
+  },
+  {
+    "text": "N-Hibernet",
+    "label": "ORG"
+  },
+  {
+    "text": "WWF",
+    "label": "ORG"
+  },
+  {
+    "text": "JavaScript",
+    "label": "ORG"
+  },
+  {
+    "text": "JQuery",
+    "label": "ORG"
+  },
+  {
+    "text": "2009",
+    "label": "DATE"
+  },
+  {
+    "text": "SQL Server",
+    "label": "ORG"
+  },
+  {
+    "text": "2008",
+    "label": "DATE"
+  },
+  {
+    "text": "R2\n\n\n\n",
+    "label": "PERSON"
+  },
+  {
+    "text": "Northbound LLC Sunnyvale California",
+    "label": "ORG"
+  },
+  {
+    "text": "2008R2",
+    "label": "DATE"
+  },
+  {
+    "text": "Android",
+    "label": "ORG"
+  },
+  {
+    "text": "Ohio",
+    "label": "GPE"
+  },
+  {
+    "text": "3.5",
+    "label": "MONEY"
+  },
+  {
+    "text": "JavaScript",
+    "label": "ORG"
+  },
+  {
+    "text": "NUnit Test",
+    "label": "ORG"
+  },
+  {
+    "text": "Telerik Controls",
+    "label": "PERSON"
+  },
+  {
+    "text": "SQL Server",
+    "label": "ORG"
+  },
+  {
+    "text": "2005",
+    "label": "DATE"
+  },
+  {
+    "text": "MOSS 2007",
+    "label": "ORG"
+  },
+  {
+    "text": "SSIS",
+    "label": "ORG"
+  },
+  {
+    "text": "SSRS",
+    "label": "ORG"
+  },
+  {
+    "text": "Crystal Report",
+    "label": "ORG"
+  },
+  {
+    "text": "N-Hibernet",
+    "label": "ORG"
+  },
+  {
+    "text": "Dreamweaver",
+    "label": "ORG"
+  },
+  {
+    "text": "California",
+    "label": "GPE"
+  },
+  {
+    "text": "ASP.NET 3.5",
+    "label": "PRODUCT"
+  },
+  {
+    "text": "SQL Server 2005",
+    "label": "ORG"
+  },
+  {
+    "text": "Android",
+    "label": "ORG"
+  },
+  {
+    "text": "XSLT",
+    "label": "GPE"
+  },
+  {
+    "text": "JavaScript",
+    "label": "ORG"
+  },
+  {
+    "text": "JQuery",
+    "label": "ORG"
+  },
+  {
+    "text": "SharePoint Design",
+    "label": "ORG"
+  },
+  {
+    "text": "2007",
+    "label": "DATE"
+  },
+  {
+    "text": "Performance Point",
+    "label": "PERSON"
+  },
+  {
+    "text": "SSRS",
+    "label": "ORG"
+  },
+  {
+    "text": "North Carolina USA",
+    "label": "GPE"
+  },
+  {
+    "text": "SQL Server",
+    "label": "ORG"
+  },
+  {
+    "text": "2005",
+    "label": "DATE"
+  },
+  {
+    "text": "Web Parts",
+    "label": "PERSON"
+  },
+  {
+    "text": "JavaScript",
+    "label": "ORG"
+  },
+  {
+    "text": "AJAX",
+    "label": "ORG"
+  },
+  {
+    "text": "Reliance ADA Group",
+    "label": "ORG"
+  },
+  {
+    "text": "Mumbai",
+    "label": "GPE"
+  },
+  {
+    "text": "1",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "Complain Management System",
+    "label": "ORG"
+  },
+  {
+    "text": "2",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "Manufacturing and Human Resource",
+    "label": "ORG"
+  },
+  {
+    "text": "Oracle 8i",
+    "label": "ORG"
+  },
+  {
+    "text": "PL/SQL",
+    "label": "ORG"
+  },
+  {
+    "text": "Crystal Report",
+    "label": "PRODUCT"
+  },
+  {
+    "text": "SAP Connector",
+    "label": "ORG"
+  },
+  {
+    "text": "Reliance ADA Group",
+    "label": "ORG"
+  },
+  {
+    "text": "XML",
+    "label": "ORG"
+  },
+  {
+    "text": "Oracle 9i",
+    "label": "ORG"
+  },
+  {
+    "text": "PL/SQL",
+    "label": "ORG"
+  },
+  {
+    "text": "Crystal Report",
+    "label": "PRODUCT"
+  },
+  {
+    "text": "SQL Server",
+    "label": "ORG"
+  },
+  {
+    "text": "2005",
+    "label": "DATE"
+  },
+  {
+    "text": "MS Office SharePoint Design",
+    "label": "ORG"
+  },
+  {
+    "text": "AJAX",
+    "label": "ORG"
+  },
+  {
+    "text": "Java",
+    "label": "PERSON"
+  },
+  {
+    "text": "Info Dynamic Software System Pvt",
+    "label": "ORG"
+  },
+  {
+    "text": "Info-Banking / E Banking\n\nDomain-",
+    "label": "ORG"
+  },
+  {
+    "text": "Jan 2005 - Aug 2005",
+    "label": "DATE"
+  },
+  {
+    "text": "Oracle 8i",
+    "label": "ORG"
+  },
+  {
+    "text": "PL/SQL",
+    "label": "ORG"
+  },
+  {
+    "text": "Crystal Report",
+    "label": "PRODUCT"
+  },
+  {
+    "text": "Java JSP/Servlet/Swing",
+    "label": "PERSON"
+  },
+  {
+    "text": "PAN Software System Pvt",
+    "label": "ORG"
+  },
+  {
+    "text": "Newcastle",
+    "label": "GPE"
+  },
+  {
+    "text": "UK",
+    "label": "GPE"
+  },
+  {
+    "text": "PAN Software System Pvt.",
+    "label": "ORG"
+  },
+  {
+    "text": "Tokyo Based",
+    "label": "GPE"
+  },
+  {
+    "text": "Japan\n\nEnvironment",
+    "label": "ORG"
+  },
+  {
+    "text": "Java",
+    "label": "PERSON"
+  },
+  {
+    "text": "CSS",
+    "label": "ORG"
+  },
+  {
+    "text": "JavaScript",
+    "label": "ORG"
+  },
+  {
+    "text": "SQL Server 2000",
+    "label": "ORG"
+  },
+  {
+    "text": "Studio Automation System",
+    "label": "ORG"
+  },
+  {
+    "text": "Jan 2004 - May 2004",
+    "label": "DATE"
+  },
+  {
+    "text": "VC++",
+    "label": "PERSON"
+  },
+  {
+    "text": "MS SQL Server",
+    "label": "ORG"
+  },
+  {
+    "text": "MS Data Report",
+    "label": "ORG"
+  },
+  {
+    "text": "Macromedia Flash",
+    "label": "ORG"
+  },
+  {
+    "text": "Fire",
+    "label": "PERSON"
+  },
+  {
+    "text": "Solid State Technologists",
+    "label": "ORG"
+  },
+  {
+    "text": "National Dairy Development Board",
+    "label": "ORG"
+  },
+  {
+    "text": "C++",
+    "label": "PERSON"
+  },
+  {
+    "text": "VB6",
+    "label": "GPE"
+  },
+  {
+    "text": "SQL2000",
+    "label": "ORG"
+  },
+  {
+    "text": "Lotus",
+    "label": "ORG"
+  },
+  {
+    "text": "Notes",
+    "label": "PRODUCT"
+  },
+  {
+    "text": "Crystal Report",
+    "label": "PRODUCT"
+  },
+  {
+    "text": "MS Active Report",
+    "label": "ORG"
+  },
+  {
+    "text": "2.0",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "2003",
+    "label": "DATE"
+  },
+  {
+    "text": "Shell/Bharat Petroleum\n\nEnvironment",
+    "label": "ORG"
+  },
+  {
+    "text": "C++",
+    "label": "PERSON"
+  },
+  {
+    "text": "VC ++",
+    "label": "DATE"
+  },
+  {
+    "text": "MATLAB",
+    "label": "ORG"
+  },
+  {
+    "text": "VB6",
+    "label": "GPE"
+  },
+  {
+    "text": "SQL Server 2000",
+    "label": "ORG"
+  },
+  {
+    "text": "Crystal Report",
+    "label": "PRODUCT"
+  },
+  {
+    "text": "June 2002 - Nov 2002",
+    "label": "DATE"
+  },
+  {
+    "text": "SQL Server 2000",
+    "label": "ORG"
+  },
+  {
+    "text": "Crystal Report",
+    "label": "PRODUCT"
+  },
+  {
+    "text": "SQL Server 2000",
+    "label": "ORG"
+  },
+  {
+    "text": "Crystal Report",
+    "label": "PRODUCT"
+  },
+  {
+    "text": "Customer Care System",
+    "label": "ORG"
+  },
+  {
+    "text": "SQL Server 2000",
+    "label": "ORG"
+  },
+  {
+    "text": "Crystal Report",
+    "label": "PRODUCT"
+  },
+  {
+    "text": "Oracle",
+    "label": "ORG"
+  },
+  {
+    "text": "Active/ Data Report",
+    "label": "ORG"
+  }
+]

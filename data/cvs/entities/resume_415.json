@@ -1,0 +1,322 @@
+[
+  {
+    "text": "Bizagi",
+    "label": "ORG"
+  },
+  {
+    "text": "MS Office",
+    "label": "ORG"
+  },
+  {
+    "text": "Excel",
+    "label": "PRODUCT"
+  },
+  {
+    "text": "MS Power Point",
+    "label": "ORG"
+  },
+  {
+    "text": "UI Methodology",
+    "label": "ORG"
+  },
+  {
+    "text": "Waterfall, Agile (Scrum) Database",
+    "label": "ORG"
+  },
+  {
+    "text": "Thadomal Shahani",
+    "label": "PERSON"
+  },
+  {
+    "text": "Maharashtra Institute of Technology\n\n ",
+    "label": "ORG"
+  },
+  {
+    "text": "Maharashtra New English High School\n\nSenior Business",
+    "label": "ORG"
+  },
+  {
+    "text": "Exprience",
+    "label": "GPE"
+  },
+  {
+    "text": "47 months",
+    "label": "DATE"
+  },
+  {
+    "text": "Exprience - 29 months",
+    "label": "DATE"
+  },
+  {
+    "text": "Exprience",
+    "label": "GPE"
+  },
+  {
+    "text": "Exprience - 25 months",
+    "label": "DATE"
+  },
+  {
+    "text": "Exprience",
+    "label": "GPE"
+  },
+  {
+    "text": "Brown Brothers Harriman & Co",
+    "label": "ORG"
+  },
+  {
+    "text": "Performed Automation Assessment",
+    "label": "ORG"
+  },
+  {
+    "text": "RPA",
+    "label": "GPE"
+  },
+  {
+    "text": "Conducting Assessment",
+    "label": "ORG"
+  },
+  {
+    "text": "AHT",
+    "label": "ORG"
+  },
+  {
+    "text": "SME",
+    "label": "ORG"
+  },
+  {
+    "text": "Implementing a Proof of Concept",
+    "label": "WORK_OF_ART"
+  },
+  {
+    "text": "POC",
+    "label": "ORG"
+  },
+  {
+    "text": "Validate Feasibility",
+    "label": "ORG"
+  },
+  {
+    "text": "POC",
+    "label": "ORG"
+  },
+  {
+    "text": "SME",
+    "label": "ORG"
+  },
+  {
+    "text": "Preparing Business Requirement Document",
+    "label": "ORG"
+  },
+  {
+    "text": "Constructing",
+    "label": "GPE"
+  },
+  {
+    "text": "UAT",
+    "label": "ORG"
+  },
+  {
+    "text": "Walkthroughs",
+    "label": "PRODUCT"
+  },
+  {
+    "text": "Project Manager",
+    "label": "ORG"
+  },
+  {
+    "text": "QA Engineers",
+    "label": "ORG"
+  },
+  {
+    "text": "Interviews & Brainstorming",
+    "label": "ORG"
+  },
+  {
+    "text": "PowerPoint",
+    "label": "ORG"
+  },
+  {
+    "text": "Diagnostic",
+    "label": "NORP"
+  },
+  {
+    "text": "Dashboard",
+    "label": "PERSON"
+  },
+  {
+    "text": "AR Statements",
+    "label": "PERSON"
+  },
+  {
+    "text": "Credit/Rebill",
+    "label": "ORG"
+  },
+  {
+    "text": "Gather",
+    "label": "PERSON"
+  },
+  {
+    "text": "the Business Requirement Document",
+    "label": "ORG"
+  },
+  {
+    "text": "BRD",
+    "label": "ORG"
+  },
+  {
+    "text": "BA",
+    "label": "ORG"
+  },
+  {
+    "text": "Post-Implementation \u00e2\u0080\u00a2",
+    "label": "ORG"
+  },
+  {
+    "text": "the System Integration Test",
+    "label": "ORG"
+  },
+  {
+    "text": "SIT",
+    "label": "ORG"
+  },
+  {
+    "text": "the Production Acceptance Testing",
+    "label": "ORG"
+  },
+  {
+    "text": "PAT",
+    "label": "ORG"
+  },
+  {
+    "text": "M.B.M.S.",
+    "label": "GPE"
+  },
+  {
+    "text": "Inventory",
+    "label": "ORG"
+  },
+  {
+    "text": "MIS",
+    "label": "ORG"
+  },
+  {
+    "text": "monthly",
+    "label": "DATE"
+  },
+  {
+    "text": "MIS System",
+    "label": "ORG"
+  },
+  {
+    "text": "Process Documentation",
+    "label": "ORG"
+  },
+  {
+    "text": "BRD",
+    "label": "ORG"
+  },
+  {
+    "text": "SRS",
+    "label": "ORG"
+  },
+  {
+    "text": "Support UAT",
+    "label": "LOC"
+  },
+  {
+    "text": "UAT",
+    "label": "ORG"
+  },
+  {
+    "text": "Golive",
+    "label": "NORP"
+  },
+  {
+    "text": "PowerPoint",
+    "label": "ORG"
+  },
+  {
+    "text": "UAT",
+    "label": "ORG"
+  },
+  {
+    "text": "Preparing Project Status Report",
+    "label": "ORG"
+  },
+  {
+    "text": "Bugs Status",
+    "label": "PERSON"
+  },
+  {
+    "text": "Promoting",
+    "label": "PERSON"
+  },
+  {
+    "text": "Master Data Management",
+    "label": "ORG"
+  },
+  {
+    "text": "January 2014 - August 2014",
+    "label": "DATE"
+  },
+  {
+    "text": "one",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "BRD",
+    "label": "ORG"
+  },
+  {
+    "text": "SRS",
+    "label": "ORG"
+  },
+  {
+    "text": "Preparation of Test Completion",
+    "label": "ORG"
+  },
+  {
+    "text": "description - Humana",
+    "label": "ORG"
+  },
+  {
+    "text": "U.S.",
+    "label": "GPE"
+  },
+  {
+    "text": "Ensuring Test Coverage",
+    "label": "ORG"
+  },
+  {
+    "text": "Preparation of Test Completion",
+    "label": "ORG"
+  },
+  {
+    "text": "three",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "daily",
+    "label": "DATE"
+  },
+  {
+    "text": "weekly",
+    "label": "DATE"
+  },
+  {
+    "text": "Android",
+    "label": "ORG"
+  },
+  {
+    "text": "IOS",
+    "label": "ORG"
+  },
+  {
+    "text": "Functional, Integration, System",
+    "label": "ORG"
+  },
+  {
+    "text": "UAT",
+    "label": "ORG"
+  }
+]

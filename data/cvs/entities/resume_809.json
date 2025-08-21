@@ -1,0 +1,78 @@
+[
+  {
+    "text": "SQL",
+    "label": "ORG"
+  },
+  {
+    "text": "Ab",
+    "label": "PERSON"
+  },
+  {
+    "text": "June 2014 to June 2015",
+    "label": "DATE"
+  },
+  {
+    "text": "Bachelor's Electronics",
+    "label": "ORG"
+  },
+  {
+    "text": "Telecommunication  A C Patil college",
+    "label": "ORG"
+  },
+  {
+    "text": "January 2009 to January 2011",
+    "label": "DATE"
+  },
+  {
+    "text": "Mumbai",
+    "label": "GPE"
+  },
+  {
+    "text": "Maharashtra Bharati",
+    "label": "ORG"
+  },
+  {
+    "text": "January 2008",
+    "label": "DATE"
+  },
+  {
+    "text": "H.S.C.",
+    "label": "GPE"
+  },
+  {
+    "text": "Mumbai",
+    "label": "GPE"
+  },
+  {
+    "text": "Maharashtra Khalsa",
+    "label": "ORG"
+  },
+  {
+    "text": "Less than 1 year months",
+    "label": "DATE"
+  },
+  {
+    "text": "Less than 1 year months",
+    "label": "DATE"
+  },
+  {
+    "text": "ETL Developer",
+    "label": "ORG"
+  },
+  {
+    "text": "India",
+    "label": "GPE"
+  },
+  {
+    "text": "the past 3years",
+    "label": "DATE"
+  },
+  {
+    "text": "Informatica",
+    "label": "GPE"
+  },
+  {
+    "text": "SQL",
+    "label": "ORG"
+  }
+]

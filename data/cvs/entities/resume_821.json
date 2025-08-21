@@ -1,0 +1,410 @@
+[
+  {
+    "text": "TechnicalProficiencies",
+    "label": "ORG"
+  },
+  {
+    "text": "Oracle 11",
+    "label": "LAW"
+  },
+  {
+    "text": "Informatica",
+    "label": "PERSON"
+  },
+  {
+    "text": "9.1",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "Unix Professional Development Trainings",
+    "label": "ORG"
+  },
+  {
+    "text": "Data Warehousing, Business Intelligence",
+    "label": "ORG"
+  },
+  {
+    "text": "ETL",
+    "label": "ORG"
+  },
+  {
+    "text": "BI Tools -Informatica",
+    "label": "PERSON"
+  },
+  {
+    "text": "9X",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "BCA",
+    "label": "ORG"
+  },
+  {
+    "text": "Nanded",
+    "label": "GPE"
+  },
+  {
+    "text": "Maharashtra Nanded University",
+    "label": "ORG"
+  },
+  {
+    "text": "ETL Developer - Sun Trust Bank",
+    "label": "PERSON"
+  },
+  {
+    "text": "Exprience - 39 months",
+    "label": "DATE"
+  },
+  {
+    "text": "39 months",
+    "label": "DATE"
+  },
+  {
+    "text": "Exprience",
+    "label": "GPE"
+  },
+  {
+    "text": "39 months",
+    "label": "DATE"
+  },
+  {
+    "text": "39 months",
+    "label": "DATE"
+  },
+  {
+    "text": "Exprience",
+    "label": "GPE"
+  },
+  {
+    "text": "39",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "Sun Trust Bank",
+    "label": "ORG"
+  },
+  {
+    "text": "Sun Trust Bank",
+    "label": "ORG"
+  },
+  {
+    "text": "NY JAN 2018",
+    "label": "ORG"
+  },
+  {
+    "text": "Sun Trust Bank NY\n\nEnvironment",
+    "label": "ORG"
+  },
+  {
+    "text": "Informatica Power Center",
+    "label": "ORG"
+  },
+  {
+    "text": "9.1",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "Oracle 11",
+    "label": "LAW"
+  },
+  {
+    "text": "Sun Trust Bank",
+    "label": "ORG"
+  },
+  {
+    "text": "US",
+    "label": "GPE"
+  },
+  {
+    "text": "NY",
+    "label": "GPE"
+  },
+  {
+    "text": "Bank",
+    "label": "ORG"
+  },
+  {
+    "text": "New York",
+    "label": "GPE"
+  },
+  {
+    "text": "four",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "Financial",
+    "label": "ORG"
+  },
+  {
+    "text": "first",
+    "label": "ORDINAL"
+  },
+  {
+    "text": "DR",
+    "label": "GPE"
+  },
+  {
+    "text": "Listed",
+    "label": "ORG"
+  },
+  {
+    "text": "Loans",
+    "label": "PERSON"
+  },
+  {
+    "text": "Notes",
+    "label": "PRODUCT"
+  },
+  {
+    "text": "Equities, Rates, Commodities",
+    "label": "ORG"
+  },
+  {
+    "text": "FX",
+    "label": "ORG"
+  },
+  {
+    "text": "Project Manager",
+    "label": "ORG"
+  },
+  {
+    "text": "Business Analysts, Product Architects",
+    "label": "ORG"
+  },
+  {
+    "text": "Requirements Modelers",
+    "label": "PERSON"
+  },
+  {
+    "text": "CFOC",
+    "label": "PERSON"
+  },
+  {
+    "text": "11g",
+    "label": "DATE"
+  },
+  {
+    "text": "UNIX",
+    "label": "ORG"
+  },
+  {
+    "text": "Database",
+    "label": "GPE"
+  },
+  {
+    "text": "Created",
+    "label": "ORG"
+  },
+  {
+    "text": "Informatica",
+    "label": "GPE"
+  },
+  {
+    "text": "Data",
+    "label": "ORG"
+  },
+  {
+    "text": "Flat Files",
+    "label": "PERSON"
+  },
+  {
+    "text": "Oracle",
+    "label": "PERSON"
+  },
+  {
+    "text": "Production",
+    "label": "ORG"
+  },
+  {
+    "text": "one",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "One",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "daily",
+    "label": "DATE"
+  },
+  {
+    "text": "2016",
+    "label": "DATE"
+  },
+  {
+    "text": "DEC",
+    "label": "ORG"
+  },
+  {
+    "text": "2017",
+    "label": "DATE"
+  },
+  {
+    "text": "Marshall Multimedia\n\nEnvironment:",
+    "label": "ORG"
+  },
+  {
+    "text": "Informatica Power Center",
+    "label": "ORG"
+  },
+  {
+    "text": "9.1",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "Oracle 11",
+    "label": "LAW"
+  },
+  {
+    "text": "Marshall Multimedia",
+    "label": "PERSON"
+  },
+  {
+    "text": "US",
+    "label": "GPE"
+  },
+  {
+    "text": "New York",
+    "label": "GPE"
+  },
+  {
+    "text": "EGC",
+    "label": "ORG"
+  },
+  {
+    "text": "Customer Management",
+    "label": "ORG"
+  },
+  {
+    "text": "Consumer& Enterprise Customers",
+    "label": "ORG"
+  },
+  {
+    "text": "Cognos",
+    "label": "PRODUCT"
+  },
+  {
+    "text": "ETL",
+    "label": "ORG"
+  },
+  {
+    "text": "Relational",
+    "label": "ORG"
+  },
+  {
+    "text": "monthly",
+    "label": "DATE"
+  },
+  {
+    "text": "Informatica",
+    "label": "ORG"
+  },
+  {
+    "text": "Created",
+    "label": "ORG"
+  },
+  {
+    "text": "Informatica",
+    "label": "GPE"
+  },
+  {
+    "text": "Data Mart",
+    "label": "ORG"
+  },
+  {
+    "text": "Flat Files",
+    "label": "PERSON"
+  },
+  {
+    "text": "Oracle",
+    "label": "PERSON"
+  },
+  {
+    "text": "2",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "Production",
+    "label": "ORG"
+  },
+  {
+    "text": "Informatica Power Center",
+    "label": "ORG"
+  },
+  {
+    "text": "9.1",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "Oracle 11",
+    "label": "LAW"
+  },
+  {
+    "text": "four",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "Assurant",
+    "label": "ORG"
+  },
+  {
+    "text": "Assurant Health",
+    "label": "ORG"
+  },
+  {
+    "text": "State Datamart",
+    "label": "ORG"
+  },
+  {
+    "text": "ETL\n\nDesign & development",
+    "label": "ORG"
+  },
+  {
+    "text": "Daily",
+    "label": "DATE"
+  },
+  {
+    "text": "Informatica",
+    "label": "ORG"
+  },
+  {
+    "text": "SQL",
+    "label": "ORG"
+  },
+  {
+    "text": "Strong Problem Analysis & Resolution",
+    "label": "ORG"
+  },
+  {
+    "text": "Multi Platform Environments",
+    "label": "FAC"
+  },
+  {
+    "text": "Informatica",
+    "label": "ORG"
+  },
+  {
+    "text": "Informatica",
+    "label": "ORG"
+  },
+  {
+    "text": "ETL",
+    "label": "ORG"
+  },
+  {
+    "text": "Informatica",
+    "label": "ORG"
+  },
+  {
+    "text": "Quality Center for Unit Testing",
+    "label": "ORG"
+  },
+  {
+    "text": "UTR",
+    "label": "ORG"
+  },
+  {
+    "text": "SLA",
+    "label": "ORG"
+  }
+]

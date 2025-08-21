@@ -1,0 +1,414 @@
+[
+  {
+    "text": "PROFILE",
+    "label": "ORG"
+  },
+  {
+    "text": "Around 10 plus years'",
+    "label": "DATE"
+  },
+  {
+    "text": "PMO",
+    "label": "ORG"
+  },
+  {
+    "text": "ITIL Management \u00e2\u0080\u00a2 Process Improvements",
+    "label": "ORG"
+  },
+  {
+    "text": "Effort/Issue/Risk Tracking \u00e2\u0080\u00a2 Risk & Issue Management \u00e2\u0080\u00a2 SLA Management \u00e2\u0080\u00a2 Workforce",
+    "label": "ORG"
+  },
+  {
+    "text": "Resource Management",
+    "label": "ORG"
+  },
+  {
+    "text": "Transition \u00e2\u0080\u00a2 Operations",
+    "label": "ORG"
+  },
+  {
+    "text": "SKILLS Project Management Tools",
+    "label": "ORG"
+  },
+  {
+    "text": "CA Clarity",
+    "label": "ORG"
+  },
+  {
+    "text": "Visio and Office",
+    "label": "ORG"
+  },
+  {
+    "text": "ITIL -Incident management",
+    "label": "ORG"
+  },
+  {
+    "text": "Recruitment",
+    "label": "ORG"
+  },
+  {
+    "text": "Microsoft Office",
+    "label": "ORG"
+  },
+  {
+    "text": "PowerPoint",
+    "label": "ORG"
+  },
+  {
+    "text": "MS Excel (Knowledge on MS Project, Sharepoint Reporting & Ticket Tool: Xtraction",
+    "label": "ORG"
+  },
+  {
+    "text": "Education Details",
+    "label": "ORG"
+  },
+  {
+    "text": "Karnataka RKIMS College",
+    "label": "ORG"
+  },
+  {
+    "text": "Exprience",
+    "label": "GPE"
+  },
+  {
+    "text": "125 months",
+    "label": "DATE"
+  },
+  {
+    "text": "Exprience",
+    "label": "GPE"
+  },
+  {
+    "text": "79 months",
+    "label": "DATE"
+  },
+  {
+    "text": "Exprience",
+    "label": "GPE"
+  },
+  {
+    "text": "Structured",
+    "label": "ORG"
+  },
+  {
+    "text": "Deliery",
+    "label": "PERSON"
+  },
+  {
+    "text": "SLA",
+    "label": "ORG"
+  },
+  {
+    "text": "Project",
+    "label": "ORG"
+  },
+  {
+    "text": "Maintaining Clarity",
+    "label": "ORG"
+  },
+  {
+    "text": "CEM",
+    "label": "ORG"
+  },
+  {
+    "text": "SLA",
+    "label": "ORG"
+  },
+  {
+    "text": "KPI",
+    "label": "ORG"
+  },
+  {
+    "text": "Client &",
+    "label": "ORG"
+  },
+  {
+    "text": "Managed Services",
+    "label": "ORG"
+  },
+  {
+    "text": "T&M",
+    "label": "ORG"
+  },
+  {
+    "text": "SLA",
+    "label": "ORG"
+  },
+  {
+    "text": "Risk and Penalty",
+    "label": "ORG"
+  },
+  {
+    "text": "SLA",
+    "label": "ORG"
+  },
+  {
+    "text": "Drive SLA",
+    "label": "PERSON"
+  },
+  {
+    "text": "80",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "Billing",
+    "label": "GPE"
+  },
+  {
+    "text": "Resource Utilization",
+    "label": "ORG"
+  },
+  {
+    "text": "Develop Flow",
+    "label": "PERSON"
+  },
+  {
+    "text": "Prepare Monthly",
+    "label": "PERSON"
+  },
+  {
+    "text": "SLA",
+    "label": "ORG"
+  },
+  {
+    "text": "Quarterly",
+    "label": "DATE"
+  },
+  {
+    "text": "Internal report Allowances",
+    "label": "ORG"
+  },
+  {
+    "text": "Maintain risk & issue",
+    "label": "ORG"
+  },
+  {
+    "text": "Budget, Revenue& Milestone Progress",
+    "label": "ORG"
+  },
+  {
+    "text": "Wipro Technology",
+    "label": "ORG"
+  },
+  {
+    "text": "Structured",
+    "label": "ORG"
+  },
+  {
+    "text": "Deliery",
+    "label": "PERSON"
+  },
+  {
+    "text": "SLA",
+    "label": "ORG"
+  },
+  {
+    "text": "Project",
+    "label": "ORG"
+  },
+  {
+    "text": "Maintaining Clarity",
+    "label": "ORG"
+  },
+  {
+    "text": "CEM",
+    "label": "ORG"
+  },
+  {
+    "text": "SLA",
+    "label": "ORG"
+  },
+  {
+    "text": "KPI",
+    "label": "ORG"
+  },
+  {
+    "text": "Client &",
+    "label": "ORG"
+  },
+  {
+    "text": "Managed Services",
+    "label": "ORG"
+  },
+  {
+    "text": "T&M",
+    "label": "ORG"
+  },
+  {
+    "text": "SLA",
+    "label": "ORG"
+  },
+  {
+    "text": "Risk and Penalty",
+    "label": "ORG"
+  },
+  {
+    "text": "SLA",
+    "label": "ORG"
+  },
+  {
+    "text": "Drive SLA",
+    "label": "PERSON"
+  },
+  {
+    "text": "80",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "Billing",
+    "label": "GPE"
+  },
+  {
+    "text": "Resource Utilization",
+    "label": "ORG"
+  },
+  {
+    "text": "Develop Flow",
+    "label": "PERSON"
+  },
+  {
+    "text": "Prepare Monthly",
+    "label": "PERSON"
+  },
+  {
+    "text": "SLA",
+    "label": "ORG"
+  },
+  {
+    "text": "Quarterly",
+    "label": "DATE"
+  },
+  {
+    "text": "Internal report Allowances",
+    "label": "ORG"
+  },
+  {
+    "text": "Maintain risk & issue",
+    "label": "ORG"
+  },
+  {
+    "text": "Budget, Revenue& Milestone Progress",
+    "label": "ORG"
+  },
+  {
+    "text": "InfoTech",
+    "label": "ORG"
+  },
+  {
+    "text": "Maintain",
+    "label": "ORG"
+  },
+  {
+    "text": "SAP",
+    "label": "ORG"
+  },
+  {
+    "text": "GM",
+    "label": "ORG"
+  },
+  {
+    "text": "Hiring",
+    "label": "GPE"
+  },
+  {
+    "text": "Analyze",
+    "label": "LOC"
+  },
+  {
+    "text": "Validate",
+    "label": "ORG"
+  },
+  {
+    "text": "WFM",
+    "label": "ORG"
+  },
+  {
+    "text": "NLD",
+    "label": "ORG"
+  },
+  {
+    "text": "Identify",
+    "label": "ORG"
+  },
+  {
+    "text": "TRB",
+    "label": "ORG"
+  },
+  {
+    "text": "TE",
+    "label": "ORG"
+  },
+  {
+    "text": "SIMS",
+    "label": "ORG"
+  },
+  {
+    "text": "Interface with Service Delivery Managers/Director",
+    "label": "ORG"
+  },
+  {
+    "text": "Operations",
+    "label": "ORG"
+  },
+  {
+    "text": "Workforce Management",
+    "label": "ORG"
+  },
+  {
+    "text": "Prepare",
+    "label": "ORG"
+  },
+  {
+    "text": "daily",
+    "label": "DATE"
+  },
+  {
+    "text": "weekly",
+    "label": "DATE"
+  },
+  {
+    "text": "monthly",
+    "label": "DATE"
+  },
+  {
+    "text": "Project",
+    "label": "ORG"
+  },
+  {
+    "text": "PWD",
+    "label": "ORG"
+  },
+  {
+    "text": "Rookie",
+    "label": "PERSON"
+  },
+  {
+    "text": "Training",
+    "label": "PERSON"
+  },
+  {
+    "text": "21/03/1986",
+    "label": "DATE"
+  },
+  {
+    "text": "PAN",
+    "label": "ORG"
+  },
+  {
+    "text": "English",
+    "label": "LANGUAGE"
+  },
+  {
+    "text": "Kannada",
+    "label": "PERSON"
+  },
+  {
+    "text": "Konkani\n\nLocation",
+    "label": "ORG"
+  },
+  {
+    "text": "India",
+    "label": "GPE"
+  }
+]

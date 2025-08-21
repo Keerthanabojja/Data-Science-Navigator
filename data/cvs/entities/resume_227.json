@@ -1,0 +1,90 @@
+[
+  {
+    "text": "MS-Office 2",
+    "label": "ORG"
+  },
+  {
+    "text": "Convincing Power 3",
+    "label": "ORG"
+  },
+  {
+    "text": "4",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "5",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "6",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "STRENGTHS 1",
+    "label": "ORG"
+  },
+  {
+    "text": "2",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "3",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "Education",
+    "label": "ORG"
+  },
+  {
+    "text": "Skill Details",
+    "label": "PERSON"
+  },
+  {
+    "text": "6 months",
+    "label": "DATE"
+  },
+  {
+    "text": "Exprience - 36 months",
+    "label": "DATE"
+  },
+  {
+    "text": "6 months",
+    "label": "DATE"
+  },
+  {
+    "text": "Exprience - 36 months",
+    "label": "DATE"
+  },
+  {
+    "text": "Exprience - 36",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "1 YEAR",
+    "label": "DATE"
+  },
+  {
+    "text": "K G N SHOPE",
+    "label": "ORG"
+  },
+  {
+    "text": "6",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "11",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "Square Capital AS A Sales",
+    "label": "ORG"
+  },
+  {
+    "text": "5 MONTH",
+    "label": "PERSON"
+  },
+  {
+    "text": "Bajaj Housing Finance Ltd AS",
+    "label": "ORG"
+  }
+]

@@ -1,0 +1,146 @@
+[
+  {
+    "text": "English",
+    "label": "LANGUAGE"
+  },
+  {
+    "text": "Learning Skills",
+    "label": "PERSON"
+  },
+  {
+    "text": "Problem Solving Skills",
+    "label": "PERSON"
+  },
+  {
+    "text": "July 2012 to April 2015",
+    "label": "DATE"
+  },
+  {
+    "text": "Mumbai",
+    "label": "GPE"
+  },
+  {
+    "text": "Maharashtra Akbar Peerbhoy College of Comm & Eco",
+    "label": "ORG"
+  },
+  {
+    "text": "University of Mumbai",
+    "label": "ORG"
+  },
+  {
+    "text": "June 2008",
+    "label": "DATE"
+  },
+  {
+    "text": "April 2010",
+    "label": "DATE"
+  },
+  {
+    "text": "Jaunpur",
+    "label": "GPE"
+  },
+  {
+    "text": "Uttar Pradesh Janta Inter College",
+    "label": "ORG"
+  },
+  {
+    "text": "May 2006 to April 2008",
+    "label": "DATE"
+  },
+  {
+    "text": "Jaunpur",
+    "label": "GPE"
+  },
+  {
+    "text": "Uttar Pradesh Inter College",
+    "label": "ORG"
+  },
+  {
+    "text": "Exprience",
+    "label": "GPE"
+  },
+  {
+    "text": "24",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "Karvy Innotech LTD",
+    "label": "ORG"
+  },
+  {
+    "text": "Mahindra & Mahindra Financial",
+    "label": "ORG"
+  },
+  {
+    "text": "PAN India",
+    "label": "ORG"
+  },
+  {
+    "text": "Tuning",
+    "label": "PERSON"
+  },
+  {
+    "text": "Routers",
+    "label": "PRODUCT"
+  },
+  {
+    "text": "Switches",
+    "label": "PERSON"
+  },
+  {
+    "text": "UTM",
+    "label": "ORG"
+  },
+  {
+    "text": "Content Filtering",
+    "label": "ORG"
+  },
+  {
+    "text": "Handling",
+    "label": "PERSON"
+  },
+  {
+    "text": "daily",
+    "label": "DATE"
+  },
+  {
+    "text": "TATA",
+    "label": "ORG"
+  },
+  {
+    "text": "Airtel",
+    "label": "ORG"
+  },
+  {
+    "text": "Reliance",
+    "label": "ORG"
+  },
+  {
+    "text": "Vodafone",
+    "label": "ORG"
+  },
+  {
+    "text": "WAN",
+    "label": "ORG"
+  },
+  {
+    "text": "IPSEC",
+    "label": "ORG"
+  },
+  {
+    "text": "HO",
+    "label": "ORG"
+  },
+  {
+    "text": "Remote Branches",
+    "label": "ORG"
+  },
+  {
+    "text": "monthly",
+    "label": "DATE"
+  },
+  {
+    "text": "LAN Connectivity",
+    "label": "ORG"
+  }
+]

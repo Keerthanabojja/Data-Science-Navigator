@@ -1,0 +1,482 @@
+[
+  {
+    "text": "Bahra Institute of Engineering and",
+    "label": "ORG"
+  },
+  {
+    "text": "Biotechnology\n\nData Science \n\n\n\nData Science\n\nSkill Details",
+    "label": "ORG"
+  },
+  {
+    "text": "Less than 1 year months",
+    "label": "DATE"
+  },
+  {
+    "text": "Less than 1 year months",
+    "label": "DATE"
+  },
+  {
+    "text": "Exprience - Less",
+    "label": "ORG"
+  },
+  {
+    "text": "Less than 1 year months",
+    "label": "DATE"
+  },
+  {
+    "text": "Network- Exprience - Less",
+    "label": "PERSON"
+  },
+  {
+    "text": "09876971076",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "Machine",
+    "label": "ORG"
+  },
+  {
+    "text": "2 years",
+    "label": "DATE"
+  },
+  {
+    "text": "Wipro Technologies in Machine\n\nLearning",
+    "label": "ORG"
+  },
+  {
+    "text": "Software Development",
+    "label": "ORG"
+  },
+  {
+    "text": "Machine Learning",
+    "label": "PERSON"
+  },
+  {
+    "text": "Deep Learning",
+    "label": "PERSON"
+  },
+  {
+    "text": "Science",
+    "label": "ORG"
+  },
+  {
+    "text": "NLP",
+    "label": "ORG"
+  },
+  {
+    "text": "GCP",
+    "label": "ORG"
+  },
+  {
+    "text": "Numpy",
+    "label": "NORP"
+  },
+  {
+    "text": "Pandas",
+    "label": "PERSON"
+  },
+  {
+    "text": "Seaborn",
+    "label": "NORP"
+  },
+  {
+    "text": "Matplotlib",
+    "label": "PERSON"
+  },
+  {
+    "text": "Machine",
+    "label": "ORG"
+  },
+  {
+    "text": "KNN",
+    "label": "ORG"
+  },
+  {
+    "text": "Decision Tree",
+    "label": "ORG"
+  },
+  {
+    "text": "Bias",
+    "label": "PERSON"
+  },
+  {
+    "text": "Programming",
+    "label": "ORG"
+  },
+  {
+    "text": "Oracle",
+    "label": "PERSON"
+  },
+  {
+    "text": "Google Cloud",
+    "label": "PRODUCT"
+  },
+  {
+    "text": "Linux",
+    "label": "PERSON"
+  },
+  {
+    "text": "Ubuntu",
+    "label": "GPE"
+  },
+  {
+    "text": "Windows",
+    "label": "LOC"
+  },
+  {
+    "text": "Problem",
+    "label": "ORG"
+  },
+  {
+    "text": "Numpy",
+    "label": "GPE"
+  },
+  {
+    "text": "Pandas",
+    "label": "PERSON"
+  },
+  {
+    "text": "Matplotlib",
+    "label": "PERSON"
+  },
+  {
+    "text": "KNN",
+    "label": "ORG"
+  },
+  {
+    "text": "Decision Tree",
+    "label": "ORG"
+  },
+  {
+    "text": "Linear",
+    "label": "ORG"
+  },
+  {
+    "text": "Logistic Regression",
+    "label": "ORG"
+  },
+  {
+    "text": "Neural Networks",
+    "label": "ORG"
+  },
+  {
+    "text": "Oracle\n\nOperating Systems Linux",
+    "label": "ORG"
+  },
+  {
+    "text": "Window\n\nDevelopment Environments",
+    "label": "ORG"
+  },
+  {
+    "text": "Notebooks",
+    "label": "ORG"
+  },
+  {
+    "text": "Remedy\n\nEducation\n\nUG Education",
+    "label": "ORG"
+  },
+  {
+    "text": "Rayat and",
+    "label": "ORG"
+  },
+  {
+    "text": "Bahra Institute of Engineering and Biotechnology",
+    "label": "ORG"
+  },
+  {
+    "text": "78.4%in",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "XII",
+    "label": "ORG"
+  },
+  {
+    "text": "2012",
+    "label": "DATE"
+  },
+  {
+    "text": "Moti Ram Arya Sr",
+    "label": "PERSON"
+  },
+  {
+    "text": "78.4%",
+    "label": "PERCENT"
+  },
+  {
+    "text": "2010",
+    "label": "DATE"
+  },
+  {
+    "text": "Valley Public School",
+    "label": "ORG"
+  },
+  {
+    "text": "9.4",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "5",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "NLP",
+    "label": "ORG"
+  },
+  {
+    "text": "three",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "Deep Machine Learning",
+    "label": "ORG"
+  },
+  {
+    "text": "NLP",
+    "label": "ORG"
+  },
+  {
+    "text": "NLP",
+    "label": "ORG"
+  },
+  {
+    "text": "Regex, Bluemix NLU",
+    "label": "WORK_OF_ART"
+  },
+  {
+    "text": "SKLearn",
+    "label": "ORG"
+  },
+  {
+    "text": "MNB",
+    "label": "ORG"
+  },
+  {
+    "text": "SVM",
+    "label": "ORG"
+  },
+  {
+    "text": "SGD",
+    "label": "ORG"
+  },
+  {
+    "text": "Classifier",
+    "label": "ORG"
+  },
+  {
+    "text": "SGD",
+    "label": "ORG"
+  },
+  {
+    "text": "NER",
+    "label": "ORG"
+  },
+  {
+    "text": "Roles",
+    "label": "PERSON"
+  },
+  {
+    "text": "Keras TensorFlow",
+    "label": "ORG"
+  },
+  {
+    "text": "Diabetes",
+    "label": "PERSON"
+  },
+  {
+    "text": "third",
+    "label": "ORDINAL"
+  },
+  {
+    "text": "CERTIFICATIONS",
+    "label": "ORG"
+  },
+  {
+    "text": "Machine Learning",
+    "label": "PERSON"
+  },
+  {
+    "text": "Coursera",
+    "label": "PERSON"
+  },
+  {
+    "text": "Deep Learning",
+    "label": "PERSON"
+  },
+  {
+    "text": "Father\u00e2\u0080\u0099s",
+    "label": "ORG"
+  },
+  {
+    "text": "Tirlok Aggarwal",
+    "label": "PERSON"
+  },
+  {
+    "text": "English & Hindi",
+    "label": "ORG"
+  },
+  {
+    "text": "Python",
+    "label": "GPE"
+  },
+  {
+    "text": "5",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "NLP",
+    "label": "ORG"
+  },
+  {
+    "text": "three",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "Deep Machine Learning",
+    "label": "ORG"
+  },
+  {
+    "text": "NLP",
+    "label": "ORG"
+  },
+  {
+    "text": "NLP",
+    "label": "ORG"
+  },
+  {
+    "text": "Regex, Bluemix NLU",
+    "label": "WORK_OF_ART"
+  },
+  {
+    "text": "SKLearn",
+    "label": "ORG"
+  },
+  {
+    "text": "MNB",
+    "label": "ORG"
+  },
+  {
+    "text": "SVM",
+    "label": "ORG"
+  },
+  {
+    "text": "SGD",
+    "label": "ORG"
+  },
+  {
+    "text": "Classifier",
+    "label": "ORG"
+  },
+  {
+    "text": "SGD",
+    "label": "ORG"
+  },
+  {
+    "text": "NER",
+    "label": "ORG"
+  },
+  {
+    "text": "Roles",
+    "label": "PERSON"
+  },
+  {
+    "text": "Keras TensorFlow",
+    "label": "ORG"
+  },
+  {
+    "text": "Wipro Technologies",
+    "label": "ORG"
+  },
+  {
+    "text": "2 years",
+    "label": "DATE"
+  },
+  {
+    "text": "Wipro Technologies in Machine\n\nLearning",
+    "label": "ORG"
+  },
+  {
+    "text": "Software Development",
+    "label": "ORG"
+  },
+  {
+    "text": "Machine Learning",
+    "label": "PERSON"
+  },
+  {
+    "text": "Deep Learning",
+    "label": "PERSON"
+  },
+  {
+    "text": "Science",
+    "label": "ORG"
+  },
+  {
+    "text": "NLP",
+    "label": "ORG"
+  },
+  {
+    "text": "GCP",
+    "label": "ORG"
+  },
+  {
+    "text": "Numpy",
+    "label": "NORP"
+  },
+  {
+    "text": "Pandas",
+    "label": "PERSON"
+  },
+  {
+    "text": "Seaborn",
+    "label": "NORP"
+  },
+  {
+    "text": "Matplotlib",
+    "label": "PERSON"
+  },
+  {
+    "text": "Machine",
+    "label": "ORG"
+  },
+  {
+    "text": "KNN",
+    "label": "ORG"
+  },
+  {
+    "text": "Decision Tree",
+    "label": "ORG"
+  },
+  {
+    "text": "Bias",
+    "label": "PERSON"
+  },
+  {
+    "text": "Programming",
+    "label": "ORG"
+  },
+  {
+    "text": "Oracle",
+    "label": "PERSON"
+  },
+  {
+    "text": "Google Cloud",
+    "label": "PRODUCT"
+  },
+  {
+    "text": "Linux",
+    "label": "PERSON"
+  },
+  {
+    "text": "Ubuntu",
+    "label": "GPE"
+  },
+  {
+    "text": "Windows",
+    "label": "LOC"
+  },
+  {
+    "text": "Problem",
+    "label": "ORG"
+  }
+]

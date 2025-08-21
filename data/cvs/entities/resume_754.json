@@ -1,0 +1,422 @@
+[
+  {
+    "text": "Programming Languages Apache Hadoop",
+    "label": "ORG"
+  },
+  {
+    "text": "SQL Technologies Hive",
+    "label": "ORG"
+  },
+  {
+    "text": "Sqoop",
+    "label": "ORG"
+  },
+  {
+    "text": "Flume, Oozie",
+    "label": "WORK_OF_ART"
+  },
+  {
+    "text": "Impala",
+    "label": "GPE"
+  },
+  {
+    "text": "Tools Dataiku",
+    "label": "PERSON"
+  },
+  {
+    "text": "Unravel",
+    "label": "GPE"
+  },
+  {
+    "text": "Cloudera",
+    "label": "GPE"
+  },
+  {
+    "text": "Cloudera",
+    "label": "PERSON"
+  },
+  {
+    "text": "Resource",
+    "label": "ORG"
+  },
+  {
+    "text": "Initial Learning Program",
+    "label": "ORG"
+  },
+  {
+    "text": "Tata Consultancy Services",
+    "label": "ORG"
+  },
+  {
+    "text": "June 2015 to August 2015",
+    "label": "DATE"
+  },
+  {
+    "text": "TCS",
+    "label": "ORG"
+  },
+  {
+    "text": "Education Details",
+    "label": "ORG"
+  },
+  {
+    "text": "B.E. Electronics & Communication Indore",
+    "label": "ORG"
+  },
+  {
+    "text": "Madhya Pradesh Medi",
+    "label": "ORG"
+  },
+  {
+    "text": "Institute of Technology & Management",
+    "label": "ORG"
+  },
+  {
+    "text": "scala",
+    "label": "GPE"
+  },
+  {
+    "text": "Exprience",
+    "label": "GPE"
+  },
+  {
+    "text": "31 months",
+    "label": "DATE"
+  },
+  {
+    "text": "Exprience - 31 months",
+    "label": "DATE"
+  },
+  {
+    "text": "Exprience",
+    "label": "GPE"
+  },
+  {
+    "text": "31 months",
+    "label": "DATE"
+  },
+  {
+    "text": "Exprience",
+    "label": "GPE"
+  },
+  {
+    "text": "31 months",
+    "label": "DATE"
+  },
+  {
+    "text": "Exprience",
+    "label": "GPE"
+  },
+  {
+    "text": "31 months",
+    "label": "DATE"
+  },
+  {
+    "text": "Exprience - Less",
+    "label": "ORG"
+  },
+  {
+    "text": "Exprience - Less",
+    "label": "ORG"
+  },
+  {
+    "text": "Exprience - Less",
+    "label": "ORG"
+  },
+  {
+    "text": "Exprience - Less",
+    "label": "ORG"
+  },
+  {
+    "text": "Exprience - Less",
+    "label": "ORG"
+  },
+  {
+    "text": "Exprience - Less",
+    "label": "ORG"
+  },
+  {
+    "text": "Exprience - Less",
+    "label": "ORG"
+  },
+  {
+    "text": "Exprience - Less",
+    "label": "ORG"
+  },
+  {
+    "text": "Data Lake",
+    "label": "LOC"
+  },
+  {
+    "text": "Hadoop",
+    "label": "ORG"
+  },
+  {
+    "text": "Hadoop",
+    "label": "ORG"
+  },
+  {
+    "text": "Hadoop",
+    "label": "ORG"
+  },
+  {
+    "text": "the day and day",
+    "label": "DATE"
+  },
+  {
+    "text": "1",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "Health Check",
+    "label": "ORG"
+  },
+  {
+    "text": "Data Lake",
+    "label": "LOC"
+  },
+  {
+    "text": "Hadoop",
+    "label": "ORG"
+  },
+  {
+    "text": "HTML",
+    "label": "ORG"
+  },
+  {
+    "text": "daily Health Checks",
+    "label": "ORG"
+  },
+  {
+    "text": "2",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "Hadoop",
+    "label": "ORG"
+  },
+  {
+    "text": "3",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "Hive",
+    "label": "NORP"
+  },
+  {
+    "text": "Sqoop",
+    "label": "ORG"
+  },
+  {
+    "text": "4",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "5",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "Hadoop",
+    "label": "ORG"
+  },
+  {
+    "text": "6",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "Hadoop",
+    "label": "ORG"
+  },
+  {
+    "text": "7",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "the Hive Queries",
+    "label": "ORG"
+  },
+  {
+    "text": "8",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "Impala",
+    "label": "GPE"
+  },
+  {
+    "text": "HDFS",
+    "label": "ORG"
+  },
+  {
+    "text": "9",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "Serde",
+    "label": "PERSON"
+  },
+  {
+    "text": "10",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "Greenplum",
+    "label": "PERSON"
+  },
+  {
+    "text": "11",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "Greenplum",
+    "label": "PERSON"
+  },
+  {
+    "text": "Hadoop",
+    "label": "ORG"
+  },
+  {
+    "text": "Sqoop",
+    "label": "ORG"
+  },
+  {
+    "text": "Hadoop",
+    "label": "ORG"
+  },
+  {
+    "text": "12",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "Hadoop",
+    "label": "ORG"
+  },
+  {
+    "text": "WM Hadoop",
+    "label": "ORG"
+  },
+  {
+    "text": "13",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "TWS",
+    "label": "ORG"
+  },
+  {
+    "text": "1",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "Barclays 2.",
+    "label": "ORG"
+  },
+  {
+    "text": "California",
+    "label": "GPE"
+  },
+  {
+    "text": "3",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "Morgan Stanley (MS",
+    "label": "ORG"
+  },
+  {
+    "text": "COE",
+    "label": "ORG"
+  },
+  {
+    "text": "Hive",
+    "label": "PERSON"
+  },
+  {
+    "text": "Client",
+    "label": "GPE"
+  },
+  {
+    "text": "Hadoop",
+    "label": "ORG"
+  },
+  {
+    "text": "1",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "SQL",
+    "label": "ORG"
+  },
+  {
+    "text": "2",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "Hive",
+    "label": "ORG"
+  },
+  {
+    "text": "3",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "4",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "Hadoop",
+    "label": "ORG"
+  },
+  {
+    "text": "5",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "Hadoop",
+    "label": "ORG"
+  },
+  {
+    "text": "8.1",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "9.1",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "Intellimatch",
+    "label": "NORP"
+  },
+  {
+    "text": "1",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "Recs 2",
+    "label": "LAW"
+  },
+  {
+    "text": "8.1",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "9.1",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "Intellimatch",
+    "label": "GPE"
+  },
+  {
+    "text": "3",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "Project Name",
+    "label": "ORG"
+  },
+  {
+    "text": "PSO",
+    "label": "ORG"
+  }
+]

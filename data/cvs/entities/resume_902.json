@@ -1,0 +1,170 @@
+[
+  {
+    "text": "MS",
+    "label": "GPE"
+  },
+  {
+    "text": "Loyalty & Creativity",
+    "label": "ORG"
+  },
+  {
+    "text": "Responsible & Initiative",
+    "label": "ORG"
+  },
+  {
+    "text": "Maharashtra Guru Gobind",
+    "label": "ORG"
+  },
+  {
+    "text": "S. M. E. S. Polytechnic College",
+    "label": "PERSON"
+  },
+  {
+    "text": "6 months",
+    "label": "DATE"
+  },
+  {
+    "text": "Exprience",
+    "label": "GPE"
+  },
+  {
+    "text": "Circuit Breaker",
+    "label": "PERSON"
+  },
+  {
+    "text": "Circuit Breaker",
+    "label": "ORG"
+  },
+  {
+    "text": "1",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "2",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "3",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "IR",
+    "label": "ORG"
+  },
+  {
+    "text": "4",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "5",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "MCC & PCC",
+    "label": "ORG"
+  },
+  {
+    "text": "1",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "Insulation Resistance",
+    "label": "ORG"
+  },
+  {
+    "text": "IR",
+    "label": "ORG"
+  },
+  {
+    "text": "2",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "Contact Resistance",
+    "label": "ORG"
+  },
+  {
+    "text": "3",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "mcc & pcc",
+    "label": "ORG"
+  },
+  {
+    "text": "1",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "2",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "Transformer Ratio",
+    "label": "PERSON"
+  },
+  {
+    "text": "3",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "Transformer Vector Group",
+    "label": "ORG"
+  },
+  {
+    "text": "4",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "Magnetic Balance",
+    "label": "ORG"
+  },
+  {
+    "text": "5",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "6",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "HV",
+    "label": "ORG"
+  },
+  {
+    "text": "1",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "2",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "IR",
+    "label": "ORG"
+  },
+  {
+    "text": "IR Test",
+    "label": "ORG"
+  },
+  {
+    "text": "Adi Shankaracharya Marg",
+    "label": "PERSON"
+  },
+  {
+    "text": "Opp",
+    "label": "GPE"
+  },
+  {
+    "text": "IIT",
+    "label": "ORG"
+  },
+  {
+    "text": "Main Gate",
+    "label": "PERSON"
+  },
+  {
+    "text": "400076",
+    "label": "DATE"
+  }
+]

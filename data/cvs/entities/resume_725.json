@@ -1,0 +1,142 @@
+[
+  {
+    "text": "January 2016",
+    "label": "DATE"
+  },
+  {
+    "text": "Mumbai",
+    "label": "GPE"
+  },
+  {
+    "text": "Maharashtra Mumbai University",
+    "label": "ORG"
+  },
+  {
+    "text": "January 2013",
+    "label": "DATE"
+  },
+  {
+    "text": "Maharashtra Board",
+    "label": "ORG"
+  },
+  {
+    "text": "January 2011 S.S.C.",
+    "label": "DATE"
+  },
+  {
+    "text": "Maharashtra Board",
+    "label": "ORG"
+  },
+  {
+    "text": "2+ Years",
+    "label": "DATE"
+  },
+  {
+    "text": "Skill Details",
+    "label": "PERSON"
+  },
+  {
+    "text": "DBA",
+    "label": "ORG"
+  },
+  {
+    "text": "Centos , Backup , Restore , Replication ,",
+    "label": "ORG"
+  },
+  {
+    "text": "Query",
+    "label": "GPE"
+  },
+  {
+    "text": "24",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "5.5",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "5.6",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "Linux",
+    "label": "PERSON"
+  },
+  {
+    "text": "Windows\n\n",
+    "label": "NORP"
+  },
+  {
+    "text": "Maintaining\u00c2\u00a0Database Maintenance Plans",
+    "label": "ORG"
+  },
+  {
+    "text": "Create Jobs for Backup & Restore Plans",
+    "label": "ORG"
+  },
+  {
+    "text": "MYISAM",
+    "label": "ORG"
+  },
+  {
+    "text": "Handling Release",
+    "label": "ORG"
+  },
+  {
+    "text": "daily",
+    "label": "DATE"
+  },
+  {
+    "text": "weekly",
+    "label": "DATE"
+  },
+  {
+    "text": "monthly",
+    "label": "DATE"
+  },
+  {
+    "text": "5.5",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "5.6",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "Linux",
+    "label": "PERSON"
+  },
+  {
+    "text": "Windows\n\n",
+    "label": "NORP"
+  },
+  {
+    "text": "Maintaining\u00c2\u00a0Database Maintenance Plans",
+    "label": "ORG"
+  },
+  {
+    "text": "Create Jobs for Backup & Restore Plans",
+    "label": "ORG"
+  },
+  {
+    "text": "MYISAM",
+    "label": "ORG"
+  },
+  {
+    "text": "Handling Release",
+    "label": "ORG"
+  },
+  {
+    "text": "daily",
+    "label": "DATE"
+  },
+  {
+    "text": "weekly",
+    "label": "DATE"
+  },
+  {
+    "text": "monthly",
+    "label": "DATE"
+  }
+]

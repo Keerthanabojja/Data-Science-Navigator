@@ -1,0 +1,50 @@
+[
+  {
+    "text": "August 2018 to January 2021",
+    "label": "DATE"
+  },
+  {
+    "text": "Maharashtra Sunbeam academy",
+    "label": "ORG"
+  },
+  {
+    "text": "Martial",
+    "label": "PERSON"
+  },
+  {
+    "text": "Skill Details \n\nCompany Details",
+    "label": "ORG"
+  },
+  {
+    "text": "2nd",
+    "label": "ORDINAL"
+  },
+  {
+    "text": "3",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "7",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "3",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "the year",
+    "label": "DATE"
+  },
+  {
+    "text": "Selected",
+    "label": "ORG"
+  },
+  {
+    "text": "Croatia",
+    "label": "GPE"
+  },
+  {
+    "text": "Europe",
+    "label": "LOC"
+  }
+]

@@ -1,0 +1,674 @@
+[
+  {
+    "text": "BCA",
+    "label": "ORG"
+  },
+  {
+    "text": "Vinayaka Missions University\n\nOperations",
+    "label": "ORG"
+  },
+  {
+    "text": "Less than 1 year",
+    "label": "DATE"
+  },
+  {
+    "text": "BNY Mellon International Operations",
+    "label": "ORG"
+  },
+  {
+    "text": "BNY Mellon International Operations",
+    "label": "ORG"
+  },
+  {
+    "text": "Sept 2009-",
+    "label": "DATE"
+  },
+  {
+    "text": "BNY Mellon",
+    "label": "ORG"
+  },
+  {
+    "text": "Investment Management, Investment Services",
+    "label": "ORG"
+  },
+  {
+    "text": "Treasury Services",
+    "label": "ORG"
+  },
+  {
+    "text": "Revenue &Billing Services",
+    "label": "ORG"
+  },
+  {
+    "text": "Billing Services",
+    "label": "ORG"
+  },
+  {
+    "text": "a Global Center of Excellence",
+    "label": "ORG"
+  },
+  {
+    "text": "Investment Services",
+    "label": "ORG"
+  },
+  {
+    "text": "218",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "five",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "Brooklyn",
+    "label": "GPE"
+  },
+  {
+    "text": "Pittsburgh",
+    "label": "GPE"
+  },
+  {
+    "text": "Syracuse",
+    "label": "GPE"
+  },
+  {
+    "text": "Pune",
+    "label": "ORG"
+  },
+  {
+    "text": "UK",
+    "label": "GPE"
+  },
+  {
+    "text": "Various Businesses",
+    "label": "PERSON"
+  },
+  {
+    "text": "Asset Servicing",
+    "label": "ORG"
+  },
+  {
+    "text": "Corporate Trust",
+    "label": "ORG"
+  },
+  {
+    "text": "Treasury Services",
+    "label": "ORG"
+  },
+  {
+    "text": "Broker Dealer Services",
+    "label": "ORG"
+  },
+  {
+    "text": "Global Collateral Management",
+    "label": "ORG"
+  },
+  {
+    "text": "U.S.",
+    "label": "GPE"
+  },
+  {
+    "text": "EMEA",
+    "label": "ORG"
+  },
+  {
+    "text": "APAC",
+    "label": "ORG"
+  },
+  {
+    "text": "Mellon International Operations",
+    "label": "ORG"
+  },
+  {
+    "text": "daily",
+    "label": "DATE"
+  },
+  {
+    "text": "the Billing Department",
+    "label": "ORG"
+  },
+  {
+    "text": "Account",
+    "label": "ORG"
+  },
+  {
+    "text": "Invoice Production",
+    "label": "ORG"
+  },
+  {
+    "text": "Billing",
+    "label": "ORG"
+  },
+  {
+    "text": "Advantage (Fiserv",
+    "label": "ORG"
+  },
+  {
+    "text": "Operations / Service Delivery Management",
+    "label": "ORG"
+  },
+  {
+    "text": "Monitor Client KYC's",
+    "label": "ORG"
+  },
+  {
+    "text": "Compliance",
+    "label": "PRODUCT"
+  },
+  {
+    "text": "Manage",
+    "label": "ORG"
+  },
+  {
+    "text": "US",
+    "label": "GPE"
+  },
+  {
+    "text": "Billing",
+    "label": "GPE"
+  },
+  {
+    "text": "Assist",
+    "label": "NORP"
+  },
+  {
+    "text": "weekly",
+    "label": "DATE"
+  },
+  {
+    "text": "monthly",
+    "label": "DATE"
+  },
+  {
+    "text": "Participate",
+    "label": "WORK_OF_ART"
+  },
+  {
+    "text": "first",
+    "label": "ORDINAL"
+  },
+  {
+    "text": "Line of Defense as Operations",
+    "label": "WORK_OF_ART"
+  },
+  {
+    "text": "Operational Risk Events (",
+    "label": "WORK_OF_ART"
+  },
+  {
+    "text": "ORE",
+    "label": "ORG"
+  },
+  {
+    "text": "Green- SLA/TAT",
+    "label": "LAW"
+  },
+  {
+    "text": "Monitor",
+    "label": "PERSON"
+  },
+  {
+    "text": "monthly",
+    "label": "DATE"
+  },
+  {
+    "text": "MIS",
+    "label": "ORG"
+  },
+  {
+    "text": "Oversee the Employee Assistance Program",
+    "label": "ORG"
+  },
+  {
+    "text": "semiannual",
+    "label": "DATE"
+  },
+  {
+    "text": "annual",
+    "label": "DATE"
+  },
+  {
+    "text": "Established Training and",
+    "label": "PERSON"
+  },
+  {
+    "text": "three months to two",
+    "label": "DATE"
+  },
+  {
+    "text": "Brainshark",
+    "label": "PERSON"
+  },
+  {
+    "text": "PLAN",
+    "label": "ORG"
+  },
+  {
+    "text": "WIN &PLAY",
+    "label": "ORG"
+  },
+  {
+    "text": "Initiate quarterly Risk",
+    "label": "ORG"
+  },
+  {
+    "text": "Project Management/Transitions Management",
+    "label": "ORG"
+  },
+  {
+    "text": "BNY Mellon PMO",
+    "label": "ORG"
+  },
+  {
+    "text": "the Transitions of Billing Operations",
+    "label": "LAW"
+  },
+  {
+    "text": "the Senior Operations Directors",
+    "label": "ORG"
+  },
+  {
+    "text": "Conceptualized",
+    "label": "ORG"
+  },
+  {
+    "text": "Project and Program metrics",
+    "label": "ORG"
+  },
+  {
+    "text": "Direct Management",
+    "label": "ORG"
+  },
+  {
+    "text": "11",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "8",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "the Information Technology Architecture",
+    "label": "ORG"
+  },
+  {
+    "text": "Toll",
+    "label": "ORG"
+  },
+  {
+    "text": "Operations",
+    "label": "ORG"
+  },
+  {
+    "text": "Talent Management",
+    "label": "ORG"
+  },
+  {
+    "text": "Performed",
+    "label": "ORG"
+  },
+  {
+    "text": "Training and Development",
+    "label": "ORG"
+  },
+  {
+    "text": "Training Programs",
+    "label": "ORG"
+  },
+  {
+    "text": "Developed",
+    "label": "PERSON"
+  },
+  {
+    "text": "Function",
+    "label": "ORG"
+  },
+  {
+    "text": "Previous Job Profiles",
+    "label": "ORG"
+  },
+  {
+    "text": "BNY MELLON",
+    "label": "ORG"
+  },
+  {
+    "text": "Global Corporate Trust Billing",
+    "label": "ORG"
+  },
+  {
+    "text": "Alternate Investment Services",
+    "label": "ORG"
+  },
+  {
+    "text": "AIS",
+    "label": "ORG"
+  },
+  {
+    "text": "Broker Dealer Services",
+    "label": "ORG"
+  },
+  {
+    "text": "BDS",
+    "label": "ORG"
+  },
+  {
+    "text": "Trustee",
+    "label": "ORG"
+  },
+  {
+    "text": "Admin Services",
+    "label": "ORG"
+  },
+  {
+    "text": "Registrar",
+    "label": "ORG"
+  },
+  {
+    "text": "BNY Mellon",
+    "label": "PERSON"
+  },
+  {
+    "text": "the Corporate Trust Clients",
+    "label": "ORG"
+  },
+  {
+    "text": "Invoiced",
+    "label": "PERSON"
+  },
+  {
+    "text": "Mailboxes",
+    "label": "PERSON"
+  },
+  {
+    "text": "Shared Drive",
+    "label": "FAC"
+  },
+  {
+    "text": "Quality Check of the Transactions",
+    "label": "ORG"
+  },
+  {
+    "text": "Onshore",
+    "label": "GPE"
+  },
+  {
+    "text": "the same day",
+    "label": "DATE"
+  },
+  {
+    "text": "monthly",
+    "label": "DATE"
+  },
+  {
+    "text": "one",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "Managing Performance",
+    "label": "PERSON"
+  },
+  {
+    "text": "Participate",
+    "label": "ORG"
+  },
+  {
+    "text": "Internal and External",
+    "label": "ORG"
+  },
+  {
+    "text": "Risk and Control",
+    "label": "ORG"
+  },
+  {
+    "text": "Wipro Technologies",
+    "label": "ORG"
+  },
+  {
+    "text": "Microsoft",
+    "label": "ORG"
+  },
+  {
+    "text": "Wipro Ltd.",
+    "label": "ORG"
+  },
+  {
+    "text": "Indian Information Technology",
+    "label": "ORG"
+  },
+  {
+    "text": "Application Support Engineer Tier II''",
+    "label": "WORK_OF_ART"
+  },
+  {
+    "text": "Provided Technical",
+    "label": "ORG"
+  },
+  {
+    "text": "Siebel CRM",
+    "label": "PRODUCT"
+  },
+  {
+    "text": "Microsoft Corp.",
+    "label": "ORG"
+  },
+  {
+    "text": "Communicated",
+    "label": "ORG"
+  },
+  {
+    "text": "Identified",
+    "label": "NORP"
+  },
+  {
+    "text": "Siebel CRM",
+    "label": "PRODUCT"
+  },
+  {
+    "text": "95%",
+    "label": "PERCENT"
+  },
+  {
+    "text": "Coordinated",
+    "label": "ORG"
+  },
+  {
+    "text": "Perform periodic Application",
+    "label": "ORG"
+  },
+  {
+    "text": "SQL Server Replication",
+    "label": "ORG"
+  },
+  {
+    "text": "Perform Role",
+    "label": "PERSON"
+  },
+  {
+    "text": "Maintained",
+    "label": "GPE"
+  },
+  {
+    "text": "ETA",
+    "label": "ORG"
+  },
+  {
+    "text": "85%",
+    "label": "PERCENT"
+  },
+  {
+    "text": "month",
+    "label": "DATE"
+  },
+  {
+    "text": "month",
+    "label": "DATE"
+  },
+  {
+    "text": "24-48 hour",
+    "label": "TIME"
+  },
+  {
+    "text": "Knowledge",
+    "label": "LOC"
+  },
+  {
+    "text": "Engineers",
+    "label": "ORG"
+  },
+  {
+    "text": "Dell Global Financial Services",
+    "label": "ORG"
+  },
+  {
+    "text": "Dell  Computer  Corporation",
+    "label": "ORG"
+  },
+  {
+    "text": "29th' 2005",
+    "label": "DATE"
+  },
+  {
+    "text": "DELL Inc.",
+    "label": "ORG"
+  },
+  {
+    "text": "Dell",
+    "label": "PERSON"
+  },
+  {
+    "text": "85",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "Dell",
+    "label": "PERSON"
+  },
+  {
+    "text": "DELL Inc.",
+    "label": "ORG"
+  },
+  {
+    "text": "about 500",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "U.S",
+    "label": "GPE"
+  },
+  {
+    "text": "8",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "Handling Escalations",
+    "label": "PERSON"
+  },
+  {
+    "text": "Emails",
+    "label": "NORP"
+  },
+  {
+    "text": "Identify",
+    "label": "ORG"
+  },
+  {
+    "text": "Discussing Interim",
+    "label": "PERSON"
+  },
+  {
+    "text": "Research",
+    "label": "ORG"
+  },
+  {
+    "text": "daily",
+    "label": "DATE"
+  },
+  {
+    "text": "Release Orders",
+    "label": "ORG"
+  },
+  {
+    "text": "Credit Task Codes",
+    "label": "ORG"
+  },
+  {
+    "text": "Intervening &",
+    "label": "ORG"
+  },
+  {
+    "text": "Supporting Departments",
+    "label": "ORG"
+  },
+  {
+    "text": "Mentor New",
+    "label": "ORG"
+  },
+  {
+    "text": "weekly",
+    "label": "DATE"
+  },
+  {
+    "text": "monthly",
+    "label": "DATE"
+  },
+  {
+    "text": "Management",
+    "label": "ORG"
+  },
+  {
+    "text": "COE",
+    "label": "ORG"
+  },
+  {
+    "text": "GE CAPITAL INTERNATIONAL SERVICES",
+    "label": "ORG"
+  },
+  {
+    "text": "GE Capital",
+    "label": "ORG"
+  },
+  {
+    "text": "American",
+    "label": "NORP"
+  },
+  {
+    "text": "General Electric",
+    "label": "ORG"
+  },
+  {
+    "text": "GE",
+    "label": "ORG"
+  },
+  {
+    "text": "Institutional",
+    "label": "ORG"
+  },
+  {
+    "text": "Developed One Point Lessons",
+    "label": "ORG"
+  },
+  {
+    "text": "Maintained",
+    "label": "GPE"
+  },
+  {
+    "text": "95%+",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "the year",
+    "label": "DATE"
+  },
+  {
+    "text": "daily",
+    "label": "DATE"
+  },
+  {
+    "text": "COE",
+    "label": "ORG"
+  },
+  {
+    "text": "first",
+    "label": "ORDINAL"
+  }
+]

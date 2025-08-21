@@ -1,0 +1,214 @@
+[
+  {
+    "text": "Keen",
+    "label": "PERSON"
+  },
+  {
+    "text": "MBA Marketing and International Business Management Pune",
+    "label": "ORG"
+  },
+  {
+    "text": "Maharashtra Pune University",
+    "label": "ORG"
+  },
+  {
+    "text": "B-Tech Tech Nagpur",
+    "label": "ORG"
+  },
+  {
+    "text": "Maharashtra RTM Nagpur University",
+    "label": "ORG"
+  },
+  {
+    "text": "Commerce & Science",
+    "label": "ORG"
+  },
+  {
+    "text": "G.M. Arts",
+    "label": "ORG"
+  },
+  {
+    "text": "Commerce & Science\n\nSkill Details \n\nCompany Details",
+    "label": "ORG"
+  },
+  {
+    "text": "30",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "7",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "5",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "VJ College of Pharmacy         10 days'",
+    "label": "ORG"
+  },
+  {
+    "text": "10",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "G.M. Arts",
+    "label": "ORG"
+  },
+  {
+    "text": "Commerce & Science",
+    "label": "ORG"
+  },
+  {
+    "text": "6",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "6 days'",
+    "label": "DATE"
+  },
+  {
+    "text": "6",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "Personality             G.M. Institute of Agricultural 7\t\t",
+    "label": "ORG"
+  },
+  {
+    "text": "6 days'",
+    "label": "DATE"
+  },
+  {
+    "text": "6",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "8",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "Skills           Samarth College of Polytechnic     ",
+    "label": "ORG"
+  },
+  {
+    "text": "20 days'",
+    "label": "DATE"
+  },
+  {
+    "text": "20",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "350",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "days",
+    "label": "DATE"
+  },
+  {
+    "text": "8",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "Workshop             Ltd",
+    "label": "ORG"
+  },
+  {
+    "text": "Ranjangaon",
+    "label": "GPE"
+  },
+  {
+    "text": "Automation Pvt Ltd.",
+    "label": "ORG"
+  },
+  {
+    "text": "2 days",
+    "label": "DATE"
+  },
+  {
+    "text": "16",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "Chakan",
+    "label": "GPE"
+  },
+  {
+    "text": "3",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "3 days",
+    "label": "DATE"
+  },
+  {
+    "text": "21",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "& Stress",
+    "label": "ORG"
+  },
+  {
+    "text": "Sharvari Products Pvt Ltd",
+    "label": "ORG"
+  },
+  {
+    "text": "2 days",
+    "label": "DATE"
+  },
+  {
+    "text": "16",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "Junner",
+    "label": "NORP"
+  },
+  {
+    "text": "Pune 7 days'",
+    "label": "DATE"
+  },
+  {
+    "text": "Workshop        168",
+    "label": "PRODUCT"
+  },
+  {
+    "text": "Narayangaon",
+    "label": "GPE"
+  },
+  {
+    "text": "Pune",
+    "label": "ORG"
+  },
+  {
+    "text": "8",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "229",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "Windows",
+    "label": "ORG"
+  },
+  {
+    "text": "MS Office",
+    "label": "ORG"
+  },
+  {
+    "text": "English",
+    "label": "LANGUAGE"
+  },
+  {
+    "text": "Hindi & Marathi",
+    "label": "ORG"
+  },
+  {
+    "text": "teachers day",
+    "label": "DATE"
+  }
+]

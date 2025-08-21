@@ -1,0 +1,74 @@
+[
+  {
+    "text": "January 2016",
+    "label": "DATE"
+  },
+  {
+    "text": "B.Sc.",
+    "label": "ORG"
+  },
+  {
+    "text": "Information Technology Mumbai",
+    "label": "ORG"
+  },
+  {
+    "text": "Maharashtra University of Mumbai",
+    "label": "ORG"
+  },
+  {
+    "text": "January 2012",
+    "label": "DATE"
+  },
+  {
+    "text": "Allahabad",
+    "label": "GPE"
+  },
+  {
+    "text": "Uttar Pradesh Allahabad",
+    "label": "ORG"
+  },
+  {
+    "text": "January 2010",
+    "label": "DATE"
+  },
+  {
+    "text": "Uttar Pradesh Allahabad",
+    "label": "ORG"
+  },
+  {
+    "text": "Developer Trainer",
+    "label": "PERSON"
+  },
+  {
+    "text": "Developer\n\nSkill Details",
+    "label": "ORG"
+  },
+  {
+    "text": "Exprience - 12 months",
+    "label": "DATE"
+  },
+  {
+    "text": "Exprience",
+    "label": "GPE"
+  },
+  {
+    "text": "India",
+    "label": "GPE"
+  },
+  {
+    "text": "Watching Movie",
+    "label": "PERSON"
+  },
+  {
+    "text": "Center Academy",
+    "label": "ORG"
+  },
+  {
+    "text": "Salary Contract",
+    "label": "ORG"
+  },
+  {
+    "text": "Aptech Charni Road",
+    "label": "LAW"
+  }
+]

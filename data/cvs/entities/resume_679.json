@@ -1,0 +1,706 @@
+[
+  {
+    "text": "Ubuntu Network Technologies",
+    "label": "ORG"
+  },
+  {
+    "text": "RIPng",
+    "label": "GPE"
+  },
+  {
+    "text": "OSPF",
+    "label": "ORG"
+  },
+  {
+    "text": "EIGRP",
+    "label": "ORG"
+  },
+  {
+    "text": "Static Routing",
+    "label": "ORG"
+  },
+  {
+    "text": "ACL",
+    "label": "ORG"
+  },
+  {
+    "text": "VTP",
+    "label": "ORG"
+  },
+  {
+    "text": "VLAN",
+    "label": "ORG"
+  },
+  {
+    "text": "EhterChannel",
+    "label": "ORG"
+  },
+  {
+    "text": "HSRP",
+    "label": "ORG"
+  },
+  {
+    "text": "STP",
+    "label": "ORG"
+  },
+  {
+    "text": "IPv6",
+    "label": "ORG"
+  },
+  {
+    "text": "Lan Troubleshooting",
+    "label": "ORG"
+  },
+  {
+    "text": "Cisco Firewall",
+    "label": "ORG"
+  },
+  {
+    "text": "Fortinet Firewall",
+    "label": "ORG"
+  },
+  {
+    "text": "6",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "1800s",
+    "label": "DATE"
+  },
+  {
+    "text": "1900s",
+    "label": "DATE"
+  },
+  {
+    "text": "2600s",
+    "label": "DATE"
+  },
+  {
+    "text": "2900s",
+    "label": "DATE"
+  },
+  {
+    "text": "3600s",
+    "label": "DATE"
+  },
+  {
+    "text": "3800s",
+    "label": "DATE"
+  },
+  {
+    "text": "7200s",
+    "label": "DATE"
+  },
+  {
+    "text": "Cisco",
+    "label": "GPE"
+  },
+  {
+    "text": "2900s, 3700s,",
+    "label": "DATE"
+  },
+  {
+    "text": "4850s",
+    "label": "DATE"
+  },
+  {
+    "text": "HP ProLiant Servers",
+    "label": "ORG"
+  },
+  {
+    "text": "Dell Server",
+    "label": "PERSON"
+  },
+  {
+    "text": "Lenovo Servers",
+    "label": "ORG"
+  },
+  {
+    "text": "Fortinet Firewall",
+    "label": "ORG"
+  },
+  {
+    "text": "Modem",
+    "label": "ORG"
+  },
+  {
+    "text": "RODC",
+    "label": "ORG"
+  },
+  {
+    "text": "FTP",
+    "label": "ORG"
+  },
+  {
+    "text": "Print Server",
+    "label": "PERSON"
+  },
+  {
+    "text": "WDS",
+    "label": "ORG"
+  },
+  {
+    "text": "DHCP",
+    "label": "ORG"
+  },
+  {
+    "text": "Group Policies",
+    "label": "ORG"
+  },
+  {
+    "text": "DNS Server",
+    "label": "PERSON"
+  },
+  {
+    "text": "RIS Server",
+    "label": "ORG"
+  },
+  {
+    "text": "Backup Technologies",
+    "label": "ORG"
+  },
+  {
+    "text": "2016",
+    "label": "DATE"
+  },
+  {
+    "text": "Symantec Backup",
+    "label": "PERSON"
+  },
+  {
+    "text": "12D",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "VMware Workstation",
+    "label": "ORG"
+  },
+  {
+    "text": "Oracle VirtualBox",
+    "label": "ORG"
+  },
+  {
+    "text": "MSC",
+    "label": "ORG"
+  },
+  {
+    "text": "AISECT university",
+    "label": "ORG"
+  },
+  {
+    "text": "Jiwaji University",
+    "label": "ORG"
+  },
+  {
+    "text": "Network Engineer - Cloudatix Network Pvt.",
+    "label": "ORG"
+  },
+  {
+    "text": "Exprience - 43 months",
+    "label": "DATE"
+  },
+  {
+    "text": "Exprience",
+    "label": "GPE"
+  },
+  {
+    "text": "Exprience - 43 months",
+    "label": "DATE"
+  },
+  {
+    "text": "Exprience",
+    "label": "GPE"
+  },
+  {
+    "text": "43 months",
+    "label": "DATE"
+  },
+  {
+    "text": "LAN-",
+    "label": "ORG"
+  },
+  {
+    "text": "Exprience",
+    "label": "GPE"
+  },
+  {
+    "text": "18",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "Project Routers",
+    "label": "PERSON"
+  },
+  {
+    "text": "Switches",
+    "label": "PERSON"
+  },
+  {
+    "text": "Server Configuration",
+    "label": "ORG"
+  },
+  {
+    "text": "Group Policies\n\nClient Railwire/Railtel Corporation of India Ltd.",
+    "label": "ORG"
+  },
+  {
+    "text": "Mumbai",
+    "label": "GPE"
+  },
+  {
+    "text": "WiFi AP",
+    "label": "PERSON"
+  },
+  {
+    "text": "Maharashtra State",
+    "label": "GPE"
+  },
+  {
+    "text": "WiFi",
+    "label": "PERSON"
+  },
+  {
+    "text": "Implementing",
+    "label": "PERSON"
+  },
+  {
+    "text": "Cisco",
+    "label": "GPE"
+  },
+  {
+    "text": "Installation, Configuration and Administration of Windows Servers 2008",
+    "label": "ORG"
+  },
+  {
+    "text": "2012",
+    "label": "DATE"
+  },
+  {
+    "text": "R2,",
+    "label": "EVENT"
+  },
+  {
+    "text": "FTP",
+    "label": "ORG"
+  },
+  {
+    "text": "DNS",
+    "label": "ORG"
+  },
+  {
+    "text": "DHCP",
+    "label": "ORG"
+  },
+  {
+    "text": "TFTP",
+    "label": "ORG"
+  },
+  {
+    "text": "Troubleshooting LAN & WAN",
+    "label": "ORG"
+  },
+  {
+    "text": "Cisco Router",
+    "label": "ORG"
+  },
+  {
+    "text": "Regular Health Checking of File Servers & Application Servers",
+    "label": "ORG"
+  },
+  {
+    "text": "Disk Spaces",
+    "label": "ORG"
+  },
+  {
+    "text": "Maintaining & Management",
+    "label": "ORG"
+  },
+  {
+    "text": "Installing & Configuring Network Printers",
+    "label": "ORG"
+  },
+  {
+    "text": "User & Groups",
+    "label": "ORG"
+  },
+  {
+    "text": "Project Routers",
+    "label": "PERSON"
+  },
+  {
+    "text": "Switches",
+    "label": "PERSON"
+  },
+  {
+    "text": "Server Configuration",
+    "label": "ORG"
+  },
+  {
+    "text": "Group Policies\n\nClient Asha MMPC",
+    "label": "ORG"
+  },
+  {
+    "text": "Bali",
+    "label": "GPE"
+  },
+  {
+    "text": "Pali",
+    "label": "PERSON"
+  },
+  {
+    "text": "Rajasthan\n\nType of Project Configuration DPMCU",
+    "label": "ORG"
+  },
+  {
+    "text": "Milknet Server",
+    "label": "PERSON"
+  },
+  {
+    "text": "EMS Server",
+    "label": "ORG"
+  },
+  {
+    "text": "Implementing",
+    "label": "PERSON"
+  },
+  {
+    "text": "Cisco",
+    "label": "GPE"
+  },
+  {
+    "text": "Installation, Configuration and Administration of Windows Servers 2008",
+    "label": "ORG"
+  },
+  {
+    "text": "2012",
+    "label": "DATE"
+  },
+  {
+    "text": "R2,",
+    "label": "EVENT"
+  },
+  {
+    "text": "FTP",
+    "label": "ORG"
+  },
+  {
+    "text": "DNS",
+    "label": "ORG"
+  },
+  {
+    "text": "DHCP",
+    "label": "ORG"
+  },
+  {
+    "text": "TFTP",
+    "label": "ORG"
+  },
+  {
+    "text": "Troubleshooting LAN & WAN",
+    "label": "ORG"
+  },
+  {
+    "text": "Cisco Router",
+    "label": "ORG"
+  },
+  {
+    "text": "Regular Health Checking of File Servers & Application Servers",
+    "label": "ORG"
+  },
+  {
+    "text": "Disk Spaces",
+    "label": "ORG"
+  },
+  {
+    "text": "Maintaining & Management",
+    "label": "ORG"
+  },
+  {
+    "text": "Installing & Configuring Network Printers",
+    "label": "ORG"
+  },
+  {
+    "text": "User & Groups",
+    "label": "ORG"
+  },
+  {
+    "text": "Interface Techno System",
+    "label": "ORG"
+  },
+  {
+    "text": "Switches",
+    "label": "PERSON"
+  },
+  {
+    "text": "Server Configuration",
+    "label": "ORG"
+  },
+  {
+    "text": "Group Policies\n\nClient            The Scindia School",
+    "label": "ORG"
+  },
+  {
+    "text": "Fort",
+    "label": "GPE"
+  },
+  {
+    "text": "Implementing",
+    "label": "PERSON"
+  },
+  {
+    "text": "Cisco",
+    "label": "GPE"
+  },
+  {
+    "text": "Installation, Configuration and Administration of Windows Servers",
+    "label": "ORG"
+  },
+  {
+    "text": "2000/2003, 2008",
+    "label": "DATE"
+  },
+  {
+    "text": "2012",
+    "label": "DATE"
+  },
+  {
+    "text": "Active Directory",
+    "label": "PERSON"
+  },
+  {
+    "text": "FTP",
+    "label": "ORG"
+  },
+  {
+    "text": "DNS",
+    "label": "ORG"
+  },
+  {
+    "text": "DHCP",
+    "label": "ORG"
+  },
+  {
+    "text": "TFTP",
+    "label": "ORG"
+  },
+  {
+    "text": "Linux OS",
+    "label": "PERSON"
+  },
+  {
+    "text": "LAN",
+    "label": "ORG"
+  },
+  {
+    "text": "Cisco Router",
+    "label": "ORG"
+  },
+  {
+    "text": "Regular Health Checking of File Servers & Application Servers",
+    "label": "ORG"
+  },
+  {
+    "text": "Disk Spaces",
+    "label": "ORG"
+  },
+  {
+    "text": "Maintaining & Management",
+    "label": "ORG"
+  },
+  {
+    "text": "7",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "Installing & Configuring Network Printers",
+    "label": "ORG"
+  },
+  {
+    "text": "Software",
+    "label": "ORG"
+  },
+  {
+    "text": "& Utilities",
+    "label": "ORG"
+  },
+  {
+    "text": "Interface Techno System",
+    "label": "ORG"
+  },
+  {
+    "text": "Project           Network Implementation and Configuration\n\nClient            M/s",
+    "label": "ORG"
+  },
+  {
+    "text": "Teva API India Pvt Ltd",
+    "label": "ORG"
+  },
+  {
+    "text": "Implementing",
+    "label": "PERSON"
+  },
+  {
+    "text": "Cisco",
+    "label": "GPE"
+  },
+  {
+    "text": "Installation, Configuration and Administration of Windows Servers",
+    "label": "ORG"
+  },
+  {
+    "text": "2000/2003, 2008",
+    "label": "DATE"
+  },
+  {
+    "text": "2012",
+    "label": "DATE"
+  },
+  {
+    "text": "Active Directory",
+    "label": "PERSON"
+  },
+  {
+    "text": "FTP",
+    "label": "ORG"
+  },
+  {
+    "text": "DNS",
+    "label": "ORG"
+  },
+  {
+    "text": "DHCP",
+    "label": "ORG"
+  },
+  {
+    "text": "TFTP",
+    "label": "ORG"
+  },
+  {
+    "text": "Linux OS",
+    "label": "PERSON"
+  },
+  {
+    "text": "LAN",
+    "label": "ORG"
+  },
+  {
+    "text": "Cisco Router",
+    "label": "ORG"
+  },
+  {
+    "text": "Configuration",
+    "label": "GPE"
+  },
+  {
+    "text": "Maintenance",
+    "label": "PERSON"
+  },
+  {
+    "text": "Point Endpoint Security MI Management Console",
+    "label": "ORG"
+  },
+  {
+    "text": "Regular Health Checking of File Servers & Application Servers",
+    "label": "ORG"
+  },
+  {
+    "text": "Disk Spaces",
+    "label": "ORG"
+  },
+  {
+    "text": "Logging & Monitoring Calls",
+    "label": "ORG"
+  },
+  {
+    "text": "CA Unicenter Service",
+    "label": "ORG"
+  },
+  {
+    "text": "Maintaining & Management",
+    "label": "ORG"
+  },
+  {
+    "text": "XP",
+    "label": "ORG"
+  },
+  {
+    "text": "Installation, Configuration &",
+    "label": "ORG"
+  },
+  {
+    "text": "Microsoft Outlook",
+    "label": "ORG"
+  },
+  {
+    "text": "Installing & Configuring Network Printers",
+    "label": "ORG"
+  },
+  {
+    "text": "Software",
+    "label": "ORG"
+  },
+  {
+    "text": "& Utilities",
+    "label": "ORG"
+  },
+  {
+    "text": "more than 350",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "Symantec",
+    "label": "NORP"
+  },
+  {
+    "text": "12D",
+    "label": "DATE"
+  },
+  {
+    "text": "Monthly",
+    "label": "DATE"
+  },
+  {
+    "text": "MIS",
+    "label": "ORG"
+  },
+  {
+    "text": "Nava Bharat Press",
+    "label": "ORG"
+  },
+  {
+    "text": "Server Management",
+    "label": "ORG"
+  },
+  {
+    "text": "Helpdesk",
+    "label": "PERSON"
+  },
+  {
+    "text": "SLA",
+    "label": "ORG"
+  },
+  {
+    "text": "System Management and Troubleshooting",
+    "label": "ORG"
+  },
+  {
+    "text": "Hardware Troubleshooting\n\n\n\n",
+    "label": "ORG"
+  },
+  {
+    "text": "Qualification & Certifications",
+    "label": "ORG"
+  },
+  {
+    "text": "Computerized",
+    "label": "NORP"
+  },
+  {
+    "text": "Tally ERP9",
+    "label": "ORG"
+  },
+  {
+    "text": "Tally Academy",
+    "label": "ORG"
+  }
+]

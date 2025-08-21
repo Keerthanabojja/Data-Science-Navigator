@@ -1,0 +1,322 @@
+[
+  {
+    "text": "Data Warehousing",
+    "label": "ORG"
+  },
+  {
+    "text": "SAP BODS",
+    "label": "GPE"
+  },
+  {
+    "text": "Oracle 11",
+    "label": "LAW"
+  },
+  {
+    "text": "August 2008 to July 2012",
+    "label": "DATE"
+  },
+  {
+    "text": "Bachelor of Engineering Navi Mumbai Panvel",
+    "label": "ORG"
+  },
+  {
+    "text": "Maharashtra Mumbai University",
+    "label": "ORG"
+  },
+  {
+    "text": "June 2006",
+    "label": "DATE"
+  },
+  {
+    "text": "2007",
+    "label": "DATE"
+  },
+  {
+    "text": "B.E Computer Engineering Navi Mumbai",
+    "label": "ORG"
+  },
+  {
+    "text": "Maharashtra Ryan International School\n\nSAP BO/BODS Developer/Administrator",
+    "label": "ORG"
+  },
+  {
+    "text": "Tata Consultancy Services Limited",
+    "label": "ORG"
+  },
+  {
+    "text": "SAP BP/BODS Developer/Administrator",
+    "label": "ORG"
+  },
+  {
+    "text": "Tata Consultancy - SAP BODS",
+    "label": "PERSON"
+  },
+  {
+    "text": "Less than 1 year months",
+    "label": "DATE"
+  },
+  {
+    "text": "Less than 1 year months",
+    "label": "DATE"
+  },
+  {
+    "text": "SAP",
+    "label": "ORG"
+  },
+  {
+    "text": "Exprience - Less",
+    "label": "ORG"
+  },
+  {
+    "text": "Royal Bank of Canada",
+    "label": "ORG"
+  },
+  {
+    "text": "Developed BODS",
+    "label": "PERSON"
+  },
+  {
+    "text": "Sybase",
+    "label": "ORG"
+  },
+  {
+    "text": "Oracle Database",
+    "label": "ORG"
+  },
+  {
+    "text": "Server Team",
+    "label": "ORG"
+  },
+  {
+    "text": "Data Center",
+    "label": "ORG"
+  },
+  {
+    "text": "Developed BODS",
+    "label": "GPE"
+  },
+  {
+    "text": "SAP R3",
+    "label": "ORG"
+  },
+  {
+    "text": "Implemented Central",
+    "label": "ORG"
+  },
+  {
+    "text": "Tata Consultancy Services Limited",
+    "label": "ORG"
+  },
+  {
+    "text": "five",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "BO 4.0",
+    "label": "PRODUCT"
+  },
+  {
+    "text": "BODS 4.0/4.2",
+    "label": "ORG"
+  },
+  {
+    "text": "DEV/QA/PROD/Standby/DR",
+    "label": "ORG"
+  },
+  {
+    "text": "Apache",
+    "label": "PRODUCT"
+  },
+  {
+    "text": "TCS BaNCS",
+    "label": "ORG"
+  },
+  {
+    "text": "Credence",
+    "label": "ORG"
+  },
+  {
+    "text": "Developed BODS",
+    "label": "GPE"
+  },
+  {
+    "text": "SAP R3",
+    "label": "ORG"
+  },
+  {
+    "text": "Implemented Central",
+    "label": "ORG"
+  },
+  {
+    "text": "BODS",
+    "label": "ORG"
+  },
+  {
+    "text": "Repository",
+    "label": "ORG"
+  },
+  {
+    "text": "Flat File",
+    "label": "ORG"
+  },
+  {
+    "text": "Query",
+    "label": "ORG"
+  },
+  {
+    "text": "Table Comparison",
+    "label": "ORG"
+  },
+  {
+    "text": "History Preserving",
+    "label": "ORG"
+  },
+  {
+    "text": "Validation Transform",
+    "label": "ORG"
+  },
+  {
+    "text": "Deployed BODS",
+    "label": "PERSON"
+  },
+  {
+    "text": "BO",
+    "label": "ORG"
+  },
+  {
+    "text": "Implemented BO Mobile",
+    "label": "ORG"
+  },
+  {
+    "text": "Intelligence",
+    "label": "ORG"
+  },
+  {
+    "text": "BO",
+    "label": "ORG"
+  },
+  {
+    "text": "Trusted",
+    "label": "ORG"
+  },
+  {
+    "text": "Vintela\u00c2",
+    "label": "PERSON"
+  },
+  {
+    "text": "one",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "Standby",
+    "label": "GPE"
+  },
+  {
+    "text": "DR",
+    "label": "GPE"
+  },
+  {
+    "text": "Tata Consultancy Services Limited",
+    "label": "ORG"
+  },
+  {
+    "text": "Tata Capital Financial Services Limited\n\n\n\n",
+    "label": "ORG"
+  },
+  {
+    "text": "five",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "BO 4.0",
+    "label": "PRODUCT"
+  },
+  {
+    "text": "4.0/4.2",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "DEV/QA/PROD/Standby/DR",
+    "label": "ORG"
+  },
+  {
+    "text": "Apache",
+    "label": "PRODUCT"
+  },
+  {
+    "text": "TCS BaNCS",
+    "label": "ORG"
+  },
+  {
+    "text": "Credence",
+    "label": "ORG"
+  },
+  {
+    "text": "BODS",
+    "label": "ORG"
+  },
+  {
+    "text": "Repository",
+    "label": "ORG"
+  },
+  {
+    "text": "Flat File",
+    "label": "ORG"
+  },
+  {
+    "text": "Query",
+    "label": "ORG"
+  },
+  {
+    "text": "Table Comparison",
+    "label": "ORG"
+  },
+  {
+    "text": "Preserving, Validation Transform",
+    "label": "ORG"
+  },
+  {
+    "text": "Deployed BODS",
+    "label": "PERSON"
+  },
+  {
+    "text": "BO Java SDK",
+    "label": "PERSON"
+  },
+  {
+    "text": "BO",
+    "label": "ORG"
+  },
+  {
+    "text": "Implemented BO Mobile",
+    "label": "ORG"
+  },
+  {
+    "text": "Intelligence",
+    "label": "ORG"
+  },
+  {
+    "text": "BO",
+    "label": "ORG"
+  },
+  {
+    "text": "Trusted",
+    "label": "ORG"
+  },
+  {
+    "text": "Vintela",
+    "label": "PERSON"
+  },
+  {
+    "text": "one",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "Standby",
+    "label": "GPE"
+  },
+  {
+    "text": "DR",
+    "label": "GPE"
+  }
+]

@@ -1,0 +1,222 @@
+[
+  {
+    "text": "ALM",
+    "label": "ORG"
+  },
+  {
+    "text": "RTC",
+    "label": "ORG"
+  },
+  {
+    "text": "JIRA",
+    "label": "ORG"
+  },
+  {
+    "text": "AS400",
+    "label": "PRODUCT"
+  },
+  {
+    "text": "SQL",
+    "label": "ORG"
+  },
+  {
+    "text": "HSBC Framework",
+    "label": "FAC"
+  },
+  {
+    "text": "LISA",
+    "label": "ORG"
+  },
+  {
+    "text": "Test Scheduling - Jenkins",
+    "label": "GPE"
+  },
+  {
+    "text": "SharePoint",
+    "label": "ORG"
+  },
+  {
+    "text": "January 2002",
+    "label": "DATE"
+  },
+  {
+    "text": "Bachelor of Engineering Computer Engineering Mumbai",
+    "label": "ORG"
+  },
+  {
+    "text": "MAHARASHTRA",
+    "label": "ORG"
+  },
+  {
+    "text": "Mumbai University",
+    "label": "ORG"
+  },
+  {
+    "text": "January 1999",
+    "label": "DATE"
+  },
+  {
+    "text": "Computer Technology Mumbai",
+    "label": "ORG"
+  },
+  {
+    "text": "MAHARASHTRA",
+    "label": "ORG"
+  },
+  {
+    "text": "Maharashtra State Board of Technical Education",
+    "label": "ORG"
+  },
+  {
+    "text": "Exprience - 25 months",
+    "label": "DATE"
+  },
+  {
+    "text": "Exprience - 25 months",
+    "label": "DATE"
+  },
+  {
+    "text": "MICROSOFT",
+    "label": "ORG"
+  },
+  {
+    "text": "Exprience",
+    "label": "GPE"
+  },
+  {
+    "text": "6 months",
+    "label": "DATE"
+  },
+  {
+    "text": "Exprience - 6 months",
+    "label": "DATE"
+  },
+  {
+    "text": "Exprience - 6 monthsCompany Details",
+    "label": "ORG"
+  },
+  {
+    "text": "HSBC Software India Pvt",
+    "label": "ORG"
+  },
+  {
+    "text": "India",
+    "label": "GPE"
+  },
+  {
+    "text": "Disha Technologies",
+    "label": "ORG"
+  },
+  {
+    "text": "25+",
+    "label": "DATE"
+  },
+  {
+    "text": "India",
+    "label": "GPE"
+  },
+  {
+    "text": "China",
+    "label": "GPE"
+  },
+  {
+    "text": "Malaysia",
+    "label": "GPE"
+  },
+  {
+    "text": "Poland",
+    "label": "GPE"
+  },
+  {
+    "text": "Client & Vendor",
+    "label": "ORG"
+  },
+  {
+    "text": "the \"HSBC Core Banking",
+    "label": "ORG"
+  },
+  {
+    "text": "Conversion",
+    "label": "ORG"
+  },
+  {
+    "text": "Cloud",
+    "label": "PERSON"
+  },
+  {
+    "text": "Digital UI",
+    "label": "ORG"
+  },
+  {
+    "text": "OAT",
+    "label": "ORG"
+  },
+  {
+    "text": "Core",
+    "label": "ORG"
+  },
+  {
+    "text": "UAT",
+    "label": "ORG"
+  },
+  {
+    "text": "Test Automation",
+    "label": "WORK_OF_ART"
+  },
+  {
+    "text": "AS400",
+    "label": "PRODUCT"
+  },
+  {
+    "text": "DevOps",
+    "label": "ORG"
+  },
+  {
+    "text": "Cucumber & Selenium",
+    "label": "ORG"
+  },
+  {
+    "text": "BDD",
+    "label": "ORG"
+  },
+  {
+    "text": "UFT",
+    "label": "ORG"
+  },
+  {
+    "text": "TOSCA",
+    "label": "ORG"
+  },
+  {
+    "text": "CI",
+    "label": "ORG"
+  },
+  {
+    "text": "Jenkins",
+    "label": "GPE"
+  },
+  {
+    "text": "Working on Test Data Management",
+    "label": "ORG"
+  },
+  {
+    "text": "CA TDM",
+    "label": "PRODUCT"
+  },
+  {
+    "text": "Internal HSBC Tool",
+    "label": "ORG"
+  },
+  {
+    "text": "Resource",
+    "label": "ORG"
+  },
+  {
+    "text": "daily",
+    "label": "DATE"
+  },
+  {
+    "text": "monthly 1:1",
+    "label": "DATE"
+  }
+]

@@ -1,0 +1,206 @@
+[
+  {
+    "text": "Tableau",
+    "label": "GPE"
+  },
+  {
+    "text": "SVN",
+    "label": "ORG"
+  },
+  {
+    "text": "Beyond Compare",
+    "label": "ORG"
+  },
+  {
+    "text": "January 2016",
+    "label": "DATE"
+  },
+  {
+    "text": "Gujarat Technological University\n\nSystems Engineer/Hadoop Developer \n\n\n\nSystems Engineer/Hadoop Developer - Tata Consultancy Services",
+    "label": "ORG"
+  },
+  {
+    "text": "Spark",
+    "label": "ORG"
+  },
+  {
+    "text": "Sqoop",
+    "label": "ORG"
+  },
+  {
+    "text": "Hive",
+    "label": "PERSON"
+  },
+  {
+    "text": "Flume",
+    "label": "PERSON"
+  },
+  {
+    "text": "Exprience",
+    "label": "GPE"
+  },
+  {
+    "text": "24",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "American",
+    "label": "NORP"
+  },
+  {
+    "text": "United Healthcare",
+    "label": "ORG"
+  },
+  {
+    "text": "Treatment Pathways & Patient",
+    "label": "ORG"
+  },
+  {
+    "text": "Patient Finder",
+    "label": "ORG"
+  },
+  {
+    "text": "Rare Disease Patient Finder",
+    "label": "WORK_OF_ART"
+  },
+  {
+    "text": "one",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "CDH3",
+    "label": "ORG"
+  },
+  {
+    "text": "20",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "TB",
+    "label": "ORG"
+  },
+  {
+    "text": "10",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "Hadoop",
+    "label": "ORG"
+  },
+  {
+    "text": "Cloudera Hadoop",
+    "label": "PERSON"
+  },
+  {
+    "text": "Healthcare",
+    "label": "ORG"
+  },
+  {
+    "text": "Cloudera",
+    "label": "GPE"
+  },
+  {
+    "text": "Hadoop",
+    "label": "ORG"
+  },
+  {
+    "text": "HDFS",
+    "label": "ORG"
+  },
+  {
+    "text": "Hive Reports",
+    "label": "PERSON"
+  },
+  {
+    "text": "Hive",
+    "label": "PERSON"
+  },
+  {
+    "text": "Monitoring Hadoop",
+    "label": "ORG"
+  },
+  {
+    "text": "HDFS",
+    "label": "ORG"
+  },
+  {
+    "text": "Hive",
+    "label": "ORG"
+  },
+  {
+    "text": "Developed Spark",
+    "label": "PERSON"
+  },
+  {
+    "text": "Scala",
+    "label": "PERSON"
+  },
+  {
+    "text": "RDD/MapReduce",
+    "label": "ORG"
+  },
+  {
+    "text": "Spark",
+    "label": "GPE"
+  },
+  {
+    "text": "Hadoop",
+    "label": "ORG"
+  },
+  {
+    "text": "SparkContext",
+    "label": "ORG"
+  },
+  {
+    "text": "Spark-SQL",
+    "label": "ORG"
+  },
+  {
+    "text": "Data Frames",
+    "label": "ORG"
+  },
+  {
+    "text": "RDD",
+    "label": "ORG"
+  },
+  {
+    "text": "BI",
+    "label": "ORG"
+  },
+  {
+    "text": "TABLEAU",
+    "label": "ORG"
+  },
+  {
+    "text": "HDFS",
+    "label": "ORG"
+  },
+  {
+    "text": "Sqoop",
+    "label": "ORG"
+  },
+  {
+    "text": "ORC & Parquet",
+    "label": "ORG"
+  },
+  {
+    "text": "Achievements\n\n\n\n",
+    "label": "PERSON"
+  },
+  {
+    "text": "TCS Certified Hadoop Developer",
+    "label": "ORG"
+  },
+  {
+    "text": "Ongoing Learning",
+    "label": "PERSON"
+  },
+  {
+    "text": "CCA",
+    "label": "ORG"
+  },
+  {
+    "text": "175",
+    "label": "CARDINAL"
+  }
+]

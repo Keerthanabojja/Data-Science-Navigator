@@ -1,0 +1,330 @@
+[
+  {
+    "text": "LINUX",
+    "label": "PERSON"
+  },
+  {
+    "text": "2012",
+    "label": "DATE"
+  },
+  {
+    "text": "Windows 2000/ XP Tools & Utility Packages SQL* Loader",
+    "label": "LAW"
+  },
+  {
+    "text": "OEM",
+    "label": "ORG"
+  },
+  {
+    "text": "PLSQL Developer,",
+    "label": "ORG"
+  },
+  {
+    "text": "10",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "Oracle 11",
+    "label": "LAW"
+  },
+  {
+    "text": "Oracle 12c",
+    "label": "ORG"
+  },
+  {
+    "text": "January 2011",
+    "label": "DATE"
+  },
+  {
+    "text": "Amravati",
+    "label": "GPE"
+  },
+  {
+    "text": "Maharashtra Amravati University",
+    "label": "ORG"
+  },
+  {
+    "text": "January 2007",
+    "label": "DATE"
+  },
+  {
+    "text": "B.C.A.  Nagpur",
+    "label": "ORG"
+  },
+  {
+    "text": "Maharashtra Nagpur University",
+    "label": "ORG"
+  },
+  {
+    "text": "ORACLE DATABASE ADMINISTRATOR ON LINUX/",
+    "label": "ORG"
+  },
+  {
+    "text": "MICROSOFT",
+    "label": "ORG"
+  },
+  {
+    "text": "4 YEARS",
+    "label": "DATE"
+  },
+  {
+    "text": "Exprience",
+    "label": "GPE"
+  },
+  {
+    "text": "48 months",
+    "label": "DATE"
+  },
+  {
+    "text": "6 months",
+    "label": "DATE"
+  },
+  {
+    "text": "Exprience - Less",
+    "label": "ORG"
+  },
+  {
+    "text": "Less than 1 year months",
+    "label": "DATE"
+  },
+  {
+    "text": "ASM-",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "Exprience - Less",
+    "label": "ORG"
+  },
+  {
+    "text": "February 2015",
+    "label": "DATE"
+  },
+  {
+    "text": "Tieto India Pvt. Ltd.",
+    "label": "ORG"
+  },
+  {
+    "text": "Environmental Components",
+    "label": "ORG"
+  },
+  {
+    "text": "EC",
+    "label": "ORG"
+  },
+  {
+    "text": "Tieto",
+    "label": "GPE"
+  },
+  {
+    "text": "EC",
+    "label": "ORG"
+  },
+  {
+    "text": "Energy Components",
+    "label": "ORG"
+  },
+  {
+    "text": "oil & gas",
+    "label": "ORG"
+  },
+  {
+    "text": "Oracle Database Administration",
+    "label": "ORG"
+  },
+  {
+    "text": "11",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "12c",
+    "label": "DATE"
+  },
+  {
+    "text": "18c",
+    "label": "DATE"
+  },
+  {
+    "text": "Supporting",
+    "label": "GPE"
+  },
+  {
+    "text": "24x7",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "Application",
+    "label": "ORG"
+  },
+  {
+    "text": "Storage and Development Teams",
+    "label": "ORG"
+  },
+  {
+    "text": "Alert",
+    "label": "PERSON"
+  },
+  {
+    "text": "CPU",
+    "label": "ORG"
+  },
+  {
+    "text": "IO",
+    "label": "GPE"
+  },
+  {
+    "text": "Checking the Alert",
+    "label": "PERSON"
+  },
+  {
+    "text": "ORA",
+    "label": "ORG"
+  },
+  {
+    "text": "SR",
+    "label": "ORG"
+  },
+  {
+    "text": "Configuring Backup",
+    "label": "ORG"
+  },
+  {
+    "text": "Installation",
+    "label": "ORG"
+  },
+  {
+    "text": "Oracle",
+    "label": "NORP"
+  },
+  {
+    "text": "Oracle",
+    "label": "ORG"
+  },
+  {
+    "text": "11",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "Oracle Server",
+    "label": "ORG"
+  },
+  {
+    "text": "DBCA",
+    "label": "ORG"
+  },
+  {
+    "text": "Oracle",
+    "label": "NORP"
+  },
+  {
+    "text": "Creating AWR",
+    "label": "WORK_OF_ART"
+  },
+  {
+    "text": "ASH",
+    "label": "ORG"
+  },
+  {
+    "text": "ADDM",
+    "label": "ORG"
+  },
+  {
+    "text": "Oracle",
+    "label": "NORP"
+  },
+  {
+    "text": "Renaming",
+    "label": "PERSON"
+  },
+  {
+    "text": "Oracle",
+    "label": "NORP"
+  },
+  {
+    "text": "Oracle",
+    "label": "NORP"
+  },
+  {
+    "text": "Tnsnames",
+    "label": "PERSON"
+  },
+  {
+    "text": "NETMGR",
+    "label": "ORG"
+  },
+  {
+    "text": "NETCA",
+    "label": "ORG"
+  },
+  {
+    "text": "Managing Oracle Listener",
+    "label": "PERSON"
+  },
+  {
+    "text": "Oracle Network Files",
+    "label": "ORG"
+  },
+  {
+    "text": "Profiles",
+    "label": "ORG"
+  },
+  {
+    "text": "Oracle",
+    "label": "NORP"
+  },
+  {
+    "text": "Maintaining tablespaces & data",
+    "label": "ORG"
+  },
+  {
+    "text": "Online Redo",
+    "label": "PERSON"
+  },
+  {
+    "text": "Oracle",
+    "label": "NORP"
+  },
+  {
+    "text": "AWS",
+    "label": "ORG"
+  },
+  {
+    "text": "EC2",
+    "label": "PRODUCT"
+  },
+  {
+    "text": "S3",
+    "label": "ORG"
+  },
+  {
+    "text": "RDS",
+    "label": "ORG"
+  },
+  {
+    "text": "ELB",
+    "label": "ORG"
+  },
+  {
+    "text": "EBS",
+    "label": "ORG"
+  },
+  {
+    "text": "VPC",
+    "label": "ORG"
+  },
+  {
+    "text": "Route53",
+    "label": "ORG"
+  },
+  {
+    "text": "Cloud Front",
+    "label": "PERSON"
+  },
+  {
+    "text": "IAM",
+    "label": "ORG"
+  },
+  {
+    "text": "Amazon",
+    "label": "ORG"
+  }
+]

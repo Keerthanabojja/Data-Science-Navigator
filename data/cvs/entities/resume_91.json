@@ -1,0 +1,62 @@
+[
+  {
+    "text": "English",
+    "label": "LANGUAGE"
+  },
+  {
+    "text": "Hindi",
+    "label": "PERSON"
+  },
+  {
+    "text": "MS-Office",
+    "label": "ORG"
+  },
+  {
+    "text": "January 2015 to January 2018",
+    "label": "DATE"
+  },
+  {
+    "text": "LLB Law Mumbai",
+    "label": "PERSON"
+  },
+  {
+    "text": "Maharashtra Mumbai university",
+    "label": "ORG"
+  },
+  {
+    "text": "January 2015",
+    "label": "DATE"
+  },
+  {
+    "text": "B.M.M",
+    "label": "ORG"
+  },
+  {
+    "text": "Mumbai",
+    "label": "GPE"
+  },
+  {
+    "text": "Maharashtra S.K.Somaiya College",
+    "label": "ORG"
+  },
+  {
+    "text": "Mumbai University",
+    "label": "ORG"
+  },
+  {
+    "text": "H.S.C",
+    "label": "ORG"
+  },
+  {
+    "text": "Maharashtra Board",
+    "label": "ORG"
+  },
+  {
+    "text": "Maharashtra Board",
+    "label": "ORG"
+  },
+  {
+    "text": "Llb",
+    "label": "PERSON"
+  }
+]

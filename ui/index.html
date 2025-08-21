@@ -1,0 +1,1012 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+ <meta charset="UTF-8">
+ <meta name="viewport" content="width=device-width, initial-scale=1.0">
+ <title>Data Science Navigator – 2025 Edition</title>
+ 
+ <!-- Tailwind CSS CDN -->
+ <script src="https://cdn.tailwindcss.com"></script>
+ 
+ <!-- Chart.js CDN -->
+ <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+ 
+ <!-- Font Awesome for icons -->
+ <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+ 
+ <!-- Custom styles -->
+ <style>
+ .gradient-bg {
+ background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+ }
+ 
+ .card-hover {
+ transition: all 0.3s ease;
+ }
+ 
+ .card-hover:hover {
+ transform: translateY(-5px);
+ box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.1), 0 10px 10px -5px rgba(0, 0, 0, 0.04);
+ }
+ 
+ .upload-area {
+ border: 2px dashed #cbd5e0;
+ transition: all 0.3s ease;
+ }
+ 
+ .upload-area.dragover {
+ border-color: #667eea;
+ background-color: #f7fafc;
+ }
+ 
+ .skill-badge {
+ display: inline-block;
+ padding: 0.5rem 1rem;
+ margin: 0.25rem;
+ border-radius: 9999px;
+ font-size: 0.875rem;
+ font-weight: 500;
+ transition: all 0.3s ease;
+ }
+ 
+ .skill-badge:hover {
+ transform: scale(1.05);
+ }
+ 
+ .loading-spinner {
+ border: 3px solid #f3f3f3;
+ border-top: 3px solid #667eea;
+ border-radius: 50%;
+ width: 40px;
+ height: 40px;
+ animation: spin 1s linear infinite;
+ }
+ 
+ @keyframes spin {
+ 0% { transform: rotate(0deg); }
+ 100% { transform: rotate(360deg); }
+ }
+ 
+ .fade-in {
+ animation: fadeIn 0.5s ease-in;
+ }
+ 
+ @keyframes fadeIn {
+ from { opacity: 0; transform: translateY(20px); }
+ to { opacity: 1; transform: translateY(0); }
+ }
+ 
+ .slide-in {
+ animation: slideIn 0.6s ease-out;
+ }
+ 
+ @keyframes slideIn {
+ from { transform: translateX(-100%); }
+ to { transform: translateX(0); }
+ }
+ </style>
+</head>
+<body class="bg-gray-50 min-h-screen">
+ <!-- Navigation Bar -->
+ <nav class="gradient-bg text-white shadow-lg">
+ <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+ <div class="flex justify-between items-center py-4">
+ <div class="flex items-center space-x-3">
+ <i class="fas fa-chart-line text-2xl"></i>
+ <h1 class="text-2xl font-bold">Data Science Navigator</h1>
+ <span class="bg-white text-purple-600 px-2 py-1 rounded-full text-sm font-semibold">2025 Edition</span>
+ </div>
+ <div class="hidden md:flex items-center space-x-6">
+ <a href="#upload" class="hover:text-purple-200 transition-colors">Upload Resume</a>
+ <a href="#missing-skills" class="hover:text-purple-200 transition-colors">Missing Skills</a>
+ <a href="#in-demand" class="hover:text-purple-200 transition-colors">In-Demand Skills</a>
+ </div>
+ <div class="md:hidden">
+ <button id="mobile-menu-btn" class="text-white">
+ <i class="fas fa-bars text-xl"></i>
+ </button>
+ </div>
+ </div>
+ <!-- Mobile Menu -->
+ <div id="mobile-menu" class="hidden md:hidden pb-4">
+ <div class="flex flex-col space-y-2">
+ <a href="#upload" class="hover:text-purple-200 transition-colors">Upload Resume</a>
+ <a href="#missing-skills" class="hover:text-purple-200 transition-colors">Missing Skills</a>
+ <a href="#in-demand" class="hover:text-purple-200 transition-colors">In-Demand Skills</a>
+ </div>
+ </div>
+ </div>
+ </nav>
+
+ <!-- Main Content -->
+ <main class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
+ <!-- Upload Resume Section -->
+ <section id="upload" class="mb-12 fade-in">
+ <div class="text-center mb-8">
+ <h2 class="text-3xl font-bold text-gray-800 mb-4">
+ <i class="fas fa-upload text-purple-600 mr-3"></i>
+ Upload Your Resume
+ </h2>
+ <p class="text-gray-600 max-w-2xl mx-auto">
+ Upload your resume to analyze your current skills and identify gaps in the data science job market.
+ We support PDF, DOC, and DOCX formats.
+ </p>
+ </div>
+
+ <div class="max-w-2xl mx-auto">
+ <div id="upload-area" class="upload-area rounded-lg p-8 text-center cursor-pointer bg-white shadow-md card-hover">
+ <div id="upload-content">
+ <i class="fas fa-cloud-upload-alt text-4xl text-gray-400 mb-4"></i>
+ <h3 class="text-xl font-semibold text-gray-700 mb-2">Drag & Drop your resume here</h3>
+ <p class="text-gray-500 mb-4">or click to browse files</p>
+ <input type="file" id="file-input" class="hidden" accept=".pdf,.doc,.docx">
+ <button id="browse-btn" class="bg-purple-600 text-white px-6 py-2 rounded-lg hover:bg-purple-700 transition-colors">
+ Browse Files
+ </button>
+ </div>
+ 
+ <div id="upload-progress" class="hidden">
+ <div class="loading-spinner mx-auto mb-4"></div>
+ <p class="text-gray-600">Analyzing your resume...</p>
+ <div class="w-full bg-gray-200 rounded-full h-2 mt-4">
+ <div id="progress-bar" class="bg-purple-600 h-2 rounded-full transition-all duration-300" style="width: 0%"></div>
+ </div>
+ </div>
+ </div>
+
+ <!-- Results Panel -->
+ <div id="results-panel" class="hidden mt-8 bg-white rounded-lg shadow-md p-6 fade-in">
+ <h3 class="text-xl font-semibold text-gray-800 mb-4">
+ <i class="fas fa-check-circle text-green-500 mr-2"></i>
+ Extracted Skills
+ </h3>
+ <div id="extracted-skills" class="flex flex-wrap gap-2"></div>
+ </div>
+ </div>
+ </section>
+
+ <!-- Missing Skills Section -->
+ <section id="missing-skills" class="mb-12 slide-in">
+ <div class="text-center mb-8">
+ <h2 class="text-3xl font-bold text-gray-800 mb-4">
+ <i class="fas fa-exclamation-triangle text-orange-500 mr-3"></i>
+ Missing Skills Analysis
+ </h2>
+ <p class="text-gray-600 max-w-2xl mx-auto">
+ High-demand data science skills categorized by priority. After uploading your resume, we'll show you which skills you're missing to boost your market value.
+ </p>
+ </div>
+
+ <div id="missing-skills-content" class="hidden">
+ <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-6">
+ <div class="bg-white rounded-lg shadow-md p-6 card-hover">
+ <h3 class="text-lg font-semibold text-gray-800 mb-4">High Priority</h3>
+ <div id="high-priority-skills" class="space-y-2"></div>
+ </div>
+ <div class="bg-white rounded-lg shadow-md p-6 card-hover">
+ <h3 class="text-lg font-semibold text-gray-800 mb-4">Medium Priority</h3>
+ <div id="medium-priority-skills" class="space-y-2"></div>
+ </div>
+ <div class="bg-white rounded-lg shadow-md p-6 card-hover">
+ <h3 class="text-lg font-semibold text-gray-800 mb-4">Low Priority</h3>
+ <div id="low-priority-skills" class="space-y-2"></div>
+ </div>
+ </div>
+ </div>
+
+ <div id="missing-skills-placeholder" class="text-center py-12">
+ <i class="fas fa-chart-line text-4xl text-gray-300 mb-4"></i>
+ <p class="text-gray-500 mb-2">High-demand skills are displayed below</p>
+ <p class="text-gray-400 text-sm">Upload your resume to see which skills you're missing</p>
+ <button id="load-sample-data" class="mt-4 bg-purple-600 text-white px-4 py-2 rounded-lg hover:bg-purple-700 transition-colors">
+ <i class="fas fa-play mr-2"></i>
+ Load Sample Data
+ </button>
+ </div>
+ </section>
+
+ <!-- In-Demand Skills Section -->
+ <section id="in-demand" class="mb-12 slide-in">
+ <div class="text-center mb-8">
+ <h2 class="text-3xl font-bold text-gray-800 mb-4">
+ <i class="fas fa-chart-bar text-blue-500 mr-3"></i>
+ In-Demand Skills
+ </h2>
+ <p class="text-gray-600 max-w-2xl mx-auto">
+ Current market demand for data science skills. Sort by demand score to prioritize your learning.
+ </p>
+ </div>
+
+ <div class="bg-white rounded-lg shadow-md p-6">
+ <div class="flex justify-between items-center mb-6">
+ <h3 class="text-xl font-semibold text-gray-800">Skills Demand Chart</h3>
+ <div class="flex space-x-2">
+ <button id="sort-demand" class="bg-blue-600 text-white px-4 py-2 rounded-lg hover:bg-blue-700 transition-colors">
+ Sort by Demand
+ </button>
+ <button id="sort-alphabetical" class="bg-gray-600 text-white px-4 py-2 rounded-lg hover:bg-gray-700 transition-colors">
+ Sort A-Z
+ </button>
+ </div>
+ </div>
+ 
+ <div class="relative h-96">
+ <canvas id="skills-chart"></canvas>
+ </div>
+ 
+ <div id="chart-loading" class="text-center py-12">
+ <div class="loading-spinner mx-auto mb-4"></div>
+ <p class="text-gray-600">Loading skills demand data...</p>
+ </div>
+ </div>
+ </section>
+ </main>
+
+ <!-- Footer -->
+ <footer class="gradient-bg text-white py-8 mt-12">
+ <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
+ <p class="text-lg font-semibold mb-2">MSc Data Science Project – 2025</p>
+ <p class="text-purple-200">Developed by Keerthana</p>
+ <div class="mt-4 flex justify-center space-x-4">
+ <a href="#" class="hover:text-purple-200 transition-colors">
+ <i class="fab fa-github text-xl"></i>
+ </a>
+ <a href="#" class="hover:text-purple-200 transition-colors">
+ <i class="fab fa-linkedin text-xl"></i>
+ </a>
+ </div>
+ </div>
+ </footer>
+
+ <!-- Notification System -->
+ <div id="notification" class="hidden fixed top-4 right-4 z-50 max-w-sm">
+ <div class="bg-white rounded-lg shadow-lg border-l-4 p-4">
+ <div class="flex items-center">
+ <div class="flex-shrink-0">
+ <i id="notification-icon" class="text-xl"></i>
+ </div>
+ <div class="ml-3">
+ <p id="notification-message" class="text-sm font-medium text-gray-900"></p>
+ </div>
+ <div class="ml-auto pl-3">
+ <button id="close-notification" class="text-gray-400 hover:text-gray-600">
+ <i class="fas fa-times"></i>
+ </button>
+ </div>
+ </div>
+ </div>
+ </div>
+
+ <!-- Error Modal -->
+ <div id="error-modal" class="hidden fixed inset-0 bg-black bg-opacity-50 flex items-center justify-center z-50">
+ <div class="bg-white rounded-lg p-6 max-w-md mx-4">
+ <div class="flex items-center mb-4">
+ <i class="fas fa-exclamation-circle text-red-500 text-2xl mr-3"></i>
+ <h3 class="text-lg font-semibold text-gray-800">Error</h3>
+ </div>
+ <p id="error-message" class="text-gray-600 mb-4"></p>
+ <button id="close-error" class="w-full bg-red-600 text-white px-4 py-2 rounded-lg hover:bg-red-700 transition-colors">
+ Close
+ </button>
+ </div>
+ </div>
+
+ <script>
+ // Global variables
+ let skillsChart = null;
+ let skillsData = [];
+ let extractedSkills = [];
+
+ // DOM elements
+ const uploadArea = document.getElementById('upload-area');
+ const fileInput = document.getElementById('file-input');
+ const browseBtn = document.getElementById('browse-btn');
+ const uploadContent = document.getElementById('upload-content');
+ const uploadProgress = document.getElementById('upload-progress');
+ const progressBar = document.getElementById('progress-bar');
+ const resultsPanel = document.getElementById('results-panel');
+ const extractedSkillsContainer = document.getElementById('extracted-skills');
+ const missingSkillsContent = document.getElementById('missing-skills-content');
+ const missingSkillsPlaceholder = document.getElementById('missing-skills-placeholder');
+ const mobileMenuBtn = document.getElementById('mobile-menu-btn');
+ const mobileMenu = document.getElementById('mobile-menu');
+ const errorModal = document.getElementById('error-modal');
+ const errorMessage = document.getElementById('error-message');
+ const closeError = document.getElementById('close-error');
+ const notification = document.getElementById('notification');
+ const notificationMessage = document.getElementById('notification-message');
+ const closeNotification = document.getElementById('close-notification');
+
+ // API base URL
+ const API_BASE = 'http://127.0.0.1:5000';
+
+ // Mock data for testing when API is not available
+ const MOCK_SKILLS_DATA = [
+ { skill: 'Python', demand_score: 0.95 },
+ { skill: 'Machine Learning', demand_score: 0.88 },
+ { skill: 'SQL', demand_score: 0.82 },
+ { skill: 'Data Analysis', demand_score: 0.78 },
+ { skill: 'Deep Learning', demand_score: 0.75 },
+ { skill: 'R', demand_score: 0.65 },
+ { skill: 'Tableau', demand_score: 0.62 },
+ { skill: 'Power BI', demand_score: 0.58 },
+ { skill: 'Apache Spark', demand_score: 0.55 },
+ { skill: 'TensorFlow', demand_score: 0.52 },
+ { skill: 'Docker', demand_score: 0.78 },
+ { skill: 'Kubernetes', demand_score: 0.72 },
+ { skill: 'AWS', demand_score: 0.68 },
+ { skill: 'Azure', demand_score: 0.65 },
+ { skill: 'Google Cloud', demand_score: 0.62 },
+ { skill: 'Scala', demand_score: 0.58 },
+ { skill: 'Java', demand_score: 0.55 },
+ { skill: 'C++', demand_score: 0.48 },
+ { skill: 'Julia', demand_score: 0.42 },
+ { skill: 'Apache Kafka', demand_score: 0.85 }
+ ];
+
+ const MOCK_MISSING_SKILLS = [
+ { skill: 'Apache Kafka', demand_score: 0.85 },
+ { skill: 'Docker', demand_score: 0.78 },
+ { skill: 'Kubernetes', demand_score: 0.72 },
+ { skill: 'AWS', demand_score: 0.68 },
+ { skill: 'Azure', demand_score: 0.65 },
+ { skill: 'Google Cloud', demand_score: 0.62 },
+ { skill: 'Scala', demand_score: 0.58 },
+ { skill: 'Java', demand_score: 0.55 },
+ { skill: 'C++', demand_score: 0.48 },
+ { skill: 'Julia', demand_score: 0.42 }
+ ];
+
+ // Initialize the application
+ document.addEventListener('DOMContentLoaded', function() {
+ console.log('Application initializing...');
+ try {
+ initializeEventListeners();
+ addDebugButton();
+ 
+ // Add a small delay to ensure everything is loaded
+ setTimeout(() => {
+ loadSkillsDemand();
+ // Show high-demand skills by default in missing skills section
+ displayHighDemandSkills();
+ }, 100);
+ 
+ console.log('Application initialized successfully');
+ } catch (error) {
+ console.error('Error during initialization:', error);
+ showError('Failed to initialize application. Please refresh the page.');
+ }
+ });
+
+ function initializeEventListeners() {
+ // File upload events
+ uploadArea.addEventListener('click', () => fileInput.click());
+ browseBtn.addEventListener('click', (e) => {
+ e.stopPropagation();
+ fileInput.click();
+ });
+ fileInput.addEventListener('change', handleFileSelect);
+
+ // Drag and drop events
+ uploadArea.addEventListener('dragover', handleDragOver);
+ uploadArea.addEventListener('dragleave', handleDragLeave);
+ uploadArea.addEventListener('drop', handleDrop);
+
+ // Mobile menu
+ mobileMenuBtn.addEventListener('click', toggleMobileMenu);
+
+ // Chart sorting
+ document.getElementById('sort-demand').addEventListener('click', () => sortChartByDemand());
+ document.getElementById('sort-alphabetical').addEventListener('click', () => sortChartAlphabetical());
+
+ // Sample data button
+ const sampleDataBtn = document.getElementById('load-sample-data');
+ if (sampleDataBtn) {
+ sampleDataBtn.addEventListener('click', loadMockData);
+ }
+
+ // Error modal
+ closeError.addEventListener('click', hideErrorModal);
+ errorModal.addEventListener('click', (e) => {
+ if (e.target === errorModal) hideErrorModal();
+ });
+
+ // Notification system
+ closeNotification.addEventListener('click', hideNotification);
+ notification.addEventListener('click', (e) => {
+ if (e.target === notification) hideNotification();
+ });
+
+ // Smooth scrolling for navigation links
+ document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+ anchor.addEventListener('click', function (e) {
+ e.preventDefault();
+ const target = document.querySelector(this.getAttribute('href'));
+ if (target) {
+ target.scrollIntoView({
+ behavior: 'smooth',
+ block: 'start'
+ });
+ }
+ });
+ });
+ }
+
+ function handleDragOver(e) {
+ e.preventDefault();
+ uploadArea.classList.add('dragover');
+ }
+
+ function handleDragLeave(e) {
+ e.preventDefault();
+ uploadArea.classList.remove('dragover');
+ }
+
+ function handleDrop(e) {
+ e.preventDefault();
+ uploadArea.classList.remove('dragover');
+ const files = e.dataTransfer.files;
+ if (files.length > 0) {
+ handleFile(files[0]);
+ }
+ }
+
+ function handleFileSelect(e) {
+ const file = e.target.files[0];
+ if (file) {
+ handleFile(file);
+ }
+ }
+
+ function handleFile(file) {
+ // Validate file type
+ const allowedTypes = ['application/pdf', 'application/msword', 'application/vnd.openxmlformats-officedocument.wordprocessingml.document'];
+ if (!allowedTypes.includes(file.type)) {
+ showError('Please select a valid file type (PDF, DOC, or DOCX)');
+ return;
+ }
+
+ // Show upload progress
+ uploadContent.classList.add('hidden');
+ uploadProgress.classList.remove('hidden');
+ 
+ // Simulate progress
+ let progress = 0;
+ const progressInterval = setInterval(() => {
+ progress += Math.random() * 15;
+ if (progress > 90) progress = 90;
+ progressBar.style.width = progress + '%';
+ }, 200);
+
+ // Upload file
+ uploadResume(file).then(() => {
+ clearInterval(progressInterval);
+ progressBar.style.width = '100%';
+ setTimeout(() => {
+ uploadProgress.classList.add('hidden');
+ uploadContent.classList.remove('hidden');
+ progressBar.style.width = '0%';
+ }, 500);
+ }).catch(error => {
+ clearInterval(progressInterval);
+ uploadProgress.classList.add('hidden');
+ uploadContent.classList.remove('hidden');
+ progressBar.style.width = '0%';
+ showError(error.message);
+ });
+ }
+
+ async function uploadResume(file) {
+ const formData = new FormData();
+ formData.append('resume', file);
+
+ try {
+ const response = await fetch(`${API_BASE}/upload-resume`, {
+ method: 'POST',
+ body: formData
+ });
+
+ if (!response.ok) {
+ throw new Error(`HTTP error! status: ${response.status}`);
+ }
+
+ const data = await response.json();
+ extractedSkills = data.skills || [];
+ displayExtractedSkills();
+ 
+ // Automatically detect skill gaps
+ await detectSkillGaps();
+ 
+ } catch (error) {
+ console.error('Upload error:', error);
+ throw new Error('Failed to upload resume. Please try again.');
+ }
+ }
+
+ function displayExtractedSkills() {
+ resultsPanel.classList.remove('hidden');
+ extractedSkillsContainer.innerHTML = '';
+ 
+ if (extractedSkills.length === 0) {
+ extractedSkillsContainer.innerHTML = '<p class="text-gray-500">No skills detected in the resume.</p>';
+ return;
+ }
+
+ extractedSkills.forEach(skill => {
+ const badge = document.createElement('span');
+ badge.className = 'skill-badge bg-green-100 text-green-800';
+ badge.textContent = skill;
+ extractedSkillsContainer.appendChild(badge);
+ });
+ }
+
+ async function detectSkillGaps() {
+ console.log('Detecting skill gaps...');
+ try {
+ // Get all available skills (from API or mock data)
+ const allSkills = skillsData.length > 0 ? skillsData : MOCK_SKILLS_DATA;
+ 
+ // Convert extracted skills to lowercase for comparison
+ const userSkills = extractedSkills.map(skill => skill.toLowerCase());
+ 
+ // Find missing skills (skills that user doesn't have)
+ const missingSkills = allSkills.filter(skill => {
+ const skillName = (skill.skill || skill.name || '').toLowerCase();
+ return !userSkills.some(userSkill => 
+ userSkill.includes(skillName) || skillName.includes(userSkill)
+ );
+ });
+ 
+ console.log('User skills:', userSkills);
+ console.log('Missing skills found:', missingSkills.length);
+ 
+ // If API is available, also call it for additional analysis
+ try {
+ const controller = new AbortController();
+ const timeoutId = setTimeout(() => controller.abort(), 10000);
+ 
+ const response = await fetch(`${API_BASE}/detect-gap`, {
+ method: 'POST',
+ headers: {
+ 'Accept': 'application/json',
+ 'Content-Type': 'application/json'
+ },
+ mode: 'cors',
+ body: JSON.stringify({
+ current_skills: extractedSkills
+ }),
+ signal: controller.signal
+ });
+ 
+ clearTimeout(timeoutId);
+ 
+ if (response.ok) {
+ const data = await response.json();
+ console.log('API skill gap detection response:', data);
+ 
+ // Use API response if available, otherwise use our calculated missing skills
+ if (data.missing_skills && data.missing_skills.length > 0) {
+ displayMissingSkills(data.missing_skills);
+ } else {
+ displayMissingSkills(missingSkills);
+ }
+ } else {
+ displayMissingSkills(missingSkills);
+ }
+ } catch (apiError) {
+ console.log('API call failed, using calculated missing skills:', apiError.message);
+ displayMissingSkills(missingSkills);
+ }
+ 
+ console.log('Missing skills displayed successfully');
+ 
+ } catch (error) {
+ console.error('Skill gap detection error:', error);
+ showNotification('Error analyzing skill gaps. Please try again.', 'error');
+ }
+ }
+
+ function displayHighDemandSkills() {
+ missingSkillsPlaceholder.classList.add('hidden');
+ missingSkillsContent.classList.remove('hidden');
+
+ // Clear previous content
+ document.getElementById('high-priority-skills').innerHTML = '';
+ document.getElementById('medium-priority-skills').innerHTML = '';
+ document.getElementById('low-priority-skills').innerHTML = '';
+
+ // Use the skills data (either from API or mock data)
+ const allSkills = skillsData.length > 0 ? skillsData : MOCK_SKILLS_DATA;
+ 
+ if (allSkills.length === 0) {
+ document.getElementById('high-priority-skills').innerHTML = 
+ '<p class="text-gray-500">No skills data available.</p>';
+ return;
+ }
+
+ // Sort skills by demand score
+ const sortedSkills = [...allSkills].sort((a, b) => {
+ const scoreA = parseFloat(a.demand_score || a.score || 0);
+ const scoreB = parseFloat(b.demand_score || b.score || 0);
+ return scoreB - scoreA;
+ });
+
+ sortedSkills.forEach(skill => {
+ const skillElement = createSkillElement(skill);
+ 
+ const demandScore = parseFloat(skill.demand_score || skill.score || 0);
+ 
+ if (demandScore >= 0.7) {
+ document.getElementById('high-priority-skills').appendChild(skillElement);
+ } else if (demandScore >= 0.4) {
+ document.getElementById('medium-priority-skills').appendChild(skillElement);
+ } else {
+ document.getElementById('low-priority-skills').appendChild(skillElement);
+ }
+ });
+ }
+
+ function displayMissingSkills(missingSkills) {
+ missingSkillsPlaceholder.classList.add('hidden');
+ missingSkillsContent.classList.remove('hidden');
+
+ // Clear previous content
+ document.getElementById('high-priority-skills').innerHTML = '';
+ document.getElementById('medium-priority-skills').innerHTML = '';
+ document.getElementById('low-priority-skills').innerHTML = '';
+
+ if (!Array.isArray(missingSkills) || missingSkills.length === 0) {
+ document.getElementById('high-priority-skills').innerHTML = 
+ '<p class="text-gray-500">No missing skills detected!</p>';
+ return;
+ }
+
+ // Sort skills by demand score
+ missingSkills.sort((a, b) => {
+ const scoreA = parseFloat(a.demand_score || a.score || 0);
+ const scoreB = parseFloat(b.demand_score || b.score || 0);
+ return scoreB - scoreA;
+ });
+
+ missingSkills.forEach(skill => {
+ const skillElement = createSkillElement(skill);
+ 
+ const demandScore = parseFloat(skill.demand_score || skill.score || 0);
+ 
+ if (demandScore >= 0.7) {
+ document.getElementById('high-priority-skills').appendChild(skillElement);
+ } else if (demandScore >= 0.4) {
+ document.getElementById('medium-priority-skills').appendChild(skillElement);
+ } else {
+ document.getElementById('low-priority-skills').appendChild(skillElement);
+ }
+ });
+ }
+
+ function createSkillElement(skill) {
+ const div = document.createElement('div');
+ div.className = 'flex justify-between items-center p-3 bg-gray-50 rounded-lg';
+ 
+ const skillName = document.createElement('span');
+ skillName.className = 'font-medium text-gray-800';
+ skillName.textContent = skill.skill || skill.name || 'Unknown Skill';
+ 
+ const demandScore = document.createElement('span');
+ demandScore.className = 'text-sm font-semibold';
+ 
+ // Handle different score formats
+ let score = 0;
+ if (skill.demand_score !== undefined && skill.demand_score !== null) {
+ score = parseFloat(skill.demand_score);
+ } else if (skill.score !== undefined && skill.score !== null) {
+ score = parseFloat(skill.score);
+ }
+ 
+ // Convert to percentage if score is between 0 and 1
+ if (score <= 1) {
+ score = Math.round(score * 100);
+ }
+ 
+ demandScore.textContent = `${score}%`;
+ 
+ if (score >= 70) {
+ demandScore.className += ' text-red-600';
+ } else if (score >= 40) {
+ demandScore.className += ' text-orange-600';
+ } else {
+ demandScore.className += ' text-green-600';
+ }
+ 
+ div.appendChild(skillName);
+ div.appendChild(demandScore);
+ return div;
+ }
+
+ async function loadSkillsDemand() {
+ console.log('Loading skills demand data...');
+ try {
+ const controller = new AbortController();
+ const timeoutId = setTimeout(() => controller.abort(), 10000); // 10 second timeout
+ 
+ const response = await fetch(`${API_BASE}/skills-demand`, {
+ method: 'GET',
+ headers: {
+ 'Accept': 'application/json',
+ 'Content-Type': 'application/json'
+ },
+ mode: 'cors',
+ signal: controller.signal
+ });
+ 
+ clearTimeout(timeoutId);
+ 
+ console.log('Skills demand response status:', response.status);
+ 
+ if (!response.ok) {
+ throw new Error(`HTTP error! status: ${response.status} - ${response.statusText}`);
+ }
+
+ const data = await response.json();
+ console.log('Skills demand response data:', data);
+ 
+ // Handle different possible response formats
+ if (data.skills) {
+ skillsData = data.skills;
+ } else if (Array.isArray(data)) {
+ skillsData = data;
+ } else {
+ skillsData = [];
+ }
+ 
+ document.getElementById('chart-loading').classList.add('hidden');
+ 
+ if (skillsData.length === 0) {
+ throw new Error('No skills data received from API');
+ }
+ 
+ createSkillsChart();
+ console.log('Skills chart created successfully');
+ 
+ } catch (error) {
+ console.error('Skills demand error:', error);
+ 
+ if (error.name === 'AbortError') {
+ console.log('Request timed out, using mock data...');
+ } else if (error.message.includes('Failed to fetch') || error.message.includes('NetworkError')) {
+ console.log('Network error, using mock data...');
+ }
+ 
+ // Use mock data as fallback
+ skillsData = MOCK_SKILLS_DATA;
+ document.getElementById('chart-loading').classList.add('hidden');
+ createSkillsChart();
+ 
+ // Show a less intrusive notification
+ showNotification('API unavailable. Showing sample data for demonstration.', 'info');
+ }
+ }
+
+ function createSkillsChart() {
+ const ctx = document.getElementById('skills-chart').getContext('2d');
+ 
+ // Process data to handle different formats
+ const processedData = skillsData.map(skill => {
+ const skillName = skill.skill || skill.name || 'Unknown';
+ let demandScore = 0;
+ 
+ if (skill.demand_score !== undefined && skill.demand_score !== null) {
+ demandScore = parseFloat(skill.demand_score);
+ } else if (skill.score !== undefined && skill.score !== null) {
+ demandScore = parseFloat(skill.score);
+ }
+ 
+ // Convert to percentage if score is between 0 and 1
+ if (demandScore <= 1) {
+ demandScore = Math.round(demandScore * 100);
+ }
+ 
+ return {
+ skill: skillName,
+ demand_score: demandScore
+ };
+ });
+ 
+ const chartData = {
+ labels: processedData.map(skill => skill.skill),
+ datasets: [{
+ label: 'Demand Score',
+ data: processedData.map(skill => skill.demand_score),
+ backgroundColor: 'rgba(102, 126, 234, 0.8)',
+ borderColor: 'rgba(102, 126, 234, 1)',
+ borderWidth: 1,
+ borderRadius: 4
+ }]
+ };
+
+ skillsChart = new Chart(ctx, {
+ type: 'bar',
+ data: chartData,
+ options: {
+ responsive: true,
+ maintainAspectRatio: false,
+ plugins: {
+ legend: {
+ display: false
+ }
+ },
+ scales: {
+ y: {
+ beginAtZero: true,
+ max: 100,
+ ticks: {
+ callback: function(value) {
+ return value + '%';
+ }
+ }
+ }
+ }
+ }
+ });
+ }
+
+ function sortChartByDemand() {
+ if (!skillsChart) return;
+ 
+ const sortedData = [...skillsData].sort((a, b) => {
+ const scoreA = parseFloat(a.demand_score || a.score || 0);
+ const scoreB = parseFloat(b.demand_score || b.score || 0);
+ return scoreB - scoreA;
+ });
+ updateChart(sortedData);
+ }
+
+ function sortChartAlphabetical() {
+ if (!skillsChart) return;
+ 
+ const sortedData = [...skillsData].sort((a, b) => {
+ const nameA = (a.skill || a.name || '').toLowerCase();
+ const nameB = (b.skill || b.name || '').toLowerCase();
+ return nameA.localeCompare(nameB);
+ });
+ updateChart(sortedData);
+ }
+
+ function updateChart(sortedData) {
+ if (!skillsChart) return;
+ 
+ const processedData = sortedData.map(skill => {
+ const skillName = skill.skill || skill.name || 'Unknown';
+ let demandScore = 0;
+ 
+ if (skill.demand_score !== undefined && skill.demand_score !== null) {
+ demandScore = parseFloat(skill.demand_score);
+ } else if (skill.score !== undefined && skill.score !== null) {
+ demandScore = parseFloat(skill.score);
+ }
+ 
+ // Convert to percentage if score is between 0 and 1
+ if (demandScore <= 1) {
+ demandScore = Math.round(demandScore * 100);
+ }
+ 
+ return {
+ skill: skillName,
+ demand_score: demandScore
+ };
+ });
+ 
+ skillsChart.data.labels = processedData.map(skill => skill.skill);
+ skillsChart.data.datasets[0].data = processedData.map(skill => skill.demand_score);
+ skillsChart.update();
+ }
+
+ function toggleMobileMenu() {
+ mobileMenu.classList.toggle('hidden');
+ }
+
+ function showError(message) {
+ errorMessage.textContent = message;
+ errorModal.classList.remove('hidden');
+ 
+ // Auto-hide error modal after 5 seconds for non-critical errors
+ if (message.includes('API unavailable')) {
+ setTimeout(() => {
+ hideErrorModal();
+ }, 5000);
+ }
+ }
+
+ function hideErrorModal() {
+ errorModal.classList.add('hidden');
+ }
+
+ function showNotification(message, type = 'info') {
+ notificationMessage.textContent = message;
+ notification.classList.remove('hidden');
+ notification.classList.add('bg-blue-500', 'border-blue-600', 'text-white'); // Default to info
+
+ if (type === 'success') {
+ notification.classList.remove('bg-blue-500', 'border-blue-600', 'text-white');
+ notification.classList.add('bg-green-500', 'border-green-600', 'text-white');
+ } else if (type === 'warning') {
+ notification.classList.remove('bg-blue-500', 'border-blue-600', 'text-white');
+ notification.classList.add('bg-yellow-500', 'border-yellow-600', 'text-white');
+ } else if (type === 'error') {
+ notification.classList.remove('bg-blue-500', 'border-blue-600', 'text-white');
+ notification.classList.add('bg-red-500', 'border-red-600', 'text-white');
+ }
+
+ setTimeout(hideNotification, 5000); // Hide after 5 seconds
+ }
+
+ function hideNotification() {
+ notification.classList.add('hidden');
+ }
+
+ // Debug function to test with mock data
+ function loadMockData() {
+ console.log('Loading mock data for testing...');
+ skillsData = MOCK_SKILLS_DATA;
+ document.getElementById('chart-loading').classList.add('hidden');
+ createSkillsChart();
+ 
+ // Simulate extracted skills from a resume
+ extractedSkills = ['Python', 'SQL', 'Data Analysis', 'Machine Learning'];
+ displayExtractedSkills();
+ 
+ // Show missing skills based on the simulated resume
+ detectSkillGaps();
+ 
+ showNotification('Loaded mock data with sample resume skills', 'success');
+ }
+
+ // Test backend connectivity
+ async function testBackendConnection() {
+ try {
+ const response = await fetch(`${API_BASE}/`, {
+ method: 'GET',
+ mode: 'cors',
+ signal: AbortSignal.timeout(5000) // 5 second timeout
+ });
+ console.log('Backend is reachable:', response.status);
+ return true;
+ } catch (error) {
+ console.log('Backend is not reachable:', error.message);
+ return false;
+ }
+ }
+
+ // Add debug button to navigation (only in development)
+ function addDebugButton() {
+ const nav = document.querySelector('nav .max-w-7xl .flex.justify-between');
+ if (nav && window.location.hostname === '127.0.0.1') {
+ const debugBtn = document.createElement('button');
+ debugBtn.className = 'bg-yellow-600 text-white px-3 py-1 rounded text-sm hover:bg-yellow-700 transition-colors';
+ debugBtn.textContent = 'Debug';
+ debugBtn.onclick = loadMockData;
+ nav.appendChild(debugBtn);
+ 
+ // Add backend test button
+ const testBtn = document.createElement('button');
+ testBtn.className = 'bg-green-600 text-white px-3 py-1 rounded text-sm hover:bg-green-700 transition-colors ml-2';
+ testBtn.textContent = 'Test API';
+ testBtn.onclick = async () => {
+ const isAvailable = await testBackendConnection();
+ showNotification(
+ isAvailable ? 'Backend is reachable' : 'Backend is not reachable', 
+ isAvailable ? 'success' : 'error'
+ );
+ };
+ nav.appendChild(testBtn);
+ }
+ }
+
+ // Close mobile menu when clicking outside
+ document.addEventListener('click', function(e) {
+ if (!mobileMenuBtn.contains(e.target) && !mobileMenu.contains(e.target)) {
+ mobileMenu.classList.add('hidden');
+ }
+ });
+ </script>
+</body>
+</html> 

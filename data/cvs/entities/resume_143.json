@@ -1,0 +1,238 @@
+[
+  {
+    "text": "HTML5",
+    "label": "PERSON"
+  },
+  {
+    "text": "CSS3",
+    "label": "PRODUCT"
+  },
+  {
+    "text": "Bootstrap",
+    "label": "ORG"
+  },
+  {
+    "text": "Javascript",
+    "label": "PERSON"
+  },
+  {
+    "text": "Visual Studio,",
+    "label": "ORG"
+  },
+  {
+    "text": "Photoshop",
+    "label": "PRODUCT"
+  },
+  {
+    "text": "January 2015",
+    "label": "DATE"
+  },
+  {
+    "text": "B.E CSE Nagpur",
+    "label": "ORG"
+  },
+  {
+    "text": "Maharashtra G.H.Raisoni College of Engineering",
+    "label": "ORG"
+  },
+  {
+    "text": "October 2009",
+    "label": "DATE"
+  },
+  {
+    "text": "Maharashtra Maharashtra State Board\n\n    College Magazine",
+    "label": "ORG"
+  },
+  {
+    "text": "Designer - Trust Systems",
+    "label": "ORG"
+  },
+  {
+    "text": "Software",
+    "label": "ORG"
+  },
+  {
+    "text": "Exprience",
+    "label": "GPE"
+  },
+  {
+    "text": "28 months",
+    "label": "DATE"
+  },
+  {
+    "text": "Exprience",
+    "label": "GPE"
+  },
+  {
+    "text": "6 months",
+    "label": "DATE"
+  },
+  {
+    "text": "Exprience",
+    "label": "GPE"
+  },
+  {
+    "text": "Less than 1 year months",
+    "label": "DATE"
+  },
+  {
+    "text": "Exprience - Less",
+    "label": "ORG"
+  },
+  {
+    "text": "Trust Systems",
+    "label": "ORG"
+  },
+  {
+    "text": "Software",
+    "label": "ORG"
+  },
+  {
+    "text": "1",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "CBS",
+    "label": "ORG"
+  },
+  {
+    "text": "CBS",
+    "label": "ORG"
+  },
+  {
+    "text": "Trust Systems",
+    "label": "ORG"
+  },
+  {
+    "text": "UI",
+    "label": "ORG"
+  },
+  {
+    "text": "UI",
+    "label": "ORG"
+  },
+  {
+    "text": "50",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "2",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "Loan Bazar",
+    "label": "ORG"
+  },
+  {
+    "text": "MVC",
+    "label": "ORG"
+  },
+  {
+    "text": "CBS",
+    "label": "ORG"
+  },
+  {
+    "text": "UI",
+    "label": "ORG"
+  },
+  {
+    "text": "3",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "Capital Security Bond Application\n\nProject Description: Capital Security Bond Application",
+    "label": "ORG"
+  },
+  {
+    "text": "MVC",
+    "label": "ORG"
+  },
+  {
+    "text": "Roles",
+    "label": "PRODUCT"
+  },
+  {
+    "text": "UI",
+    "label": "ORG"
+  },
+  {
+    "text": "4",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "ASP",
+    "label": "ORG"
+  },
+  {
+    "text": "GSTR",
+    "label": "ORG"
+  },
+  {
+    "text": "GSTR 2",
+    "label": "ORG"
+  },
+  {
+    "text": "UI",
+    "label": "ORG"
+  },
+  {
+    "text": "Dashboard",
+    "label": "PERSON"
+  },
+  {
+    "text": "5",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "UI",
+    "label": "ORG"
+  },
+  {
+    "text": "6",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "1",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "TSR Technology Services",
+    "label": "ORG"
+  },
+  {
+    "text": "2",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "Vidarbha Merchants Urban Co-Op Bank - http://vmcbank.com",
+    "label": "ORG"
+  },
+  {
+    "text": "3",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "4",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "1",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "Jallosh Band - www.jalloshband.com",
+    "label": "PERSON"
+  },
+  {
+    "text": "2",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "An Endeavor Foundation\n\nRoles and Responsibility",
+    "label": "ORG"
+  },
+  {
+    "text": "10MagicalFingers",
+    "label": "CARDINAL"
+  }
+]

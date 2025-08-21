@@ -1,0 +1,246 @@
+[
+  {
+    "text": "Skill Set",
+    "label": "PERSON"
+  },
+  {
+    "text": "Implementing",
+    "label": "GPE"
+  },
+  {
+    "text": "Planning and Implementation",
+    "label": "ORG"
+  },
+  {
+    "text": "Cisco ASA",
+    "label": "ORG"
+  },
+  {
+    "text": "Checkpoint",
+    "label": "PERSON"
+  },
+  {
+    "text": "Fortinet",
+    "label": "ORG"
+  },
+  {
+    "text": "FWSM",
+    "label": "ORG"
+  },
+  {
+    "text": "Zenoss",
+    "label": "PERSON"
+  },
+  {
+    "text": "Solarwinds",
+    "label": "ORG"
+  },
+  {
+    "text": "Cisco",
+    "label": "GPE"
+  },
+  {
+    "text": "Knowledge",
+    "label": "PERSON"
+  },
+  {
+    "text": "Firewall IOS Upgrade",
+    "label": "FAC"
+  },
+  {
+    "text": "SSL",
+    "label": "ORG"
+  },
+  {
+    "text": "Configuration",
+    "label": "GPE"
+  },
+  {
+    "text": "1800, 1900",
+    "label": "DATE"
+  },
+  {
+    "text": "2500",
+    "label": "DATE"
+  },
+  {
+    "text": "2600",
+    "label": "DATE"
+  },
+  {
+    "text": "2800",
+    "label": "DATE"
+  },
+  {
+    "text": "3600",
+    "label": "DATE"
+  },
+  {
+    "text": "Nexus",
+    "label": "ORG"
+  },
+  {
+    "text": "7k",
+    "label": "DATE"
+  },
+  {
+    "text": "Cisco",
+    "label": "GPE"
+  },
+  {
+    "text": "2960",
+    "label": "DATE"
+  },
+  {
+    "text": "3750",
+    "label": "DATE"
+  },
+  {
+    "text": "4500",
+    "label": "DATE"
+  },
+  {
+    "text": "3600",
+    "label": "DATE"
+  },
+  {
+    "text": "Bluecoat Proxy",
+    "label": "ORG"
+  },
+  {
+    "text": "September 2006 to August 2011 Bachelor of Engineering (BE) Electronics Pune",
+    "label": "DATE"
+  },
+  {
+    "text": "Maharashtra A.I.S.S.M.S College of Engineering",
+    "label": "ORG"
+  },
+  {
+    "text": "University of Pune\n\nJuly 2004",
+    "label": "ORG"
+  },
+  {
+    "text": "Maharashtra Sinhgad College",
+    "label": "ORG"
+  },
+  {
+    "text": "University Of Pune\n\nJune",
+    "label": "ORG"
+  },
+  {
+    "text": "March 2004",
+    "label": "DATE"
+  },
+  {
+    "text": "SSC",
+    "label": "ORG"
+  },
+  {
+    "text": "Maharashtra",
+    "label": "NORP"
+  },
+  {
+    "text": "Pune\n\nNetwork and",
+    "label": "ORG"
+  },
+  {
+    "text": "Exprience - 72 months",
+    "label": "DATE"
+  },
+  {
+    "text": "Exprience - 72 months",
+    "label": "DATE"
+  },
+  {
+    "text": "Exprience - 72 months",
+    "label": "DATE"
+  },
+  {
+    "text": "Exprience",
+    "label": "GPE"
+  },
+  {
+    "text": "72 months",
+    "label": "DATE"
+  },
+  {
+    "text": "Cisco",
+    "label": "GPE"
+  },
+  {
+    "text": "Exprience",
+    "label": "GPE"
+  },
+  {
+    "text": "60 months",
+    "label": "DATE"
+  },
+  {
+    "text": "60 months",
+    "label": "DATE"
+  },
+  {
+    "text": "Exprience - Less",
+    "label": "ORG"
+  },
+  {
+    "text": "Less than 1 year months",
+    "label": "DATE"
+  },
+  {
+    "text": "Less than 1 year months",
+    "label": "DATE"
+  },
+  {
+    "text": "Client Shared Network",
+    "label": "ORG"
+  },
+  {
+    "text": "Monitor Datacenter",
+    "label": "PERSON"
+  },
+  {
+    "text": "24",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "7",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "UK",
+    "label": "GPE"
+  },
+  {
+    "text": "India NOC",
+    "label": "ORG"
+  },
+  {
+    "text": "Client",
+    "label": "GPE"
+  },
+  {
+    "text": "Undergo Client",
+    "label": "ORG"
+  },
+  {
+    "text": "Weekly",
+    "label": "DATE"
+  },
+  {
+    "text": "Sungard Availability Services",
+    "label": "ORG"
+  },
+  {
+    "text": "Troubleshoot and Implement Client",
+    "label": "ORG"
+  },
+  {
+    "text": "DNS",
+    "label": "ORG"
+  },
+  {
+    "text": "Management\n\n\n\nSunGard Availability Services",
+    "label": "ORG"
+  }
+]

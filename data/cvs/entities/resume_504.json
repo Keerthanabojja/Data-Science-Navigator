@@ -1,0 +1,362 @@
+[
+  {
+    "text": "Education Details \n\n ",
+    "label": "ORG"
+  },
+  {
+    "text": "B.E Electrical and Electronics Engineering Gulbarga",
+    "label": "ORG"
+  },
+  {
+    "text": "Karnataka VTU",
+    "label": "ORG"
+  },
+  {
+    "text": "Vishweshwariya University",
+    "label": "ORG"
+  },
+  {
+    "text": "Maharashtra Kisanveer",
+    "label": "ORG"
+  },
+  {
+    "text": "Kohlapur University\n\nElectrical Engineer",
+    "label": "ORG"
+  },
+  {
+    "text": "Project Status",
+    "label": "ORG"
+  },
+  {
+    "text": "1",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "Burkena Faso (",
+    "label": "ORG"
+  },
+  {
+    "text": "Africa",
+    "label": "LOC"
+  },
+  {
+    "text": "Completed 2",
+    "label": "ORG"
+  },
+  {
+    "text": "Citrus Processing India",
+    "label": "ORG"
+  },
+  {
+    "text": "Nanded",
+    "label": "GPE"
+  },
+  {
+    "text": "Carlsberg Group",
+    "label": "ORG"
+  },
+  {
+    "text": "Myanmar",
+    "label": "GPE"
+  },
+  {
+    "text": "Yangon",
+    "label": "GPE"
+  },
+  {
+    "text": "Completed 4",
+    "label": "ORG"
+  },
+  {
+    "text": "United Breweries",
+    "label": "ORG"
+  },
+  {
+    "text": "United Breweries",
+    "label": "ORG"
+  },
+  {
+    "text": "Hyderabad",
+    "label": "ORG"
+  },
+  {
+    "text": "6",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "Haldiram Foods Pvt",
+    "label": "ORG"
+  },
+  {
+    "text": "Nagpur",
+    "label": "PERSON"
+  },
+  {
+    "text": "Tetra-Pak India Pvt",
+    "label": "ORG"
+  },
+  {
+    "text": "Amreli",
+    "label": "ORG"
+  },
+  {
+    "text": "Completed 8) U.B",
+    "label": "ORG"
+  },
+  {
+    "text": "United Breweries",
+    "label": "ORG"
+  },
+  {
+    "text": "Rajasthan",
+    "label": "PERSON"
+  },
+  {
+    "text": "Completed \u00e2\u009d\u0096 Handling Activities",
+    "label": "ORG"
+  },
+  {
+    "text": "\u00e2\u009e\u00a2 Review on Process P&ID's",
+    "label": "ORG"
+  },
+  {
+    "text": "Selection of Instrument",
+    "label": "ORG"
+  },
+  {
+    "text": "Material Specifications",
+    "label": "ORG"
+  },
+  {
+    "text": "Electrical",
+    "label": "ORG"
+  },
+  {
+    "text": "Process Flow diagrams & General Electrical Standards",
+    "label": "ORG"
+  },
+  {
+    "text": "Generate",
+    "label": "PERSON"
+  },
+  {
+    "text": "O&M",
+    "label": "ORG"
+  },
+  {
+    "text": "MCC & PLC",
+    "label": "ORG"
+  },
+  {
+    "text": "power & control",
+    "label": "ORG"
+  },
+  {
+    "text": "PCC",
+    "label": "ORG"
+  },
+  {
+    "text": "MCC",
+    "label": "ORG"
+  },
+  {
+    "text": "Power & Control",
+    "label": "ORG"
+  },
+  {
+    "text": "Motors, Protection &",
+    "label": "ORG"
+  },
+  {
+    "text": "CT & PTs",
+    "label": "ORG"
+  },
+  {
+    "text": "Earthing",
+    "label": "PERSON"
+  },
+  {
+    "text": "Analog & Digital Instruments",
+    "label": "ORG"
+  },
+  {
+    "text": "Vendors",
+    "label": "ORG"
+  },
+  {
+    "text": "Technical Alignment",
+    "label": "ORG"
+  },
+  {
+    "text": "Generate Power",
+    "label": "ORG"
+  },
+  {
+    "text": "SLD",
+    "label": "ORG"
+  },
+  {
+    "text": "Cable Tray",
+    "label": "PERSON"
+  },
+  {
+    "text": "Installation, Commissioning & Troubleshooting of MCC, PLC & LT",
+    "label": "ORG"
+  },
+  {
+    "text": "Soft-Starters",
+    "label": "ORG"
+  },
+  {
+    "text": "Programming of Danfoss",
+    "label": "ORG"
+  },
+  {
+    "text": "Vacon",
+    "label": "ORG"
+  },
+  {
+    "text": "Siemens",
+    "label": "ORG"
+  },
+  {
+    "text": "ABB Drives",
+    "label": "ORG"
+  },
+  {
+    "text": "Siemens S7-300",
+    "label": "PRODUCT"
+  },
+  {
+    "text": "1500",
+    "label": "DATE"
+  },
+  {
+    "text": "Installation, Calibration & Troubleshooting",
+    "label": "ORG"
+  },
+  {
+    "text": "Instruments as Pressure & Temperature Transmitter",
+    "label": "ORG"
+  },
+  {
+    "text": "Pneumatic",
+    "label": "ORG"
+  },
+  {
+    "text": "Actuators",
+    "label": "ORG"
+  },
+  {
+    "text": "Modulating",
+    "label": "PERSON"
+  },
+  {
+    "text": "Solenoid",
+    "label": "PERSON"
+  },
+  {
+    "text": "Flow Transmitter",
+    "label": "PERSON"
+  },
+  {
+    "text": "Troubleshooting",
+    "label": "GPE"
+  },
+  {
+    "text": "Engineering Services",
+    "label": "ORG"
+  },
+  {
+    "text": "Maintenance & Operation &",
+    "label": "ORG"
+  },
+  {
+    "text": "Handling Mechanical Maintenance & Service",
+    "label": "ORG"
+  },
+  {
+    "text": "1.5 years",
+    "label": "DATE"
+  },
+  {
+    "text": "Asst",
+    "label": "ORG"
+  },
+  {
+    "text": "ERECTION FIELD",
+    "label": "ORG"
+  },
+  {
+    "text": "22",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "MW Power Plant for Testing and Commissioning, Electrical Maintenance,",
+    "label": "ORG"
+  },
+  {
+    "text": "HT & LT",
+    "label": "ORG"
+  },
+  {
+    "text": "VFD drives & DC",
+    "label": "ORG"
+  },
+  {
+    "text": "Managing Overhauling",
+    "label": "ORG"
+  },
+  {
+    "text": "LT Motors & DC Shunt Motors",
+    "label": "ORG"
+  },
+  {
+    "text": "Panel Switchgears",
+    "label": "PERSON"
+  },
+  {
+    "text": "& Maintenance of Power & Distribution Transformer",
+    "label": "ORG"
+  },
+  {
+    "text": "ACB",
+    "label": "ORG"
+  },
+  {
+    "text": "SF6 Breaker",
+    "label": "PERSON"
+  },
+  {
+    "text": "CT & PT",
+    "label": "ORG"
+  },
+  {
+    "text": "FCBC Panels",
+    "label": "ORG"
+  },
+  {
+    "text": "UPS",
+    "label": "ORG"
+  },
+  {
+    "text": "\u00e2\u009e\u00a2 Protection",
+    "label": "ORG"
+  },
+  {
+    "text": "Microprocessor",
+    "label": "PERSON"
+  },
+  {
+    "text": "Numerical",
+    "label": "ORG"
+  },
+  {
+    "text": "Daily Power",
+    "label": "ORG"
+  },
+  {
+    "text": "monthly",
+    "label": "DATE"
+  }
+]

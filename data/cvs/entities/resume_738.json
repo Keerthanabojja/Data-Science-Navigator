@@ -1,0 +1,342 @@
+[
+  {
+    "text": "11",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "g & 12c Technology",
+    "label": "ORG"
+  },
+  {
+    "text": "Data Pump, RMAN",
+    "label": "ORG"
+  },
+  {
+    "text": "ASM",
+    "label": "ORG"
+  },
+  {
+    "text": "RAC",
+    "label": "ORG"
+  },
+  {
+    "text": "Golden Gate Tools",
+    "label": "FAC"
+  },
+  {
+    "text": "OCC",
+    "label": "ORG"
+  },
+  {
+    "text": "PUTTY",
+    "label": "ORG"
+  },
+  {
+    "text": "SQL Developer",
+    "label": "ORG"
+  },
+  {
+    "text": "Netbackup",
+    "label": "GPE"
+  },
+  {
+    "text": "SCOM",
+    "label": "GPE"
+  },
+  {
+    "text": "VMWare Vsphere Operating Systems",
+    "label": "ORG"
+  },
+  {
+    "text": "6.0",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "6.5",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "UNIX",
+    "label": "ORG"
+  },
+  {
+    "text": "Microsoft WindowsEducation",
+    "label": "ORG"
+  },
+  {
+    "text": "Exprience",
+    "label": "GPE"
+  },
+  {
+    "text": "24 months",
+    "label": "DATE"
+  },
+  {
+    "text": "24 months",
+    "label": "DATE"
+  },
+  {
+    "text": "24 months",
+    "label": "DATE"
+  },
+  {
+    "text": "Exprience",
+    "label": "GPE"
+  },
+  {
+    "text": "24 months",
+    "label": "DATE"
+  },
+  {
+    "text": "Exprience",
+    "label": "GPE"
+  },
+  {
+    "text": "24",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "BNY Mellon",
+    "label": "PERSON"
+  },
+  {
+    "text": "600",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "8",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "Jan 2017",
+    "label": "DATE"
+  },
+  {
+    "text": "130",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "Eagle",
+    "label": "ORG"
+  },
+  {
+    "text": "Capacity Management Upgrades",
+    "label": "ORG"
+  },
+  {
+    "text": "Handling",
+    "label": "PERSON"
+  },
+  {
+    "text": "CPU",
+    "label": "ORG"
+  },
+  {
+    "text": "Dev",
+    "label": "PERSON"
+  },
+  {
+    "text": "Oracle",
+    "label": "NORP"
+  },
+  {
+    "text": "11",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "12c",
+    "label": "DATE"
+  },
+  {
+    "text": "ASM",
+    "label": "ORG"
+  },
+  {
+    "text": "Active Data",
+    "label": "ORG"
+  },
+  {
+    "text": "Data Guard",
+    "label": "ORG"
+  },
+  {
+    "text": "RFS/MRP",
+    "label": "ORG"
+  },
+  {
+    "text": "Archives Management \u00e2\u0080\u00a2 Working",
+    "label": "ORG"
+  },
+  {
+    "text": "Oracle Support",
+    "label": "ORG"
+  },
+  {
+    "text": "daily",
+    "label": "DATE"
+  },
+  {
+    "text": "weekly",
+    "label": "DATE"
+  },
+  {
+    "text": "RMAN",
+    "label": "ORG"
+  },
+  {
+    "text": "RMAN",
+    "label": "ORG"
+  },
+  {
+    "text": "RMAN",
+    "label": "ORG"
+  },
+  {
+    "text": "weekly",
+    "label": "DATE"
+  },
+  {
+    "text": "Database Migrations",
+    "label": "ORG"
+  },
+  {
+    "text": "one",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "RCA",
+    "label": "ORG"
+  },
+  {
+    "text": "Previous Organization: Brose India\n\n",
+    "label": "ORG"
+  },
+  {
+    "text": "24x7",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "DBA",
+    "label": "ORG"
+  },
+  {
+    "text": "Backup of Database",
+    "label": "ORG"
+  },
+  {
+    "text": "Data",
+    "label": "ORG"
+  },
+  {
+    "text": "Database",
+    "label": "PERSON"
+  },
+  {
+    "text": "RMAN",
+    "label": "ORG"
+  },
+  {
+    "text": "Monitoring",
+    "label": "NORP"
+  },
+  {
+    "text": "daily",
+    "label": "DATE"
+  },
+  {
+    "text": "weekly",
+    "label": "DATE"
+  },
+  {
+    "text": "Symantec Netbackup",
+    "label": "ORG"
+  },
+  {
+    "text": "Monitoring OS",
+    "label": "ORG"
+  },
+  {
+    "text": "SCOM\n\n\n\nProject II: Data Center Migration",
+    "label": "ORG"
+  },
+  {
+    "text": "Installation of Oracle 11",
+    "label": "ORG"
+  },
+  {
+    "text": "Linux",
+    "label": "GPE"
+  },
+  {
+    "text": "Incidents / Change / Request",
+    "label": "ORG"
+  },
+  {
+    "text": "Configured RMAN",
+    "label": "PERSON"
+  },
+  {
+    "text": "Dataguard",
+    "label": "ORG"
+  },
+  {
+    "text": "Bachelor of Engineering",
+    "label": "ORG"
+  },
+  {
+    "text": "B.E.",
+    "label": "ORG"
+  },
+  {
+    "text": "Computer Science and Engineering",
+    "label": "ORG"
+  },
+  {
+    "text": "Amravati",
+    "label": "GPE"
+  },
+  {
+    "text": "2014",
+    "label": "DATE"
+  },
+  {
+    "text": "CGPA",
+    "label": "ORG"
+  },
+  {
+    "text": "7.21",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "Yogesh Tikhat",
+    "label": "PERSON"
+  },
+  {
+    "text": "Raj Ahmad",
+    "label": "PERSON"
+  },
+  {
+    "text": "Dreams Aakruti",
+    "label": "PERSON"
+  },
+  {
+    "text": "Kalepadal",
+    "label": "GPE"
+  },
+  {
+    "text": "Hadapsar",
+    "label": "GPE"
+  },
+  {
+    "text": "Pune - 411028",
+    "label": "ORG"
+  },
+  {
+    "text": "cse",
+    "label": "ORG"
+  },
+  {
+    "text": "PAN",
+    "label": "ORG"
+  }
+]

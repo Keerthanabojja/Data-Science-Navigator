@@ -1,0 +1,66 @@
+[
+  {
+    "text": "January 2018",
+    "label": "DATE"
+  },
+  {
+    "text": "M.S. Nutrition and Exercise Physiology",
+    "label": "ORG"
+  },
+  {
+    "text": "New York",
+    "label": "GPE"
+  },
+  {
+    "text": "NY Teachers College",
+    "label": "ORG"
+  },
+  {
+    "text": "Columbia University",
+    "label": "ORG"
+  },
+  {
+    "text": "January 2016",
+    "label": "DATE"
+  },
+  {
+    "text": "B.S. Nutrition and Dietetics Miami",
+    "label": "ORG"
+  },
+  {
+    "text": "FL Florida International University",
+    "label": "ORG"
+  },
+  {
+    "text": "January 2011",
+    "label": "DATE"
+  },
+  {
+    "text": "Microbiology Pune",
+    "label": "PERSON"
+  },
+  {
+    "text": "Maharashtra Abasaheb Garware College\n\nGroup Fitness Instructor",
+    "label": "ORG"
+  },
+  {
+    "text": "India \n\n\n\nGroup Fitness Instructor",
+    "label": "ORG"
+  },
+  {
+    "text": "India",
+    "label": "GPE"
+  },
+  {
+    "text": "Columbia University",
+    "label": "ORG"
+  },
+  {
+    "text": "Columbia Dental School",
+    "label": "ORG"
+  },
+  {
+    "text": "telephonic follow",
+    "label": "PERSON"
+  }
+]

@@ -1,0 +1,414 @@
+[
+  {
+    "text": "TECHNICAL SKILLS Programming Languages",
+    "label": "ORG"
+  },
+  {
+    "text": "Java",
+    "label": "PERSON"
+  },
+  {
+    "text": "JSP",
+    "label": "ORG"
+  },
+  {
+    "text": "Spring Boot",
+    "label": "PERSON"
+  },
+  {
+    "text": "HTML5, CSS3,",
+    "label": "ORG"
+  },
+  {
+    "text": "Bootstrap",
+    "label": "ORG"
+  },
+  {
+    "text": "JavaScript",
+    "label": "ORG"
+  },
+  {
+    "text": "JQuery, Ajax, AngularJs",
+    "label": "PERSON"
+  },
+  {
+    "text": "Suit",
+    "label": "ORG"
+  },
+  {
+    "text": "Sublime Text,",
+    "label": "ORG"
+  },
+  {
+    "text": "7",
+    "label": "DATE"
+  },
+  {
+    "text": "8",
+    "label": "DATE"
+  },
+  {
+    "text": "10",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "Java Developer Certificate",
+    "label": "PERSON"
+  },
+  {
+    "text": "Unanth Technical Institute",
+    "label": "ORG"
+  },
+  {
+    "text": "Java Certificate",
+    "label": "PERSON"
+  },
+  {
+    "text": "Learn",
+    "label": "ORG"
+  },
+  {
+    "text": "Command",
+    "label": "ORG"
+  },
+  {
+    "text": "Udemy",
+    "label": "GPE"
+  },
+  {
+    "text": "January 2018",
+    "label": "DATE"
+  },
+  {
+    "text": "M.C.A",
+    "label": "GPE"
+  },
+  {
+    "text": "Pune",
+    "label": "ORG"
+  },
+  {
+    "text": "Maharashtra Pune University",
+    "label": "ORG"
+  },
+  {
+    "text": "January 2015",
+    "label": "DATE"
+  },
+  {
+    "text": "B.C.A",
+    "label": "ORG"
+  },
+  {
+    "text": "Amravati",
+    "label": "ORG"
+  },
+  {
+    "text": "Maharashtra Amravati University",
+    "label": "ORG"
+  },
+  {
+    "text": "January 2012",
+    "label": "DATE"
+  },
+  {
+    "text": "H.S.C  Amravati",
+    "label": "ORG"
+  },
+  {
+    "text": "Maharashtra Amravati University",
+    "label": "ORG"
+  },
+  {
+    "text": "January 2010",
+    "label": "DATE"
+  },
+  {
+    "text": "Amravati",
+    "label": "GPE"
+  },
+  {
+    "text": "Maharashtra Amravati University",
+    "label": "ORG"
+  },
+  {
+    "text": "Java",
+    "label": "PERSON"
+  },
+  {
+    "text": "Full Stack Java Developer",
+    "label": "PERSON"
+  },
+  {
+    "text": "Less than 1 year months",
+    "label": "DATE"
+  },
+  {
+    "text": "Exprience - Less",
+    "label": "ORG"
+  },
+  {
+    "text": "Less than 1 year months",
+    "label": "DATE"
+  },
+  {
+    "text": "Less than 1 year months",
+    "label": "DATE"
+  },
+  {
+    "text": "java developer",
+    "label": "PERSON"
+  },
+  {
+    "text": "3",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "java servlet",
+    "label": "PERSON"
+  },
+  {
+    "text": "jsp ajax",
+    "label": "PERSON"
+  },
+  {
+    "text": "Core Java",
+    "label": "PERSON"
+  },
+  {
+    "text": "Servlet",
+    "label": "ORG"
+  },
+  {
+    "text": "JSP",
+    "label": "ORG"
+  },
+  {
+    "text": "HTML5",
+    "label": "PERSON"
+  },
+  {
+    "text": "CSS3",
+    "label": "PRODUCT"
+  },
+  {
+    "text": "Bootstrap",
+    "label": "ORG"
+  },
+  {
+    "text": "Javascript",
+    "label": "PERSON"
+  },
+  {
+    "text": "Jquery\n\nAjax",
+    "label": "PERSON"
+  },
+  {
+    "text": "Bootstrap",
+    "label": "ORG"
+  },
+  {
+    "text": "PROJECT DETAILS",
+    "label": "PERSON"
+  },
+  {
+    "text": "1",
+    "label": "MONEY"
+  },
+  {
+    "text": "Sales Billing Softwares",
+    "label": "PERSON"
+  },
+  {
+    "text": "1.5 Months",
+    "label": "DATE"
+  },
+  {
+    "text": "Java",
+    "label": "PERSON"
+  },
+  {
+    "text": "JSP",
+    "label": "ORG"
+  },
+  {
+    "text": "JavaScript",
+    "label": "ORG"
+  },
+  {
+    "text": "Jquery",
+    "label": "PERSON"
+  },
+  {
+    "text": "Ajax",
+    "label": "PERSON"
+  },
+  {
+    "text": "Billing",
+    "label": "GPE"
+  },
+  {
+    "text": "GST Billing",
+    "label": "ORG"
+  },
+  {
+    "text": "Generate",
+    "label": "PERSON"
+  },
+  {
+    "text": "five",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "four",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "2",
+    "label": "MONEY"
+  },
+  {
+    "text": "1 Months",
+    "label": "DATE"
+  },
+  {
+    "text": "Java",
+    "label": "PERSON"
+  },
+  {
+    "text": "JSP",
+    "label": "ORG"
+  },
+  {
+    "text": "JavaScript",
+    "label": "ORG"
+  },
+  {
+    "text": "Jquery",
+    "label": "PERSON"
+  },
+  {
+    "text": "Ajax",
+    "label": "PERSON"
+  },
+  {
+    "text": "2",
+    "label": "MONEY"
+  },
+  {
+    "text": "1.5 Months",
+    "label": "DATE"
+  },
+  {
+    "text": "Java",
+    "label": "PERSON"
+  },
+  {
+    "text": "JSP",
+    "label": "ORG"
+  },
+  {
+    "text": "JavaScript",
+    "label": "ORG"
+  },
+  {
+    "text": "Jquery",
+    "label": "PERSON"
+  },
+  {
+    "text": "Ajax",
+    "label": "PERSON"
+  },
+  {
+    "text": "india",
+    "label": "GPE"
+  },
+  {
+    "text": "OmegaSoft Technologies",
+    "label": "ORG"
+  },
+  {
+    "text": "ISO",
+    "label": "ORG"
+  },
+  {
+    "text": "5 months",
+    "label": "DATE"
+  },
+  {
+    "text": "Java Spring Hibernate",
+    "label": "PERSON"
+  },
+  {
+    "text": "AngularJs",
+    "label": "PERSON"
+  },
+  {
+    "text": "Ajax",
+    "label": "PERSON"
+  },
+  {
+    "text": "BootStrap",
+    "label": "ORG"
+  },
+  {
+    "text": "MVC Architecture and Service",
+    "label": "ORG"
+  },
+  {
+    "text": "Programming",
+    "label": "ORG"
+  },
+  {
+    "text": "Project Module",
+    "label": "PERSON"
+  },
+  {
+    "text": "1",
+    "label": "MONEY"
+  },
+  {
+    "text": "4 Months",
+    "label": "DATE"
+  },
+  {
+    "text": "Java",
+    "label": "PERSON"
+  },
+  {
+    "text": "Hibernate",
+    "label": "PERSON"
+  },
+  {
+    "text": "Angular Js,",
+    "label": "PERSON"
+  },
+  {
+    "text": "Ajax",
+    "label": "PERSON"
+  },
+  {
+    "text": "India",
+    "label": "GPE"
+  },
+  {
+    "text": "12",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "Admin Panel",
+    "label": "ORG"
+  },
+  {
+    "text": "Subscriptions",
+    "label": "PERSON"
+  },
+  {
+    "text": "MVC Architecture and Service",
+    "label": "ORG"
+  },
+  {
+    "text": "Architecture",
+    "label": "ORG"
+  }
+]

@@ -1,0 +1,346 @@
+[
+  {
+    "text": "Project / Program Management \u00e2\u0080\u00a2 Agile / Scrum Management \u00e2\u0080\u00a2 Risk /Client",
+    "label": "ORG"
+  },
+  {
+    "text": "RALLY / IBM TD Platform \u00e2\u0080\u00a2 Python",
+    "label": "ORG"
+  },
+  {
+    "text": "DevOps",
+    "label": "ORG"
+  },
+  {
+    "text": "SAFe - Agile Craft \u00e2\u0080\u00a2 Delivery / Test Management \u00e2\u0080\u00a2 Project /",
+    "label": "ORG"
+  },
+  {
+    "text": "Profit Maximization \u00e2\u0080\u00a2 Internal / External Audits",
+    "label": "ORG"
+  },
+  {
+    "text": "Software Testing / Quality Assurance \u00e2\u0080\u00a2 Visual",
+    "label": "ORG"
+  },
+  {
+    "text": "6.0",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "Conformiq",
+    "label": "PERSON"
+  },
+  {
+    "text": "Crystal Report",
+    "label": "ORG"
+  },
+  {
+    "text": "8.5",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "English",
+    "label": "LANGUAGE"
+  },
+  {
+    "text": "January 2013",
+    "label": "DATE"
+  },
+  {
+    "text": "Harvard",
+    "label": "ORG"
+  },
+  {
+    "text": "January 2004",
+    "label": "DATE"
+  },
+  {
+    "text": "Software Engineering",
+    "label": "ORG"
+  },
+  {
+    "text": "Aptech",
+    "label": "PERSON"
+  },
+  {
+    "text": "January 2001",
+    "label": "DATE"
+  },
+  {
+    "text": "Bachelor of Commerce Commerce Mumbai",
+    "label": "ORG"
+  },
+  {
+    "text": "Maharashtra Mumbai University",
+    "label": "ORG"
+  },
+  {
+    "text": "AT&T",
+    "label": "ORG"
+  },
+  {
+    "text": "Exprience - 63 months",
+    "label": "DATE"
+  },
+  {
+    "text": "Exprience - 6 months",
+    "label": "DATE"
+  },
+  {
+    "text": "Exprience",
+    "label": "GPE"
+  },
+  {
+    "text": "6 months",
+    "label": "DATE"
+  },
+  {
+    "text": "6 months",
+    "label": "DATE"
+  },
+  {
+    "text": "AT&T",
+    "label": "ORG"
+  },
+  {
+    "text": "One",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "AT&T",
+    "label": "ORG"
+  },
+  {
+    "text": "Fixed Price",
+    "label": "ORG"
+  },
+  {
+    "text": "System",
+    "label": "PRODUCT"
+  },
+  {
+    "text": "UAT",
+    "label": "ORG"
+  },
+  {
+    "text": "Agile Methodologies",
+    "label": "ORG"
+  },
+  {
+    "text": "Billing",
+    "label": "ORG"
+  },
+  {
+    "text": "80+",
+    "label": "DATE"
+  },
+  {
+    "text": "iPad & Browser",
+    "label": "ORG"
+  },
+  {
+    "text": "Sales Representatives & Service/Solution",
+    "label": "ORG"
+  },
+  {
+    "text": "Enterprise Products/Solutions",
+    "label": "ORG"
+  },
+  {
+    "text": "AT&T",
+    "label": "ORG"
+  },
+  {
+    "text": "AT&T",
+    "label": "ORG"
+  },
+  {
+    "text": "CRU Billing",
+    "label": "ORG"
+  },
+  {
+    "text": "Schools and Libraries\n\nCXMT: Lets",
+    "label": "ORG"
+  },
+  {
+    "text": "Centrex",
+    "label": "ORG"
+  },
+  {
+    "text": "Manage",
+    "label": "ORG"
+  },
+  {
+    "text": "Transition / Pre-Transition",
+    "label": "ORG"
+  },
+  {
+    "text": "Transition Drill",
+    "label": "PERSON"
+  },
+  {
+    "text": "Forward/Reverse Shadow",
+    "label": "ORG"
+  },
+  {
+    "text": "Reverse Presentation",
+    "label": "PERSON"
+  },
+  {
+    "text": "Transition Documentation &",
+    "label": "ORG"
+  },
+  {
+    "text": "SMP & System Appreciation Document",
+    "label": "ORG"
+  },
+  {
+    "text": "Measure &",
+    "label": "ORG"
+  },
+  {
+    "text": "AT&T",
+    "label": "ORG"
+  },
+  {
+    "text": "Measure",
+    "label": "ORG"
+  },
+  {
+    "text": "Onsite Subcon Index",
+    "label": "ORG"
+  },
+  {
+    "text": "Leakage Index",
+    "label": "ORG"
+  },
+  {
+    "text": "Manage",
+    "label": "ORG"
+  },
+  {
+    "text": "Track",
+    "label": "PERSON"
+  },
+  {
+    "text": "Submit Project Monthly Financials & Invoicing\n\n",
+    "label": "ORG"
+  },
+  {
+    "text": "100%",
+    "label": "PERCENT"
+  },
+  {
+    "text": "Achieve Automation",
+    "label": "GPE"
+  },
+  {
+    "text": "ConformiQ, Selenium & Oscar Tools",
+    "label": "ORG"
+  },
+  {
+    "text": "Manage & Track Work Allocation",
+    "label": "ORG"
+  },
+  {
+    "text": "Resourcing",
+    "label": "GPE"
+  },
+  {
+    "text": "Ensure Monthly Delivery / TL9K Metrics",
+    "label": "ORG"
+  },
+  {
+    "text": "PMR",
+    "label": "ORG"
+  },
+  {
+    "text": "Internal Quality / Security Group",
+    "label": "ORG"
+  },
+  {
+    "text": "SQA",
+    "label": "ORG"
+  },
+  {
+    "text": "Quality Gates",
+    "label": "ORG"
+  },
+  {
+    "text": "Ernst & Young / TL9K Audit",
+    "label": "ORG"
+  },
+  {
+    "text": "weekly",
+    "label": "DATE"
+  },
+  {
+    "text": "Project Health Report",
+    "label": "ORG"
+  },
+  {
+    "text": "Dashboard",
+    "label": "WORK_OF_ART"
+  },
+  {
+    "text": "Prepare",
+    "label": "ORG"
+  },
+  {
+    "text": "Prepare",
+    "label": "ORG"
+  },
+  {
+    "text": "Business Continuity Plan",
+    "label": "ORG"
+  },
+  {
+    "text": "Business Continuity",
+    "label": "ORG"
+  },
+  {
+    "text": "Call Tree",
+    "label": "ORG"
+  },
+  {
+    "text": "Root Cause Analysis",
+    "label": "ORG"
+  },
+  {
+    "text": "Defect Prevention",
+    "label": "ORG"
+  },
+  {
+    "text": "ST",
+    "label": "GPE"
+  },
+  {
+    "text": "UAT",
+    "label": "ORG"
+  },
+  {
+    "text": "Resource Management, Quality, Learning, Security",
+    "label": "ORG"
+  },
+  {
+    "text": "PMO",
+    "label": "ORG"
+  },
+  {
+    "text": "Business Unit",
+    "label": "ORG"
+  },
+  {
+    "text": "Sub-Contractors and Rebadged",
+    "label": "ORG"
+  },
+  {
+    "text": "Ex-AT&T",
+    "label": "ORG"
+  },
+  {
+    "text": "Esaya Software India Pvt Ltd",
+    "label": "ORG"
+  }
+]

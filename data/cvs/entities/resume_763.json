@@ -1,0 +1,326 @@
+[
+  {
+    "text": "HDFS",
+    "label": "ORG"
+  },
+  {
+    "text": "HBase",
+    "label": "ORG"
+  },
+  {
+    "text": "Map Reduce",
+    "label": "PERSON"
+  },
+  {
+    "text": "Sqoop",
+    "label": "ORG"
+  },
+  {
+    "text": "Hive",
+    "label": "PERSON"
+  },
+  {
+    "text": "Spark-Core",
+    "label": "ORG"
+  },
+  {
+    "text": "SQL",
+    "label": "ORG"
+  },
+  {
+    "text": "Informatica Power Center8.x/9.6",
+    "label": "ORG"
+  },
+  {
+    "text": "5.6",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "Windows Family",
+    "label": "PERSON"
+  },
+  {
+    "text": "Linux",
+    "label": "PERSON"
+  },
+  {
+    "text": "Cloudera",
+    "label": "PERSON"
+  },
+  {
+    "text": "M.C.A",
+    "label": "GPE"
+  },
+  {
+    "text": "Pune",
+    "label": "ORG"
+  },
+  {
+    "text": "Pune University",
+    "label": "ORG"
+  },
+  {
+    "text": "Hodoop Developer - PRGX India",
+    "label": "PERSON"
+  },
+  {
+    "text": "PRGX India Private Limited Pune",
+    "label": "ORG"
+  },
+  {
+    "text": "10+\n\n",
+    "label": "DATE"
+  },
+  {
+    "text": "Spark",
+    "label": "GPE"
+  },
+  {
+    "text": "Sqoop",
+    "label": "ORG"
+  },
+  {
+    "text": "Scala",
+    "label": "PERSON"
+  },
+  {
+    "text": "Flume",
+    "label": "LANGUAGE"
+  },
+  {
+    "text": "java",
+    "label": "PERSON"
+  },
+  {
+    "text": "a day to",
+    "label": "DATE"
+  },
+  {
+    "text": "Sqoop",
+    "label": "ORG"
+  },
+  {
+    "text": "\u00e2\u009d\u0096 Sourcing",
+    "label": "PERSON"
+  },
+  {
+    "text": "2",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "PRGX India Private Limited Pune",
+    "label": "ORG"
+  },
+  {
+    "text": "PRGX India Private Limited Pune",
+    "label": "ORG"
+  },
+  {
+    "text": "11",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "HDFS",
+    "label": "ORG"
+  },
+  {
+    "text": "Hive",
+    "label": "PERSON"
+  },
+  {
+    "text": "Sqoop",
+    "label": "ORG"
+  },
+  {
+    "text": "Map Reduce\n\n\n\nProject",
+    "label": "PERSON"
+  },
+  {
+    "text": "Map",
+    "label": "PERSON"
+  },
+  {
+    "text": "Sqoop",
+    "label": "ORG"
+  },
+  {
+    "text": "tabular",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "3",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "PRGX India Private Limited Pune",
+    "label": "ORG"
+  },
+  {
+    "text": "15+\n\n",
+    "label": "DATE"
+  },
+  {
+    "text": "9.5",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "UNIX",
+    "label": "ORG"
+  },
+  {
+    "text": "Pfizer Inc.",
+    "label": "ORG"
+  },
+  {
+    "text": "American",
+    "label": "NORP"
+  },
+  {
+    "text": "New York City",
+    "label": "GPE"
+  },
+  {
+    "text": "Development Data Repository for Pfizer Inc.",
+    "label": "ORG"
+  },
+  {
+    "text": "Etrack",
+    "label": "ORG"
+  },
+  {
+    "text": "RTS",
+    "label": "ORG"
+  },
+  {
+    "text": "GFS",
+    "label": "ORG"
+  },
+  {
+    "text": "GDO",
+    "label": "ORG"
+  },
+  {
+    "text": "OLTP",
+    "label": "ORG"
+  },
+  {
+    "text": "OLTP",
+    "label": "ORG"
+  },
+  {
+    "text": "Development Data Repository",
+    "label": "ORG"
+  },
+  {
+    "text": "OLTP",
+    "label": "ORG"
+  },
+  {
+    "text": "DDR",
+    "label": "ORG"
+  },
+  {
+    "text": "CDSS",
+    "label": "ORG"
+  },
+  {
+    "text": "PRC",
+    "label": "GPE"
+  },
+  {
+    "text": "EDH",
+    "label": "ORG"
+  },
+  {
+    "text": "DDR",
+    "label": "ORG"
+  },
+  {
+    "text": "Informatica",
+    "label": "ORG"
+  },
+  {
+    "text": "Filter",
+    "label": "PERSON"
+  },
+  {
+    "text": "Router",
+    "label": "PERSON"
+  },
+  {
+    "text": "Lookup",
+    "label": "GPE"
+  },
+  {
+    "text": "Aggregators",
+    "label": "ORG"
+  },
+  {
+    "text": "Joiner",
+    "label": "PERSON"
+  },
+  {
+    "text": "Sorters",
+    "label": "NORP"
+  },
+  {
+    "text": "Perform cross Unit and Integration",
+    "label": "ORG"
+  },
+  {
+    "text": "Implemented Change Data Capture",
+    "label": "ORG"
+  },
+  {
+    "text": "SCD",
+    "label": "ORG"
+  },
+  {
+    "text": "Developed Mapplet",
+    "label": "PERSON"
+  },
+  {
+    "text": "Created Sessions & Worklets",
+    "label": "ORG"
+  },
+  {
+    "text": "the Target Database",
+    "label": "ORG"
+  },
+  {
+    "text": "Case Testing",
+    "label": "PERSON"
+  },
+  {
+    "text": "UTC",
+    "label": "ORG"
+  },
+  {
+    "text": "UAT",
+    "label": "ORG"
+  },
+  {
+    "text": "SCD Type1/Type2",
+    "label": "ORG"
+  },
+  {
+    "text": "CDC",
+    "label": "ORG"
+  },
+  {
+    "text": "Jijayi Heights",
+    "label": "GPE"
+  },
+  {
+    "text": "118",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "Narhe",
+    "label": "GPE"
+  },
+  {
+    "text": "411041",
+    "label": "CARDINAL"
+  }
+]

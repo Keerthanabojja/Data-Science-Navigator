@@ -1,0 +1,46 @@
+[
+  {
+    "text": "DOB",
+    "label": "ORG"
+  },
+  {
+    "text": "July 2015 to June 2018",
+    "label": "DATE"
+  },
+  {
+    "text": "Maharashtra Sinhagad institute of technology",
+    "label": "ORG"
+  },
+  {
+    "text": "January 2012",
+    "label": "DATE"
+  },
+  {
+    "text": "DIPLOMA",
+    "label": "ORG"
+  },
+  {
+    "text": "MSBTE",
+    "label": "ORG"
+  },
+  {
+    "text": "MAHARASHTRA",
+    "label": "ORG"
+  },
+  {
+    "text": "January 2010",
+    "label": "DATE"
+  },
+  {
+    "text": "SSC",
+    "label": "ORG"
+  },
+  {
+    "text": "Intelux Electronics Pvt Ltd",
+    "label": "ORG"
+  },
+  {
+    "text": "1",
+    "label": "CARDINAL"
+  }
+]

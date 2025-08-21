@@ -1,0 +1,490 @@
+[
+  {
+    "text": "1",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "2",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "2016 3",
+    "label": "DATE"
+  },
+  {
+    "text": "Strengths",
+    "label": "PERSON"
+  },
+  {
+    "text": "1",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "2",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "3",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "4",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "5",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "6. Fluent",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "English",
+    "label": "LANGUAGE"
+  },
+  {
+    "text": "7",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "ISO",
+    "label": "ORG"
+  },
+  {
+    "text": "ATEX",
+    "label": "ORG"
+  },
+  {
+    "text": "NFPA",
+    "label": "ORG"
+  },
+  {
+    "text": "IEC",
+    "label": "ORG"
+  },
+  {
+    "text": "NEC",
+    "label": "ORG"
+  },
+  {
+    "text": "Shell DEP",
+    "label": "ORG"
+  },
+  {
+    "text": "College Final Year Project:",
+    "label": "ORG"
+  },
+  {
+    "text": "Maharashtra",
+    "label": "ORG"
+  },
+  {
+    "text": "Supervisor",
+    "label": "GPE"
+  },
+  {
+    "text": "Jawaleker",
+    "label": "PERSON"
+  },
+  {
+    "text": "Shegaon",
+    "label": "PERSON"
+  },
+  {
+    "text": "Maharashtra",
+    "label": "ORG"
+  },
+  {
+    "text": "Power Grid network & Operation",
+    "label": "ORG"
+  },
+  {
+    "text": "Regional Power Grid Centre",
+    "label": "ORG"
+  },
+  {
+    "text": "Nagpur",
+    "label": "GPE"
+  },
+  {
+    "text": "India",
+    "label": "GPE"
+  },
+  {
+    "text": "Punjab National Power Training Institute\n\n ",
+    "label": "ORG"
+  },
+  {
+    "text": "Engineering Shegaon",
+    "label": "PERSON"
+  },
+  {
+    "text": "Shegaon",
+    "label": "PERSON"
+  },
+  {
+    "text": "Maharashtra",
+    "label": "ORG"
+  },
+  {
+    "text": "India",
+    "label": "GPE"
+  },
+  {
+    "text": "Niketan Jr. College",
+    "label": "ORG"
+  },
+  {
+    "text": "SSC",
+    "label": "ORG"
+  },
+  {
+    "text": "Chandrapur",
+    "label": "ORG"
+  },
+  {
+    "text": "Skill Details",
+    "label": "PERSON"
+  },
+  {
+    "text": "6 months",
+    "label": "DATE"
+  },
+  {
+    "text": "Exprience",
+    "label": "GPE"
+  },
+  {
+    "text": "Osmoflo Engineering Services Pvt. Ltd.",
+    "label": "ORG"
+  },
+  {
+    "text": "1",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "Electrical Scope",
+    "label": "ORG"
+  },
+  {
+    "text": "Electrical Technical Specification",
+    "label": "ORG"
+  },
+  {
+    "text": "SLD",
+    "label": "ORG"
+  },
+  {
+    "text": "Project Standards",
+    "label": "ORG"
+  },
+  {
+    "text": "2",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "Hazardous Area Classification",
+    "label": "ORG"
+  },
+  {
+    "text": "Earthing and Lightning Protection",
+    "label": "ORG"
+  },
+  {
+    "text": "Substation Equipment",
+    "label": "ORG"
+  },
+  {
+    "text": "Trench",
+    "label": "ORG"
+  },
+  {
+    "text": "Bill",
+    "label": "PERSON"
+  },
+  {
+    "text": "Electrical Equipment and Cable Schedules",
+    "label": "ORG"
+  },
+  {
+    "text": "3",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "Australia",
+    "label": "GPE"
+  },
+  {
+    "text": "06th",
+    "label": "ORDINAL"
+  },
+  {
+    "text": "June 2017 to 20th Aug 2018",
+    "label": "DATE"
+  },
+  {
+    "text": "Residential / Commercial / Industrial Projects:\n\n",
+    "label": "ORG"
+  },
+  {
+    "text": "1",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "Bust Duct",
+    "label": "PERSON"
+  },
+  {
+    "text": "Pune Region",
+    "label": "GPE"
+  },
+  {
+    "text": "2",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "Pune",
+    "label": "LOC"
+  },
+  {
+    "text": "Residential/Commercial/Industrial Projects",
+    "label": "ORG"
+  },
+  {
+    "text": "3",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "4",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "17th July 2012 to 30th May 2017",
+    "label": "DATE"
+  },
+  {
+    "text": "Operation",
+    "label": "FAC"
+  },
+  {
+    "text": "1",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "Prepare Electrical Design Basis",
+    "label": "ORG"
+  },
+  {
+    "text": "Electrical Scope",
+    "label": "ORG"
+  },
+  {
+    "text": "Electrical Technical Specification",
+    "label": "ORG"
+  },
+  {
+    "text": "SLD",
+    "label": "ORG"
+  },
+  {
+    "text": "Project Standards",
+    "label": "ORG"
+  },
+  {
+    "text": "2",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "Review Electrical Drawings",
+    "label": "ORG"
+  },
+  {
+    "text": "Hazardous Area Classification",
+    "label": "ORG"
+  },
+  {
+    "text": "Earthing and Lightning Protection",
+    "label": "ORG"
+  },
+  {
+    "text": "Substation Equipment",
+    "label": "ORG"
+  },
+  {
+    "text": "Trench",
+    "label": "ORG"
+  },
+  {
+    "text": "Bill",
+    "label": "PERSON"
+  },
+  {
+    "text": "Electrical Equipment and Cable Schedules",
+    "label": "ORG"
+  },
+  {
+    "text": "3",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "5 years",
+    "label": "DATE"
+  },
+  {
+    "text": "Excellent Verbal / Written Communication",
+    "label": "ORG"
+  },
+  {
+    "text": "4",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "4+ years",
+    "label": "DATE"
+  },
+  {
+    "text": "NEC",
+    "label": "ORG"
+  },
+  {
+    "text": "IEC",
+    "label": "ORG"
+  },
+  {
+    "text": "CSA",
+    "label": "ORG"
+  },
+  {
+    "text": "ATEX",
+    "label": "ORG"
+  },
+  {
+    "text": "UL",
+    "label": "ORG"
+  },
+  {
+    "text": "NFPA",
+    "label": "ORG"
+  },
+  {
+    "text": "API",
+    "label": "ORG"
+  },
+  {
+    "text": "Electrical Engineering Design",
+    "label": "ORG"
+  },
+  {
+    "text": "5",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "DFMEA",
+    "label": "ORG"
+  },
+  {
+    "text": "Design Modification & Innovation Team",
+    "label": "ORG"
+  },
+  {
+    "text": "6",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "Technical Query",
+    "label": "ORG"
+  },
+  {
+    "text": "Projects",
+    "label": "NORP"
+  },
+  {
+    "text": "7",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "Vendor Development Team",
+    "label": "ORG"
+  },
+  {
+    "text": "SAT",
+    "label": "ORG"
+  },
+  {
+    "text": "1",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "YIBAL - Petroleum Development of OMAN's",
+    "label": "ORG"
+  },
+  {
+    "text": "1st",
+    "label": "ORDINAL"
+  },
+  {
+    "text": "Sept 2011",
+    "label": "DATE"
+  },
+  {
+    "text": "6thMay 2012",
+    "label": "DATE"
+  },
+  {
+    "text": "1",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "Operation & Maintenance of Various Electrical Drives",
+    "label": "ORG"
+  },
+  {
+    "text": "CFBC Boiler",
+    "label": "PERSON"
+  },
+  {
+    "text": "Turbine",
+    "label": "ORG"
+  },
+  {
+    "text": "2",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "Daily Operation & Routine Maintenance",
+    "label": "ORG"
+  },
+  {
+    "text": "AC Switch-yard",
+    "label": "ORG"
+  },
+  {
+    "text": "1",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "100",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "MW Power Plant",
+    "label": "ORG"
+  },
+  {
+    "text": "2",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "3 months",
+    "label": "DATE"
+  },
+  {
+    "text": "Centre",
+    "label": "GPE"
+  },
+  {
+    "text": "JM Road",
+    "label": "ORG"
+  }
+]

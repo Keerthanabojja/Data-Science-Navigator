@@ -1,0 +1,234 @@
+[
+  {
+    "text": "MS SQL SERVER 2000/2005/2008 & 2012",
+    "label": "ORG"
+  },
+  {
+    "text": "2014",
+    "label": "DATE"
+  },
+  {
+    "text": "2008",
+    "label": "DATE"
+  },
+  {
+    "text": "12",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "Performance Monitor",
+    "label": "PERSON"
+  },
+  {
+    "text": "SQL",
+    "label": "ORG"
+  },
+  {
+    "text": "Barclays Technology Centre India",
+    "label": "ORG"
+  },
+  {
+    "text": "Size",
+    "label": "PERSON"
+  },
+  {
+    "text": "24",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "Barclays Technology",
+    "label": "ORG"
+  },
+  {
+    "text": "UK",
+    "label": "GPE"
+  },
+  {
+    "text": "retail & invest bank",
+    "label": "ORG"
+  },
+  {
+    "text": "300 years of old",
+    "label": "DATE"
+  },
+  {
+    "text": "40",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "approximately 120",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "000",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "four",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "Personal & Corporate",
+    "label": "ORG"
+  },
+  {
+    "text": "Corporate Banking, Wealth & Investment Management",
+    "label": "ORG"
+  },
+  {
+    "text": "Barclaycard",
+    "label": "GPE"
+  },
+  {
+    "text": "Investment Banking",
+    "label": "ORG"
+  },
+  {
+    "text": "Troubleshoooting",
+    "label": "ORG"
+  },
+  {
+    "text": "Resolving Blocking",
+    "label": "ORG"
+  },
+  {
+    "text": "the weekend",
+    "label": "DATE"
+  },
+  {
+    "text": "weekly",
+    "label": "DATE"
+  },
+  {
+    "text": "weekend",
+    "label": "DATE"
+  },
+  {
+    "text": "Kakatiya University Board",
+    "label": "ORG"
+  },
+  {
+    "text": "SQL",
+    "label": "ORG"
+  },
+  {
+    "text": "Exprience",
+    "label": "GPE"
+  },
+  {
+    "text": "months",
+    "label": "DATE"
+  },
+  {
+    "text": "Exprience",
+    "label": "GPE"
+  },
+  {
+    "text": "48 months",
+    "label": "DATE"
+  },
+  {
+    "text": "48 months",
+    "label": "DATE"
+  },
+  {
+    "text": "Exprience",
+    "label": "GPE"
+  },
+  {
+    "text": "Installation",
+    "label": "ORG"
+  },
+  {
+    "text": "Infotech Pvt Ltd",
+    "label": "ORG"
+  },
+  {
+    "text": "Accord Fintech",
+    "label": "PRODUCT"
+  },
+  {
+    "text": "Sanpada",
+    "label": "ORG"
+  },
+  {
+    "text": "Sep 2008",
+    "label": "EVENT"
+  },
+  {
+    "text": "2013",
+    "label": "DATE"
+  },
+  {
+    "text": "2012",
+    "label": "DATE"
+  },
+  {
+    "text": "Database Backup",
+    "label": "ORG"
+  },
+  {
+    "text": "Detach",
+    "label": "PERSON"
+  },
+  {
+    "text": "Disaster Recovery",
+    "label": "ORG"
+  },
+  {
+    "text": "DMV",
+    "label": "ORG"
+  },
+  {
+    "text": "DR",
+    "label": "GPE"
+  },
+  {
+    "text": "Jobs",
+    "label": "LOC"
+  },
+  {
+    "text": "Creating and Maintaining of Maintenance Plan",
+    "label": "WORK_OF_ART"
+  },
+  {
+    "text": "MS SQL Server Security",
+    "label": "ORG"
+  },
+  {
+    "text": "Implementation of Log Shipping",
+    "label": "ORG"
+  },
+  {
+    "text": "Performance Monitor",
+    "label": "PERSON"
+  },
+  {
+    "text": "SQL Profiler Query Analyzer",
+    "label": "ORG"
+  },
+  {
+    "text": "sql Instances",
+    "label": "ORG"
+  },
+  {
+    "text": "Database",
+    "label": "PERSON"
+  },
+  {
+    "text": "DTS",
+    "label": "ORG"
+  },
+  {
+    "text": "Maintaining",
+    "label": "NORP"
+  },
+  {
+    "text": "SQL",
+    "label": "ORG"
+  },
+  {
+    "text": "Event Viewer",
+    "label": "PERSON"
+  }
+]

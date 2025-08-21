@@ -1,0 +1,158 @@
+[
+  {
+    "text": "7",
+    "label": "DATE"
+  },
+  {
+    "text": "10",
+    "label": "DATE"
+  },
+  {
+    "text": "Tools/Packages Visual Basic",
+    "label": "ORG"
+  },
+  {
+    "text": "6.0",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "UML",
+    "label": "ORG"
+  },
+  {
+    "text": "Tracer Web",
+    "label": "PERSON"
+  },
+  {
+    "text": "Advance java",
+    "label": "PERSON"
+  },
+  {
+    "text": "JSP",
+    "label": "ORG"
+  },
+  {
+    "text": "Hibernate",
+    "label": "PERSON"
+  },
+  {
+    "text": "Spring Languages",
+    "label": "GPE"
+  },
+  {
+    "text": "C++ Databases",
+    "label": "PERSON"
+  },
+  {
+    "text": "Software Development \u00e2\u0080\u00a2 Programming Academic Projects Details",
+    "label": "ORG"
+  },
+  {
+    "text": "GSM",
+    "label": "ORG"
+  },
+  {
+    "text": "Windows XP Technologies",
+    "label": "ORG"
+  },
+  {
+    "text": "6.0",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "9i",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "Windows 7 Technologies Used Frontend",
+    "label": "ORG"
+  },
+  {
+    "text": "Oracle",
+    "label": "PERSON"
+  },
+  {
+    "text": "10",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "Random Printing Algo",
+    "label": "ORG"
+  },
+  {
+    "text": "Windows 10 Technologies",
+    "label": "ORG"
+  },
+  {
+    "text": "Java Backend",
+    "label": "PERSON"
+  },
+  {
+    "text": "Windows 10 Technologies",
+    "label": "ORG"
+  },
+  {
+    "text": "June 2015 to February 2018",
+    "label": "DATE"
+  },
+  {
+    "text": "Pune",
+    "label": "ORG"
+  },
+  {
+    "text": "Maharashtra Savitribai",
+    "label": "ORG"
+  },
+  {
+    "text": "Pune University",
+    "label": "ORG"
+  },
+  {
+    "text": "2007",
+    "label": "DATE"
+  },
+  {
+    "text": "S.S.C.",
+    "label": "GPE"
+  },
+  {
+    "text": "Solapur",
+    "label": "GPE"
+  },
+  {
+    "text": "Maharashtra Maharashtra Secondary Board",
+    "label": "ORG"
+  },
+  {
+    "text": "Java Developer",
+    "label": "PERSON"
+  },
+  {
+    "text": "Java Developer",
+    "label": "PERSON"
+  },
+  {
+    "text": "6 months",
+    "label": "DATE"
+  },
+  {
+    "text": "Less than 1 year months",
+    "label": "DATE"
+  },
+  {
+    "text": "Less than 1 year months",
+    "label": "DATE"
+  },
+  {
+    "text": "1",
+    "label": "CARDINAL"
+  },
+  {
+    "text": "Hibernate",
+    "label": "PERSON"
+  },
+  {
+    "text": "JSP",
+    "label": "ORG"
+  }
+]
